@@ -30,7 +30,7 @@ public $styleSheets = array();
 public $fontfiles = array();
 ``` 
 
-- sucht weiter nach folgender Zeile:
+- sucht weiter nach folgender Zeile [322](classes/plugins/ngpluginlayout/ngpluginlayout.php#L322):
 
 ```php
 /**
