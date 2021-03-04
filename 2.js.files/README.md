@@ -32,20 +32,10 @@ Anleitung:
 {/foreach}
 <script>
     $(document).ready(function () {
-        {
-            foreach
-            $javascripts
-            as
-            $id => $javascript
-        }
-        {
-            if $id !== 'jquery'}
-        $.getScript("{$javascript|escape}");
-        {
-            /if}{/
-            foreach
-        }
-    });
+        {foreach $javascripts as $id => $javascript}
+        {if $id !== 'jquery' } $.getScript("{$javascript|escape}");{/if}
+            {/foreach}
+            });
 </script>
 ```
 
