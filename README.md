@@ -55,7 +55,7 @@ Anleitung:
 ```
 - speichert & schliesst die Datei
 - öffnet jetzt im gleichen Verzeichnis die Datei footer.tpl
-- fügt jetzt die folgenden Zeilen vor dem </body> Tag ein
+- fügt jetzt die folgenden Zeilen vor dem &lt;/body&gt; Tag ein
 ```html
 {foreach $javascripts as $id=>$javascript}
 	{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- START-NGCON [{$id|escape}] -->{/if}
