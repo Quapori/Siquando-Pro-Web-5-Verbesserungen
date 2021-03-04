@@ -9,7 +9,7 @@ einbinden & optimieren.
 Anleitung:
 
 - auf eurem Server wechselt ihr in folgendes Verzeichnis eurer Siquando Installation: classes/model/simple/templates/
-- öffnet die Datei header.tpl
+- öffnet die Datei [header.tpl](classes/model/simple/templates/header.tpl)
 - sucht & entfernt folgende Zeilen:
 
 ```html
@@ -19,7 +19,7 @@ Anleitung:
 ```
 
 - speichert & schliesst die Datei
-- öffnet jetzt im gleichen Verzeichnis die Datei footer.tpl
+- öffnet jetzt im gleichen Verzeichnis die Datei [footer.tpl](classes/model/simple/templates/footer.tpl)
 - fügt jetzt die folgenden Zeilen vor dem &lt;/body&gt; Tag ein
 
 ```html
