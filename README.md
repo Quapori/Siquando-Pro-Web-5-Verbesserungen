@@ -5,6 +5,9 @@
 > Dies kann erreicht werden wenn man im Menü auf Datei -> Webseiten-Eigenschaften die Häkchen bei Code optimieren deaktiviert/aktiviert.
 
 ### 1. jQuery Version 2.2.4 mit 4 Schwachstellen
+
+[Anleitung](./jquery.js.md)
+
 um dies zu beheben wird eine aktuelle jQuery Version benötigt.
 Einfach die minimierte jQuery Datei herunterladen. Ich verwende v3.5.1
 
