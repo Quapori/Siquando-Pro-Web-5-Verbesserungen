@@ -26,6 +26,15 @@
 		<link rel="apple-touch-icon{if $touchiconprecomposed}-precomposed{/if}" {if $size!==''}sizes="{$size}" {/if}href="{$url|escape}" />
 {/foreach}
 {/if}
+{*
+Start neuer Codeschnipsel
+*}
+{foreach $fontfiles as $font}
+	<link rel="preload" href="{$font}" as="font" type="font/woff" crossorigin>
+{/foreach}
+{*
+Ende neuer Codeschnipsel
+*}
 {foreach $metatags as $id => $value}
 {if substr($id,0,6)!=='w2dng.'}
 {if substr($id,0,3)=='og:'}
@@ -36,7 +45,7 @@
 {/if}
 {/foreach}
 		{*
-		Start neuer Codeschnipsel
+		Start Block von 3. Anleitung
 		*}
 <style>
 	{foreach $ stylesheets as $ stylesheet}
@@ -51,15 +60,14 @@
 	{/if}
 </style>
 		{*
-		Ende neuer Codeschnipsel
+		Ende Block von 3. Anleitung
 		*}
 
 		{*
-		Block 1 entfernen
+		Dieser Block wurde in der 3. Anleitung entfernt
 {foreach $stylesheets as $stylesheet}
 <link rel="stylesheet" href="{$stylesheet|escape}" />
 {/foreach}
-
 		*}
 		{*
 		Dieser Block wurde in der 2. Anleitung entfernt
@@ -71,7 +79,7 @@
 {/foreach}
 		*}
 		{*
-		Block 2 entfernen
+		Dieser Block wurde in der 3. Anleitung entfernt
 {if (count($styles) > 0)}
 		<style>
 		<!--

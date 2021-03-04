@@ -40,7 +40,7 @@
 <link rel="stylesheet" href="{$stylesheet|escape}" />
 {/foreach}
 {*
-	Dieser Block kann entfernt werden. Es dient nur Darstellung dieser Anleitung
+	Start Block zum entfernen
 *}
 {foreach $javascripts as $id=>$javascript}
 	{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- START-NGCON [{$id|escape}] -->{/if}
@@ -48,7 +48,7 @@
 	{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- END-NGCON -->{/if}
 {/foreach}
 {*
-	Hier endet der Block
+	Ende Block zum entfernen
 *}
 {if (count($styles) > 0)}
 <style>
