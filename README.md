@@ -42,7 +42,7 @@ $(window).on('load', function() {});
 je nach Verwendung von Absatztypen werden mitunter auch weitere Javascripte (JS) eingebunden.   
 Diese werden alle einzelnd in den Quellcode hinzugefügt. Besser wäre es diese in einer Datei zusammenzufassen.
 
->Meine Not-Lösung dazu ist die Verwendung der .getScript() Funktion von jQery.
+>Meine Not-Lösung dazu ist die Verwendung der .getScript() Funktion von jQuery.
 
 Anleitung:
 - navigiert auf dem Server zu folgendem Pfad: classes/model/simple/templates/
@@ -55,7 +55,7 @@ Anleitung:
 ```
 - speichert & schliesst die Datei
 - öffnet jetzt im gleichen Verzeichnis die Datei footer.tpl
-- fügt jetzt die folgende Zeilen vor dem </bod> Tag ein
+- fügt jetzt die folgenden Zeilen vor dem </body> Tag ein
 ```html
 {foreach $javascripts as $id=>$javascript}
 	{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- START-NGCON [{$id|escape}] -->{/if}
