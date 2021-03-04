@@ -1,5 +1,7 @@
 ### 1. jQuery Version 2.2.4 mit 4 Schwachstellen
-jQuery bekommt nur noch selten Updates, aber wenn eins veröffentlicht wird, ist es normalerweise wichtig. Siquando Pro Web 5 nutzt die Version 2.2.4, diese Version hat [4 Schwachstellen](https://snyk.io/test/npm/jquery/2.2.4) und sollte aktualisiert werden.
+jQuery bekommt nur noch selten Updates, aber wenn eins veröffentlicht wird, ist es normalerweise wichtig. 
+Siquando Pro Web 5 nutzt die Version 2.2.4, diese Version hat [4 Schwachstellen](https://snyk.io/test/npm/jquery/2.2.4) und sollte 
+aktualisiert werden.
 
 Ich verwende v3.5.1
 
@@ -8,16 +10,17 @@ Downloads:
 ](https://developers.google.com/speed/libraries#jquery)
 
 Verbindet euch per ftp/sftp oder ssh, mit dem Server wo euer Siquando Projekt installiert wurde.
-Navigiert zu dem Installations-Pfad und öffnet dort den Ordner:
 
+- auf eurem Server wechselt ihr in folgendes Verzeichnis eurer Siquando Installation:
+  
 /js
 
 hier findet ihr 2 Dateien:
 - jquery.color.js
 - jquery.js
 
-Jetzt müsst ihr die *jquery.js* umbenennen z. Bsp. *jqery.2.2.4.js*   
-Danach könnt ihr die neue jquery Datei hochladen und in jqery.js umbennennen.
+Jetzt müsst ihr die *jquery.js* umbenennen z. Bsp. *jquery.2.2.4.js*   
+Danach könnt ihr die neue jquery Datei hochladen und in jquery.js umbennennen.
 
 >Jetzt kann es sein das ein paar Funktionen auf eurer Webseite nicht korrekt ausgeführt werden.
 

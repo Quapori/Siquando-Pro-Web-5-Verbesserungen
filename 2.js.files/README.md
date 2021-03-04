@@ -5,7 +5,7 @@ Diese werden alle einzelnd in den _&lt;head&gt;_ des Quellcodes hinzugefügt. Al
 >Meine Not-Lösung dazu ist die Verwendung der .getScript() Funktion von jQuery.
 
 Anleitung:
-- navigiert auf dem Server zu folgendem Pfad: classes/model/simple/templates/
+- auf eurem Server wechselt ihr in folgendes Verzeichnis eurer Siquando Installation: classes/model/simple/templates/
 - öffnet die Datei header.tpl
 - sucht & entfernt folgende Zeilen:
 ```html
