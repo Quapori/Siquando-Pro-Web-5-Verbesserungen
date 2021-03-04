@@ -6,7 +6,7 @@ Anleitung:
 
 - navigiert auf dem Server zu folgendem Pfad: classes/plugins/ngpluginlayout
 - öffnet die Datei [ngpluginlayout.php](classes/plugins/ngpluginlayout/ngpluginlayout.php)
-- fügt unter folgender Zeile:
+- fügt unter folgender Zeile [28](classes/plugins/ngpluginlayout/ngpluginlayout.php#L28):
 
 ```php
 /**
@@ -71,7 +71,7 @@ if (file_exists(NGUtil::prependRootPath('classes/plugins/ngplugintypography/font
 }
 ```
 
-- jetzt sucht ihr diese Zeilen:
+- jetzt sucht ihr diese Zeilen [352](classes/plugins/ngpluginlayout/ngpluginlayout.php#L352):
 
 ```php
 public function setDefaultVariables() {
@@ -101,7 +101,7 @@ $this->template->assign('fontfiles', $this->fontfiles);
 - speichert & schliesst die Datei
 - navigiert auf dem Server zu folgendem Pfad: classes/model/simple/templates/
 - öffnet die Datei [header.tpl](classes/model/simple/templates/header.tpl)
-- sucht folgenden Zeilen:
+- sucht folgenden Zeilen [28](classes/model/simple/templates/header.tpl#L28):
 
 ```html
 {if isset($touchicons)}
