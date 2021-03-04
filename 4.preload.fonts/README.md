@@ -9,12 +9,6 @@ Anleitung:
 - fügt unter folgender Zeile [28](classes/plugins/ngpluginlayout/ngpluginlayout.php#L28):
 
 ```php
-/**
-*
-* Array with links to style sheets
-*
-* @var Array
-*/
 public $styleSheets = array();
 ``` 
 
@@ -33,9 +27,6 @@ public $fontfiles = array();
 - sucht weiter nach folgender Zeile [322](classes/plugins/ngpluginlayout/ngpluginlayout.php#L322):
 
 ```php
-/**
-* Append all web fonts
-*/
 public function appendWebFonts() {
 	$fontutil = NGFontUtil::getInstance ();
 	
@@ -71,7 +62,7 @@ if (file_exists(NGUtil::prependRootPath('classes/plugins/ngplugintypography/font
 }
 ```
 
-- jetzt sucht ihr diese Zeilen [352](classes/plugins/ngpluginlayout/ngpluginlayout.php#L352):
+- jetzt sucht ihr diese Zeile [352](classes/plugins/ngpluginlayout/ngpluginlayout.php#L352):
 
 ```php
 public function setDefaultVariables() {
@@ -99,9 +90,9 @@ $this->template->assign('fontfiles', $this->fontfiles);
 ```
 
 - speichert & schliesst die Datei
-- navigiert auf dem Server zu folgendem Pfad: classes/model/simple/templates/
+- wechselt das Verzeichnis zu diesen Pfad: classes/model/simple/templates/
 - öffnet die Datei [header.tpl](classes/model/simple/templates/header.tpl)
-- sucht folgenden Zeilen [28](classes/model/simple/templates/header.tpl#L28):
+- sucht folgende Zeile [28](classes/model/simple/templates/header.tpl#L28):
 
 ```html
 {if isset($touchicons)}
@@ -112,7 +103,7 @@ $this->template->assign('fontfiles', $this->fontfiles);
 {/if}
 ```
 
-- darunter fügt ihr diese Zeile ein:
+- darunter fügt ihr diese Zeilen ein:
 
 ```html
 {foreach $fontfiles as $font}
