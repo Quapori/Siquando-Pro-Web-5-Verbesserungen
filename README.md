@@ -202,7 +202,7 @@ $this->template->assign('fontfiles', $this->fontfiles);
 - speichert & schliesst die Datei
 - navigiert auf dem Server zu folgendem Pfad: classes/model/simple/templates/
 - öffnet die Datei header.tpl
-- fügt folgenden Zeilen:
+- sucht folgenden Zeilen:
 ```html
 {if isset($touchicons)}
 {foreach $touchicons as $size => $url}
@@ -210,7 +210,7 @@ $this->template->assign('fontfiles', $this->fontfiles);
 {/foreach}
 {/if}
 ```
-- unter diese Zeile ein:
+- darunter fügt ihr diese Zeile ein:
 ```html
 {foreach $fontfiles as $font}
 	<link rel="preload" href="{$font}" as="font" type="font/woff" crossorigin>
