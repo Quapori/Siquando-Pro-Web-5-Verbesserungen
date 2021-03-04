@@ -14,7 +14,9 @@ Anleitung:
 
 ```html
 {foreach $javascripts as $id=>$javascript}
-...
+{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- START-NGCON [{$id|escape}] -->{/if}
+<script src="{$javascript|escape}"{if $deferjs && $id!=='jquery' && $id!=='lightbox' && $id!=='ngshopglobals'} defer="defer"{/if}></script>
+{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- END-NGCON -->{/if}
 {/foreach}
 ```
 
