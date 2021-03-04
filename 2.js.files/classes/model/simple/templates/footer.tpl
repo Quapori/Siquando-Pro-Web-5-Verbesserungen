@@ -16,6 +16,9 @@
         {/if}
     </audio>
 {/if}
+{*
+hier wurde der neue Codeschnipsel eingefügt
+*}
 {foreach $javascripts as $id=>$javascript}
     {if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- START-NGCON [{$id|escape}] -->{/if}
     {if $id=='jquery'}

@@ -104,7 +104,5 @@
 {/if}
 {if isset($htmlcode['head'])}{$htmlcode['head']}{/if}		
 	</head>
-	
-
-	<body>	
+	<body>
 {if isset($htmlcode['bodytop'])}{$htmlcode['bodytop']}{/if}

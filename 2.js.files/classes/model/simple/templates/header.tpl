@@ -39,23 +39,25 @@
 {foreach $stylesheets as $stylesheet}
 <link rel="stylesheet" href="{$stylesheet|escape}" />
 {/foreach}
-		{*
-		 Dieser Block kann entfernt werden. Es dient nur Darstellung dieser Anleitung
-
+{*
+	Dieser Block kann entfernt werden. Es dient nur Darstellung dieser Anleitung
+*}
 {foreach $javascripts as $id=>$javascript}
 	{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- START-NGCON [{$id|escape}] -->{/if}
 	<script src="{$javascript|escape}"{if $deferjs && $id!=='jquery' && $id!=='lightbox' && $id!=='ngshopglobals'} defer="defer"{/if}></script>
 	{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- END-NGCON -->{/if}
 {/foreach}
-		*}
+{*
+	Hier endet der Block
+*}
 {if (count($styles) > 0)}
-		<style>
-		<!--
+<style>
+<!--
 {foreach $styles as $style}
 {$style}
 {/foreach}
-		-->
-		</style>
+-->
+</style>
 {/if}
 {if $googleanalytics!==''}
 		<!-- START-NGCON [googleanalytics] -->
@@ -79,7 +81,5 @@
 {/if}
 {if isset($htmlcode['head'])}{$htmlcode['head']}{/if}		
 	</head>
-	
-
-	<body>	
+	<body>
 {if isset($htmlcode['bodytop'])}{$htmlcode['bodytop']}{/if}
