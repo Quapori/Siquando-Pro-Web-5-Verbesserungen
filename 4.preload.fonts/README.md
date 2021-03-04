@@ -5,7 +5,7 @@
 Anleitung:
 
 - navigiert auf dem Server zu folgendem Pfad: classes/plugins/ngpluginlayout
-- öffnet die Datei ngpluginlayout.php
+- öffnet die Datei [ngpluginlayout.php](classes/plugins/ngpluginlayout/ngpluginlayout.php)
 - fügt unter folgender Zeile:
 
 ```php
@@ -100,7 +100,7 @@ $this->template->assign('fontfiles', $this->fontfiles);
 
 - speichert & schliesst die Datei
 - navigiert auf dem Server zu folgendem Pfad: classes/model/simple/templates/
-- öffnet die Datei header.tpl
+- öffnet die Datei [header.tpl](classes/model/simple/templates/header.tpl)
 - sucht folgenden Zeilen:
 
 ```html
