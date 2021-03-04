@@ -7,10 +7,10 @@
 ### [1. jQuery Version 2.2.4 mit 4 Schwachstellen](1.jquery.js.md)
 um dies zu beheben wird eine aktuelle jQuery Version benötigt.
 
-### [2. einzelne Einbindung von Javascripten](2.js.files.md)
+### [2. Einbindung von Javascripten](2.js.files.md)
 Es wird grundsätzlich empfohlen JavaScript & JavaScript-Dateien am Ende der HTML-Datei zu referenzieren. Im Allgemeinen führt der Browser kein Rendering auf dem Bildschirm aus, wenn er noch Ressourcen aus dem _&lt;head&gt;_ lädt – man spricht hier vom Render-Blocking. Das bedeutet alle JavaScript-Dateien, die im _&lt;head&gt;_ referenziert sind, blockieren das Rendering.
 
-### [3. einzelne Einbindung von Stylesheet Dateien](3.css.files.md)
+### [3. Einbindung von Stylesheet Dateien](3.css.files.md)
 s wird grundsätzlich empfohlen CSS-Dateien im _&lt;head&gt;_ der HTML-Datei zu referenzieren. Eine grundsätzliche Empfehlung der Web Performance Optimierung ist es, dass einzelne Dateien zusammengefasst werden sollen, damit Requests eingespart werden können.
 
 ### [4. fehlende Preload Funktion von Schriften](4.preload.fonts.md)
