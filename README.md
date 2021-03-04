@@ -30,7 +30,7 @@ eingespart werden können.
 Verursacht der Webfont normalerweise ein [FOUT (Flash Of Unstyled Text)](https://kulturbanause.de/faq/fout/), der
 markant wahrnehmbar ist, dann ist der Webfont ein Kandidat zum Vorabladen.
 
-### 5. fehlende oder fehlerhafte _alt=""_ Attribute bei Bildern
+### [5. fehlende oder fehlerhafte _alt=""_ Attribute bei Bildern](5.alt.attribute.images)
 
 Bei einem ALT-Attribut oder ALT-Tag handelt es sich um einen Text, der eine Grafik beschreibt. Das Kürzel „ALT“ steht
 für „Alternative“. Das ALT-Attribut wird bei Bilddateien auf einer Webseite hinterlegt. Falls ein Bild aus bestimmten
@@ -38,8 +38,3 @@ Gründen nicht angezeigt werden kann, erscheint der Text des hinterlegten ALT-At
 Suchmaschinen benutzen dieses Attribut, um den Bildinhalt zu erkennen, da Bilddateien in der Regel nicht direkt
 ausgelesen werden können. Für sehbehinderte Nutzer trägt das ALT-Attribut zur Barrierefreiheit bei. Sie lassen sich
 Webseiten mit einem Screenreader vorlesen. Dabei werden auch die ALT-Tags verwendet.
-
-Das ALT-Attribut sieht wie folgt aus:
-```html
-<img src="verzeichnis/abbildung.jpg" alt="Das ist eine sinnvolle Bildbeschreibung">
-```
