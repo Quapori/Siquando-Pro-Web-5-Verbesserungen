@@ -62,6 +62,8 @@ if (file_exists(NGUtil::prependRootPath('classes/plugins/ngplugintypography/font
 }
 ```
 
+> Dieser Code funktioniert ganz gut, kann aber noch verbessert werden. Später kommt dazu ein Update von mir.
+
 - jetzt sucht ihr diese Zeile [352](classes/plugins/ngpluginlayout/ngpluginlayout.php#L352):
 
 ```php
