@@ -27,7 +27,7 @@ eingespart werden können.
 
 ### [4. fehlende Preload Funktion von Schriften](4.preload.fonts)
 
-Verursacht der Webfont normalerweise ein [FOUT (Flash Of Unstyled Text)](https://kulturbanause.de/faq/fout/), der
+Verursacht der Webfont normalerweise ein [FOUT (Flash Of Unstyled Text)](https://kulturbanause.de/faq/fout/){:target"_blank"}, der
 markant wahrnehmbar ist, dann ist der Webfont ein Kandidat zum Vorabladen.
 
 ### [5. fehlende oder fehlerhafte _alt=""_ Attribute bei Bildern](5.alt.attribute.images)
