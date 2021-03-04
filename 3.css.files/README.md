@@ -8,7 +8,7 @@ Diese werden alle einzelnd in den Quellcode hinzugefügt. Besser wäre es diese 
 Anleitung:
 
 - navigiert auf dem Server zu folgendem Pfad: classes/model/simple/templates/
-- öffnet die Datei header.tpl
+- öffnet die Datei [header.tpl](classes/model/simple/templates/header.tpl)
 - sucht & entfernt folgende Zeilen:
 
 ```html
@@ -21,16 +21,9 @@ Anleitung:
 {if (count($styles) > 0)}
 <style>
     <!--
-    {
-        foreach $ styles as $ style
-    }
-    {
-        $ style
-    }
-    {
-    /
-    foreach
-    }
+    {foreach $styles as $style}
+    {$style}
+    {/foreach}
     -->
 </style>
 {/if}
@@ -39,36 +32,17 @@ Anleitung:
 - jetzt fügt ihr folgende Zeilen an der gleichen Stelle ein:
 
 ```html
-
 <style>
-    {
-        foreach $ stylesheets as $ stylesheet
-    }
+    {foreach $ stylesheets as $ stylesheet}
     @import "{$stylesheet|escape}";
-    {
-    /
-    foreach
-    }
-    {
-        if (count($ styles) > = 0
-    )
-    }
+    {/foreach}
+    {if (count($ styles) >= 0 )}
     <!--
-    {
-        foreach $ styles as $ style
-    }
-    {
-        $ style
-    }
-    {
-    /
-    foreach
-    }
+    {foreach $ styles as $ style}
+    {$style}
+    {/foreach}
     -->
-    {
-    /
-    if
-    }
+    {/if}
 </style>
 ``` 
 

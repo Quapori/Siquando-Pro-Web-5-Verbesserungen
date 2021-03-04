@@ -35,12 +35,34 @@
 {/if}
 {/if}
 {/foreach}
+		{*
+		Hier beginnt der neue Block
+		*}
+<style>
+	{foreach $ stylesheets as $ stylesheet}
+	@import "{$stylesheet|escape}";
+	{/foreach}
+	{if (count($ styles) >= 0 )}
+	<!--
+	{foreach $ styles as $ style}
+	{$style}
+	{/foreach}
+	-->
+	{/if}
+</style>
+		{*
+		Hier endet der neue Block
+		*}
 
+		{*
+		Dies ist er erste Block der entfernt wird
 {foreach $stylesheets as $stylesheet}
 <link rel="stylesheet" href="{$stylesheet|escape}" />
 {/foreach}
+
+		*}
 		{*
-		 Dieser Block kann entfernt werden. Es dient nur Darstellung dieser Anleitung
+		Dieser Block wurde in der 1. Anleitung entfernt
 
 {foreach $javascripts as $id=>$javascript}
 	{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- START-NGCON [{$id|escape}] -->{/if}
@@ -48,6 +70,8 @@
 	{if substr($javascript,0,7)==='http://' || substr($javascript,0,8)==='https://'}<!-- END-NGCON -->{/if}
 {/foreach}
 		*}
+		{*
+		Dies ist der zweite Block der entfernt werden kann
 {if (count($styles) > 0)}
 		<style>
 		<!--
@@ -57,6 +81,7 @@
 		-->
 		</style>
 {/if}
+		*}
 {if $googleanalytics!==''}
 		<!-- START-NGCON [googleanalytics] -->
 		<script>
