@@ -12,3 +12,5 @@ Webseiten mit einem Screenreader vorlesen. Dabei werden auch die ALT-Tags verwen
 > Der Bild-Titel dient als Bildunterschrift und nicht als alternativen Text.
 
 Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
+
+### [Suchergebnisse nach _alt=""_ in *.tpl Dateien](SUCHERGEBNISSE.md)
