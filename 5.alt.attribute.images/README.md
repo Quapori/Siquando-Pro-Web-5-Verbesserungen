@@ -17,6 +17,7 @@ Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
 
 > In dieser Suche ist ersichtlich das 115 Möglichkeiten in verschiedenen Designs o. Plugins der alternative Text komplett fehlt und somit nicht verwendet wird. Dies hat einen erheblichen Nachteil in der SEO.
 
-### Sucherergebnisse nach _alt=""_ in *.tpl Dateien mit falscher Ausgabe durch Siquando
+### [Sucherergebnisse nach _alt="{}"_ in *.tpl Dateien mit falscher Ausgabe durch Siquando](2-SUCHERGEBNISSE.md)
 
-- folgt noch
+> In dieser Suche ist ersichtlich das 46 Möglichkeiten in verschiedenen Designs o. Plugins der alternative Text mit falschen
+Ausgaben genutzt wird. Oftmals wird nicht der alternative Text aus Siquando genutzt, stattdessen Überschriften oder Titel.
