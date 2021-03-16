@@ -17,7 +17,7 @@ Das _rel=”noreferrer”_-Attribut hat eine ähnliche Qualität, verhindert abe
 
 ## Anleitung
 
-- 90 Vorkommnisse in 27 *.tpl Dateien müssen angepasst werden
+- 90 Vorkommnisse in 27 *.tpl Dateien im Verzeichnis: /classes/plugins/ geändert
 - /classes/util/ngrichtext.php Zeile 63 duplizieren und die Werte ändern
 
 ```php
