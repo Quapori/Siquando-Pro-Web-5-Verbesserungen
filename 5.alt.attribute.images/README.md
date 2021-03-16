@@ -13,7 +13,7 @@ Der Bild-Titel dient als Bildunterschrift und nicht als alternativen Text.
 
 Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
 
-### [Suchergebnisse nach _alt=""_ in *.tpl Dateien](SUCHERGEBNISSE.md)
+### [Suchergebnisse nach _alt=""_ in *.tpl Dateien](1-SUCHERGEBNISSE.md)
 
 > In dieser Suche ist ersichtlich das 115 Möglichkeiten in verschiedenen Designs o. Plugins der alternative Text komplett fehlt und somit nicht verwendet wird. Dies hat einen erheblichen Nachteil in der SEO.
 
