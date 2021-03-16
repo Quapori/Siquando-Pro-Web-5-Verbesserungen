@@ -6,5 +6,9 @@ Um dieses Risiko zu unterbinden, kann man im Prinzip ganz einfach mit dem Zusatz
 ```html
 <a href=“https://externe.webseite.xyz/“ target=“_blank“ rel=“noopener noreferrer“>externe.webseite.xyz</a>
 ```
+Ein _rel=”noopener”_-Attribut schützt die neue Seite, auf die die Eigenschaft window.opener zugreifen soll, und stellt sicher, dass sie in einem separaten Prozess ausgeführt wird.
+Das _rel=”noreferrer”_-Attribut hat eine ähnliche Qualität, verhindert aber auch die Weitergabe der Referrer-Informationen an die neue Seite.
+
+> Es hat keinen Einfluss auf das SEO-Ranking der Website oder die Gesamtleistung Ihrer Website. Tatsächlich schützt es die Vertraulichkeit Ihres Website-Publikums und verhindert externe Websites durch die Verbreitung von schädlichem Code.
 
 Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
