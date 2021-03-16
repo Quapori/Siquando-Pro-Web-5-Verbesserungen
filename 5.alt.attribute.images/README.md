@@ -7,8 +7,8 @@ Suchmaschinen benutzen dieses Attribut, um den Bildinhalt zu erkennen, da Bildda
 ausgelesen werden können. Für sehbehinderte Nutzer trägt das ALT-Attribut zur Barrierefreiheit bei. Sie lassen sich
 Webseiten mit einem Screenreader vorlesen. Dabei werden auch die ALT-Tags verwendet.
 
-> Siquando Pro Web 5 hat für alle Bilder die Möglichkeit ein alternativen Text einzugeben. 
+> Siquando Pro Web 5 hat für alle Bilder die Möglichkeit ein alternativen Text einzugeben.
 > Jedoch wird dieser nicht überall genutzt oder mit dem Titel der Bilder ausgebeben.
 > Der Bild-Titel dient als Bildunterschrift und nicht als alternativen Text.
 
-Die Anleitung dazu folgt in wenigen Tagen, diese ist etwas umfangreicher.
+Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
