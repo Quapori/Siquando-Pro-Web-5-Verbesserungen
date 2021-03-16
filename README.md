@@ -54,3 +54,11 @@ Um dieses Risiko zu unterbinden, kann man im Prinzip ganz einfach mit dem Zusatz
 Ein _rel=”noopener”_-Attribut schützt die neue Seite, auf die die Eigenschaft window.opener zugreifen soll, und stellt sicher, dass sie in einem separaten Prozess ausgeführt wird.
 Das _rel=”noreferrer”_-Attribut hat eine ähnliche Qualität, verhindert aber auch die Weitergabe der Referrer-Informationen an die neue Seite.
 > Es hat keinen Einfluss auf das SEO-Ranking der Website oder die Gesamtleistung Ihrer Website. Tatsächlich schützt es die Vertraulichkeit Ihres Website-Publikums und verhindert externe Websites durch die Verbreitung von schädlichem Code.
+
+### [7. PNG Bilddateien werden nicht als WEBP Dateien ausgegeben](7.no.png.to.webp)
+
+Mit dem Plugin [Erweiterung Photo Pack PLUS](https://www.siquando.de/pro-web/erweiterungen/photo-pack/) wurde die WebP Unterstützung hinzugefügt. Wie in der Beschreibung zu lesen werden nur JPG Dateien unterstützt!?
+
+> Die neue WebP-Unterstützung im Photo Pack Plus erkennt automatisch, ob Ihr Browser WebP unterstützt, und ersetzt, ohne dass Sie einen Finger krümmen müssten, JPEGs automatisch durch ihre modernen Pendants.
+
+Das kann ja nicht deren ernst sein, oder? Für den Preis der Erweiterung sollte man zumindest erwarten können das auch PNG Dateien unterstützt werden.
