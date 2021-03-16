@@ -15,4 +15,12 @@ Das _rel=”noreferrer”_-Attribut hat eine ähnliche Qualität, verhindert abe
 
 > Es hat keinen Einfluss auf das SEO-Ranking der Website oder die Gesamtleistung Ihrer Website. Tatsächlich schützt es die Vertraulichkeit Ihres Website-Publikums und verhindert externe Websites durch die Verbreitung von schädlichem Code.
 
-Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
+## Anleitung
+
+- 90 Vorkommnisse in 27 *.tpl Dateien müssen angepasst werden
+- /classes/util/ngrichtext.php Zeile 63 duplizieren und die Werte ändern
+
+```php
+$link->setAttribute('target','_blank'); // Zeile 63
+$link->setAttribute('rel','noopener noreferrer'); // duplizierte Zeile
+```
