@@ -8,9 +8,15 @@ ausgelesen werden können. Für sehbehinderte Nutzer trägt das ALT-Attribut zur
 Webseiten mit einem Screenreader vorlesen. Dabei werden auch die ALT-Tags verwendet.
 
 > Siquando Pro Web 5 hat für alle Bilder die Möglichkeit ein alternativen Text einzugeben.
-> Jedoch wird dieser nicht überall genutzt oder mit dem Titel der Bilder ausgebeben.
-> Der Bild-Titel dient als Bildunterschrift und nicht als alternativen Text.
+Jedoch wird dieser nicht überall genutzt oder mit dem Titel der Bilder ausgebeben.
+Der Bild-Titel dient als Bildunterschrift und nicht als alternativen Text.
 
 Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
 
 ### [Suchergebnisse nach _alt=""_ in *.tpl Dateien](SUCHERGEBNISSE.md)
+
+> In dieser Suche ist ersichtlich das 115 Möglichkeiten in verschiedenen Designs o. Plugins der alternative Text komplett fehlt und somit nicht verwendet wird. Dies hat einen erheblichen Nachteil in der SEO.
+
+### Sucherergebnisse nach _alt=""_ in *.tpl Dateien mit falscher Ausgabe durch Siquando
+
+- folgt noch
