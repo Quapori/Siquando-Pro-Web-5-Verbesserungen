@@ -13,11 +13,11 @@ Der Bild-Titel dient als Bildunterschrift und nicht als alternativen Text.
 
 Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
 
-### [Suchergebnisse nach _alt=""_ in *.tpl Dateien](1-SUCHERGEBNISSE.md)
+### [Suchergebnisse nach fehlenden _alt=""_-Attributen in *.tpl Dateien](1-SUCHERGEBNISSE.md)
 
 > In dieser Suche ist ersichtlich das 115 Möglichkeiten in verschiedenen Designs o. Plugins der alternative Text komplett fehlt und somit nicht verwendet wird. Dies hat einen erheblichen Nachteil in der SEO.
 
-### [Sucherergebnisse nach _alt="{}"_ in *.tpl Dateien mit falscher Ausgabe durch Siquando](2-SUCHERGEBNISSE.md)
+### [Sucherergebnisse nach falsch befüllten _alt=""_-Attributen in *.tpl Dateien](2-SUCHERGEBNISSE.md)
 
 > In dieser Suche ist ersichtlich das 46 Möglichkeiten in verschiedenen Designs o. Plugins der alternative Text mit falschen
 Ausgaben genutzt wird. Oftmals wird nicht der alternative Text aus Siquando genutzt, stattdessen Überschriften oder Titel.
