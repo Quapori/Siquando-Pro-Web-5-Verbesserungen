@@ -4,8 +4,6 @@ Mit dem Plugin [Erweiterung Photo Pack PLUS](https://www.siquando.de/pro-web/erw
 
 > Die neue WebP-Unterstützung im Photo Pack Plus erkennt automatisch, ob Ihr Browser WebP unterstützt, und ersetzt, ohne dass Sie einen Finger krümmen müssten, JPEGs automatisch durch ihre modernen Pendants.
 
-Das kann ja nicht deren ernst sein, oder? Für den Preis der Erweiterung sollte man zumindest erwarten können das auch PNG Dateien unterstützt werden.
-
 ### Hier die Anleitung dazu PNG Dateien ebenfalls zu unterstützen.
 
 - im Verzeichnis: [classes/util/ngimagepump.php](classes/util/ngimagepump.php) öffnen
