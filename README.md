@@ -45,7 +45,11 @@ Lange Zeit war es Standard externe Links mit dem Attribut [target] (Ziel) und de
 
 Um dieses Risiko zu unterbinden, kann man im Prinzip ganz einfach mit dem Zusatz [rel=“noopener noreferrer“] den externen Link absichern. In der Praxis sieht das dann so aus:
 ```html
-<a href=“https://externe.webseite.xyz/“ target=“_blank“ rel=“noopener noreferrer“>externe.webseite.xyz</a>
+<a href=“https://externe.webseite.xyz/“
+   target=“_blank“
+   rel=“noopener noreferrer“>
+  externe.webseite.xyz
+</a>
 ```
 Ein _rel=”noopener”_-Attribut schützt die neue Seite, auf die die Eigenschaft window.opener zugreifen soll, und stellt sicher, dass sie in einem separaten Prozess ausgeführt wird.
 Das _rel=”noreferrer”_-Attribut hat eine ähnliche Qualität, verhindert aber auch die Weitergabe der Referrer-Informationen an die neue Seite.
