@@ -7,10 +7,10 @@ gefallen.
 <h3><a href="1.jQuery.md">1. jQuery Version 2.2.4 mit 4 Schwachstellen</a></h3>
 
 jQuery bekommt nur noch selten Updates, aber wenn eins veröffentlicht wird, ist es normalerweise wichtig. Siquando Pro
-Web 5 nutzt die Version 2.2.4, diese Version hat [4 Schwachstellen](https://snyk.io/test/npm/jquery/2.2.4) und sollte
+Web 5 nutzt die Version 2.2.4, diese Version hat <a href="https://snyk.io/test/npm/jquery/2.2.4" target="_blank" rel="noopener noreferrer">4 Schwachstellen</a> und sollte
 aktualisiert werden.
 
-### [2. Einbindung von Javascripten](2.js.files)
+<h3><a href="2.js.files.md">2. Einbindung von Javascripten</a></h3>
 
 Es wird grundsätzlich empfohlen JavaScript & JavaScript-Dateien am Ende der HTML-Datei zu referenzieren. Im Allgemeinen
 führt der Browser kein Rendering auf dem Bildschirm aus, wenn er noch Ressourcen aus dem _&lt;head&gt;_ lädt – man
