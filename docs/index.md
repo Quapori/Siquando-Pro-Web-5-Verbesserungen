@@ -4,7 +4,7 @@ gefallen.
 > Alle Änderungen die hier beschrieben werden sind auf eigenes Risiko zu verwenden. Nach jeder Änderung muss Siquando diese erst einmal einlesen und selbst anwenden.
 > Dies kann erreicht werden wenn man im Menü auf Datei -> Webseiten-Eigenschaften die Häkchen bei Code optimieren deaktiviert/aktiviert.
 
-### [1. jQuery Version 2.2.4 mit 4 Schwachstellen](1.jQuery)
+<h3><a href="1.jQuery.md">1. jQuery Version 2.2.4 mit 4 Schwachstellen</a></h3>
 
 jQuery bekommt nur noch selten Updates, aber wenn eins veröffentlicht wird, ist es normalerweise wichtig. Siquando Pro
 Web 5 nutzt die Version 2.2.4, diese Version hat [4 Schwachstellen](https://snyk.io/test/npm/jquery/2.2.4) und sollte
