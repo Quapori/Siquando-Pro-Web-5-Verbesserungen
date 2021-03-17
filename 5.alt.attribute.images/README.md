@@ -11,6 +11,8 @@ Webseiten mit einem Screenreader vorlesen. Dabei werden auch die ALT-Tags verwen
 Jedoch wird dieser nicht überall genutzt oder mit dem Titel der Bilder ausgebeben.
 Der Bild-Titel dient als Bildunterschrift und nicht als alternativen Text.
 
+Anmerkung: Da ich nicht alle Erweiterungen habe, kann es sein das noch mehr Designs & Plugins betroffen sein können.
+
 Die Anleitung dazu wird noch ausgearbeitet, diese ist etwas umfangreicher.
 
 ### [Suchergebnisse nach fehlenden _alt=""_-Attributen in *.tpl Dateien](1-SUCHERGEBNISSE.md)
