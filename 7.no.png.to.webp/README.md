@@ -1,6 +1,6 @@
 # 7. PNG Bilddateien werden nicht als WEBP Dateien ausgegeben
 
-Mit dem Plugin <a href="https://www.siquando.de/pro-web/erweiterungen/photo-pack/" rel="noopener noreferrer">Erweiterung
+Mit dem Plugin <a href="https://www.siquando.de/pro-web/erweiterungen/photo-pack/" target="_blank" rel="noopener noreferrer">Erweiterung
 Photo Pack PLUS</a> wurde die WebP Unterstützung hinzugefügt. Wie in der Beschreibung zu lesen werden nur JPG Dateien
 unterstützt!?
 

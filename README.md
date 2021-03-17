@@ -10,7 +10,7 @@ gefallen.
 
 jQuery bekommt nur noch selten Updates, aber wenn eins veröffentlicht wird, ist es normalerweise wichtig. Siquando Pro
 Web 5 nutzt die Version 2.2.4, diese Version
-hat <a href="https://snyk.io/test/npm/jquery/2.2.4" rel="noopener noreferrer">4 Schwachstellen</a> und sollte
+hat <a href="https://snyk.io/test/npm/jquery/2.2.4" target="_blank" rel="noopener noreferrer">4 Schwachstellen</a> und sollte
 aktualisiert werden.
 
 ### [2. Einbindung von Javascripten](2.js.files)
@@ -28,7 +28,7 @@ eingespart werden können.
 
 ### [4. fehlende Preload Funktion von Schriften](4.preload.fonts)
 
-Verursacht der Webfont normalerweise ein FOUT <a href="https://kulturbanause.de/faq/fout/" rel="noopener noreferrer">(
+Verursacht der Webfont normalerweise ein FOUT <a href="https://kulturbanause.de/faq/fout/" target="_blank" rel="noopener noreferrer">(
 Flash Of Unstyled Text)</a>, der markant wahrnehmbar ist, dann ist der Webfont ein Kandidat zum Vorabladen.
 
 ### [5. fehlende oder fehlerhafte _alt=&quot;&quot;_ Attribute bei Bildern](5.alt.attribute.images)
@@ -68,7 +68,7 @@ eine ähnliche Qualität, verhindert aber auch die Weitergabe der Referrer-Infor
 
 ### [7. PNG Bilddateien werden nicht als WEBP Dateien ausgegeben](7.no.png.to.webp)
 
-Mit dem Plugin <a href="https://www.siquando.de/pro-web/erweiterungen/photo-pack/" rel="noopener noreferrer">Erweiterung
+Mit dem Plugin <a href="https://www.siquando.de/pro-web/erweiterungen/photo-pack/" target="_blank" rel="noopener noreferrer">Erweiterung
 Photo Pack PLUS</a> wurde die WebP Unterstützung hinzugefügt. Wie in der Beschreibung zu lesen werden nur JPG Dateien
 unterstützt!?
 

@@ -7,8 +7,8 @@ aktualisiert werden.
 Ich verwende v3.5.1
 
 Downloads:
-<a href="https://jquery.com/download/" rel="noopener noreferrer">jQery.com</a> oder
-<a href="https://developers.google.com/speed/libraries#jquery" rel="noopener noreferrer">Google Hosted Libraries</a>
+<a href="https://jquery.com/download/" target="_blank" rel="noopener noreferrer">jQery.com</a> oder
+<a href="https://developers.google.com/speed/libraries#jquery" target="_blank" rel="noopener noreferrer">Google Hosted Libraries</a>
 
 Verbindet euch per ftp/sftp oder ssh, mit dem Server wo euer Siquando Projekt installiert wurde.
 
