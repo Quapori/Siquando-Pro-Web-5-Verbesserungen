@@ -1,5 +1,3 @@
-# Siquando Pro Web 5 - Liste mit Verbesserungen
-
 Ich habe hier mal eine Liste mit Mängeln zusammen gestellt, welche ich persönlich gefunden habe und mir persönlich nicht
 gefallen.
 
