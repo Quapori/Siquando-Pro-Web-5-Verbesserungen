@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="advanced" caption="Erweitert" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+	<style uid="blue_arrow" preview="blue_arrow.png" caption="Blauer Pfeil" />
+	<style uid="blue_circle" preview="blue_circle.png" caption="Blauer Kreis" />
+	<style uid="blue_rectangle" preview="blue_rectangle.png" caption="Blaues Rechteck" />
+	<style preview="gray_disc.png" uid="gray_disc" caption="Graue Scheibe" />
+	<style preview="red_disc.png" uid="red_disc" caption="Rote Scheibe" />
+	<style preview="blue_disc.png" uid="blue_disc" caption="Blaue Scheibe" />
+	<style preview="green_disc.png" uid="green_disc" caption="Grüne Scheibe" />
+	<style preview="subtle.png" uid="subtle" caption="Subtil" />
+	<style preview="gray_nav.png" uid="gray_nav" caption="Graue Navigation" />
+	<style preview="red_nav.png" uid="red_nav" caption="Rote Navigation" />
+	<style preview="blue_nav.png" uid="blue_nav" caption="Blaue Navigation" />
+	<style preview="green_nav.png" uid="green_nav" caption="Grüne Navigation" />
+	<style preview="subtle_nav.png" uid="subtle_nav" caption="Subtile Navigation" />
+</styles>

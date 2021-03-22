@@ -1,0 +1,19 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">wichita</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd80b0b021da572100000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd8090e0e0c95c5000000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.audio">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.bright">ebe7df</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.dark">b5b2ac</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.medium">e0ddd5</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

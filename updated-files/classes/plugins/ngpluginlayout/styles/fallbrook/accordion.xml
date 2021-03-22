@@ -1,0 +1,11 @@
+<object class="NGSettingsAccordion" version="1.0">
+  <properties>
+    <string name="styleuid" lang="--" domain="accordion">default</string>
+    <bool name="animate" lang="--" domain="accordion">false</bool>
+    <string name="colorvalueline" lang="--" domain="accordion">d3d3d3</string>
+    <int name="widthline" lang="--" domain="accordion">0</int>
+    <string name="name" lang="--" domain="name" unique="true">Accordion</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

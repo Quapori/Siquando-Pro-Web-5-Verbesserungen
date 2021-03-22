@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Arvo'), url(./../fonts/arvo-regular-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Arvo Bold'), local('Arvo-Bold'), url(./../fonts/arvo-bold-webfont.woff) format('woff');
+  font-display: swap;
+}

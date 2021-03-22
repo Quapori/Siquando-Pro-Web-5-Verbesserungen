@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="menudefault.png" uid="menudefault" caption="(Standard)" />
+	<style preview="menudots.png" uid="menudots" caption="Punkte" />
+	<style preview="menurects.png" uid="menurects" caption="Rechtecke" />
+	<style preview="menurectsh.png" uid="menurectsh" caption="Rechtecke, horizontal" />
+	<style preview="menudiscs.png" uid="menudiscs" caption="Kreise" />
+	<style preview="menudiscsh.png" uid="menudiscsh" caption="Kreise, horizontal" />
+	<style preview="menucircle.png" uid="menucircle" caption="Im Kreis" />
+	<style preview="menubox.png" uid="menubox" caption="In Box" />
+</styles>

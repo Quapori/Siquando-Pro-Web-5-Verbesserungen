@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>nashville</id>
+  <caption>Nashville</caption>
+  <type>NGPluginLayoutPro</type>
+  <product>SIQUANDO Pro 5</product>
+  <initialversion>1.0</initialversion>
+  <responsive>false</responsive>
+  <preview>preview_listen.jpg</preview>
+  <summary>Nashville veredelt jede kleine Präsenz mit einem großartigen Layout. Es bietet ein großzügiges Logo mit Parallax-Effekt, eine Navigationsebene und breite Bereiche für Ihre Inhalte.</summary>
+  <dependencies>
+    <dependency filename="nashville.png" type="Picture" module="NGPluginLayoutPro" property="logo">w7dd71111362286ef200000000000000</dependency>
+  </dependencies>
+  <substyles>
+    <substyle id="listen">
+      <caption>Listen</caption>
+      <preview>preview_listen.jpg</preview>
+      <previewbig>previewbig_listen.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">353530</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">353530</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">353530</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">787063</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">787063</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">41413a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">41413a</dependency>
+        <dependency filename="ss39063.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="basket">
+      <caption>Basket</caption>
+      <preview>preview_basket.jpg</preview>
+      <previewbig>previewbig_basket.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">787355</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">787355</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">787355</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">506671</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">506671</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">74525f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">74525f</dependency>
+        <dependency filename="10036.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="beach">
+      <caption>Beach</caption>
+      <preview>preview_beach.jpg</preview>
+      <previewbig>previewbig_beach.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">26211d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">26211d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">26211d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">705443</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">705443</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">87473b</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">87473b</dependency>
+        <dependency filename="63132.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="body">
+      <caption>Body</caption>
+      <preview>preview_body.jpg</preview>
+      <previewbig>previewbig_body.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">4a3b6f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">4a3b6f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">4a3b6f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">883c1b</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">883c1b</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">241007</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">241007</dependency>
+        <dependency filename="ss20032.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="bride">
+      <caption>Bride</caption>
+      <preview>preview_bride.jpg</preview>
+      <previewbig>previewbig_bride.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">5e822a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">5e822a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">5e822a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">6d7b87</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">6d7b87</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">9c574c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9c574c</dependency>
+        <dependency filename="63202.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="cheese">
+      <caption>Cheese</caption>
+      <preview>preview_cheese.jpg</preview>
+      <previewbig>previewbig_cheese.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">9e5321</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">9e5321</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">9e5321</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">542c12</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">542c12</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">753e19</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">753e19</dependency>
+        <dependency filename="2223.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="coins">
+      <caption>Coins</caption>
+      <preview>preview_coins.jpg</preview>
+      <previewbig>previewbig_coins.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">8c3c27</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">8c3c27</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">8c3c27</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">381e1d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">381e1d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">96552f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">96552f</dependency>
+        <dependency filename="3054.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="competence">
+      <caption>Competence</caption>
+      <preview>preview_competence.jpg</preview>
+      <previewbig>previewbig_competence.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">747365</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">747365</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">747365</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">2b2b29</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">2b2b29</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">65655a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">65655a</dependency>
+        <dependency filename="ss26004.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="contract">
+      <caption>Contract</caption>
+      <preview>preview_contract.jpg</preview>
+      <previewbig>previewbig_contract.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">4e565e</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">4e565e</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">4e565e</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">756246</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">756246</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">727266</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">727266</dependency>
+        <dependency filename="35149.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="cowboys">
+      <caption>Cowboys</caption>
+      <preview>preview_cowboys.jpg</preview>
+      <previewbig>previewbig_cowboys.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">38333c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">38333c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">38333c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">826f5f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">826f5f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">382c25</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">382c25</dependency>
+        <dependency filename="ss05002.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="curve">
+      <caption>Curve</caption>
+      <preview>preview_curve.jpg</preview>
+      <previewbig>previewbig_curve.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">84914d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">84914d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">84914d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">3d322a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">3d322a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">495878</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">495878</dependency>
+        <dependency filename="ss07036.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="elephant">
+      <caption>Elephant</caption>
+      <preview>preview_elephant.jpg</preview>
+      <previewbig>previewbig_elephant.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">6a6f7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">6a6f7d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">6a6f7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">7f806d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">7f806d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">816f6d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">816f6d</dependency>
+        <dependency filename="6047.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="flare">
+      <caption>Flare</caption>
+      <preview>preview_flare.jpg</preview>
+      <previewbig>previewbig_flare.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">5b4d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">5b4d5c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">5b4d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">7d7051</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">7d7051</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">4c3b3e</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">4c3b3e</dependency>
+        <dependency filename="3006.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="fly">
+      <caption>Fly</caption>
+      <preview>preview_fly.jpg</preview>
+      <previewbig>previewbig_fly.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">4a5a8c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">4a5a8c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">4a5a8c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">2d2b2f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">2d2b2f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">8f825b</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">8f825b</dependency>
+        <dependency filename="6011.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="fresh">
+      <caption>Fresh</caption>
+      <preview>preview_fresh.jpg</preview>
+      <previewbig>previewbig_fresh.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">312357</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">312357</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">312357</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">465c25</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">465c25</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">634228</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">634228</dependency>
+        <dependency filename="3056.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="hidden">
+      <caption>Hidden</caption>
+      <preview>preview_hidden.jpg</preview>
+      <previewbig>previewbig_hidden.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">48416b</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">48416b</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">48416b</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">6d7430</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">6d7430</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">784132</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">784132</dependency>
+        <dependency filename="ss20058.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="home">
+      <caption>Home</caption>
+      <preview>preview_home.jpg</preview>
+      <previewbig>previewbig_home.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">3b371b</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">3b371b</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">3b371b</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">717a40</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">717a40</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">834328</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">834328</dependency>
+        <dependency filename="ss14071.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="koala">
+      <caption>Koala</caption>
+      <preview>preview_koala.jpg</preview>
+      <previewbig>previewbig_koala.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">292d1f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">292d1f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">292d1f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">4c562e</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">4c562e</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">191718</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">191718</dependency>
+        <dependency filename="6135.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="music">
+      <caption>Music</caption>
+      <preview>preview_music.jpg</preview>
+      <previewbig>previewbig_music.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">836b42</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">836b42</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">836b42</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">272015</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">272015</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">725939</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">725939</dependency>
+        <dependency filename="ss14078.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="race">
+      <caption>Race</caption>
+      <preview>preview_race.jpg</preview>
+      <previewbig>previewbig_race.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">4a6436</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">4a6436</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">4a6436</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">344182</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">344182</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">8c2d40</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">8c2d40</dependency>
+        <dependency filename="10039.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="shadow">
+      <caption>Shadow</caption>
+      <preview>preview_shadow.jpg</preview>
+      <previewbig>previewbig_shadow.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">6b5842</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">6b5842</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">6b5842</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">241d16</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">241d16</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">967c5d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">967c5d</dependency>
+        <dependency filename="ss13016.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="sheep">
+      <caption>Sheep</caption>
+      <preview>preview_sheep.jpg</preview>
+      <previewbig>previewbig_sheep.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">22272d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">22272d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">22272d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">60684f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">60684f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">1f2227</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">1f2227</dependency>
+        <dependency filename="6243.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="shoe">
+      <caption>Shoe</caption>
+      <preview>preview_shoe.jpg</preview>
+      <previewbig>previewbig_shoe.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">6f6251</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">6f6251</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">6f6251</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">a0a9a8</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">a0a9a8</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">19363a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">19363a</dependency>
+        <dependency filename="38303.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="snorkle">
+      <caption>Snorkle</caption>
+      <preview>preview_snorkle.jpg</preview>
+      <previewbig>previewbig_snorkle.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">335582</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">335582</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">335582</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">528f9d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">528f9d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">807063</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">807063</dependency>
+        <dependency filename="42227.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="sprint">
+      <caption>Sprint</caption>
+      <preview>preview_sprint.jpg</preview>
+      <previewbig>previewbig_sprint.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">1a1b16</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">1a1b16</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">1a1b16</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">5c5244</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">5c5244</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">91897e</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">91897e</dependency>
+        <dependency filename="ss31003.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="strong">
+      <caption>Strong</caption>
+      <preview>preview_strong.jpg</preview>
+      <previewbig>previewbig_strong.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">465073</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">465073</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">465073</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">7d524c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">7d524c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">787b4b</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">787b4b</dependency>
+        <dependency filename="ss20046.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="trash">
+      <caption>Trash</caption>
+      <preview>preview_trash.jpg</preview>
+      <previewbig>previewbig_trash.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">8a8773</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">8a8773</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">8a8773</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">151513</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">151513</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">736f5d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">736f5d</dependency>
+        <dependency filename="35322.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="triple">
+      <caption>Triple</caption>
+      <preview>preview_triple.jpg</preview>
+      <previewbig>previewbig_triple.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">333333</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">333333</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">333333</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">787878</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">787878</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">000000</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">000000</dependency>
+        <dependency filename="ss27054.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="tubes">
+      <caption>Tubes</caption>
+      <preview>preview_tubes.jpg</preview>
+      <previewbig>previewbig_tubes.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">9d7723</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">9d7723</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">9d7723</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">1d120d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">1d120d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">8d7322</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">8d7322</dependency>
+        <dependency filename="29123.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="zipper">
+      <caption>Zipper</caption>
+      <preview>preview_zipper.jpg</preview>
+      <previewbig>previewbig_zipper.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.active">344b78</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.header">344b78</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">344b78</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.main">7c622c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">7c622c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.footer">10141a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">10141a</dependency>
+        <dependency filename="ss25065.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7dd711111c113767c00000000000000</dependency>
+      </dependencies>
+    </substyle>
+  </substyles>
+</style>

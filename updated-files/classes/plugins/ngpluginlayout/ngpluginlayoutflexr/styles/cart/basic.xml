@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="cartdefault.png" uid="cartdefault" caption="(Standard)" />
+	<style preview="cartcart.png" uid="cartcart" caption="Wagen" />
+	<style preview="cartsimple.png" uid="cartsimple" caption="Einfach" />
+	<style preview="cartbasketsimple.png" uid="cartbasketsimple" caption="Korb, einfach" />
+	<style preview="carttote.png" uid="carttote" caption="Tasche" />
+	<style preview="cartclassic.png" uid="cartclassic" caption="Klassisch" />
+	<style preview="none.png" uid="none" caption="(Keins)" />
+</styles>

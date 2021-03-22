@@ -1,0 +1,83 @@
+.ngparakaleidoscope {
+	position: relative;
+	width: 100%;
+}
+
+.ngparakaleidoscope h3 {
+	text-align: center;	
+}
+
+
+.ngparakaleidoscope>ul {
+	position: relative;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	display: block;
+	list-style: none;
+	width: 100%;
+}
+
+.ngparakaleidoscope>ul canvas {
+	bottom: 0px;
+	left: 0;
+	position: absolute;
+	width: 100%;
+}
+
+.ngparakaleidoscope>ul>li {
+	position: absolute;
+	top: 0px;
+	left: 0;
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+.ngparakaleidoscope>ul img {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	border: 0;
+}
+
+.ngparakaleidoscope>div {
+	height: 16px;
+	position: absolute;
+	bottom: 4px;
+	z-index: 110;
+	margin: 0;
+	padding: 0;
+}
+
+.ngparakaleidoscope>div>div {
+	width: 20px;
+	height: 16px;
+	float: left;
+	cursor: pointer;
+	top:0;
+	position: absolute;
+}
+
+.ngparakaleidoscope>div>div:hover {
+	background-position: 0 -16px;
+}
+
+.ngparakaleidoscope>div>div.ngparakaleidoscopeselected {
+	background-position: 0 -32px;
+}
+
+.ngparakaleidoscope>div>div.ngparakaleidoscopeselected:hover {
+	background-position: 0 -48px;
+}
+
+.ngparakaleidoscope3d {
+	 perspective: 1200px;
+	 -webkit-perspective: 1200px;
+}
+
+.ngparakaleidoscope3d ul {
+	transform:rotateY(-25deg) translateZ(-100px);
+	-webkit-transform:rotateY(-25deg) translateZ(-100px);
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path fill="none" stroke-linejoin="miter" stroke="#{colora}" d="M 17.1815,24L 13.5907,17.7807L 6.40927,17.7807L 2.81854,24L 6.40927,30.2193L 13.5907,30.2193L 17.1815,24 Z "/>
+	<path fill="#{colorb}" fill-opacity="1" stroke-linejoin="round" d="M 15.099,24L 12.5495,19.5841L 7.45049,19.5841L 4.90098,24L 7.45049,28.4159L 12.5495,28.4159L 15.099,24 Z "/>
+	<path fill="none" stroke-linejoin="miter" stroke="#{colora}" d="M 17.3629,8.21933L 13.7722,2L 6.59073,2L 3,8.21933L 6.59073,14.4387L 13.7722,14.4387L 17.3629,8.21933 Z "/>
+</svg>

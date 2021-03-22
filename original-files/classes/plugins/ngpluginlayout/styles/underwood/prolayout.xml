@@ -1,0 +1,22 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">underwood</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd8060b34346d59600000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">sidebarright</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd8060c061acb63800000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.animate">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">f0f4f7</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.bright">56bfa7</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.dark">2e6659</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.navbackground">414548</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.navborder">6e757a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.navfill">4e5357</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.navtext">f0f4f7</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="phone" caption="Website für Smartphones">
+  <languageresource uid="chooseheader">
+    <caption>Mobile Version</caption>
+    <default>Sie betrachten gegenwärtig eine Version der Website, die für mobile Geräte optimiert wurde.</default>
+    <description>Hinweis, dass es sich um eine Version der Website für mobile Endgeräte handelt.</description>
+  </languageresource>
+  <languageresource uid="choosedesktop">
+    <caption>Zur Desktop-Version</caption>
+    <default>Zur Desktop-Version</default>
+    <description>Beschriftung der Schaltfläche, die zur Desktop-Version der Seite führt.</description>
+  </languageresource>
+<languageresource uid="choosequiet">
+    <caption>Hinweis nicht mehr anzeigen</caption>
+    <default>Hinweis nicht mehr anzeigen</default>
+    <description>Beschriftung der Schaltfläche, die den Hinweis zur Desktop-Version ausblendet.</description>
+  </languageresource>
+  <languageresource uid="shownav">
+    <caption>Navigation einblenden</caption>
+    <default>Navigation einblenden</default>
+    <description>Beschriftung der Schaltfläche, die die Navigation einblendet.</description>
+  </languageresource>
+  <languageresource uid="hidenav">
+    <caption>Navigation ausblenden</caption>
+    <default>Navigation ausblenden</default>
+    <description>Beschriftung der Schaltfläche, die die Navigation ausblendet.</description>
+  </languageresource>
+</languageresourcedictionary>

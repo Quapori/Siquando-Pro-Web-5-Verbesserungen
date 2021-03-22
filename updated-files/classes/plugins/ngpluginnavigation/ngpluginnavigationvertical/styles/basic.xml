@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="green_triangle.png" uid="green_triangle" caption="Grünes Dreieck" />	
+</styles>

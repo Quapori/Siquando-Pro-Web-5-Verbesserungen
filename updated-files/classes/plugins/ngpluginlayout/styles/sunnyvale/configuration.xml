@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProSunnyvale.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund (Gesamt)</color>
+		<color id="background.alt">Hintergrund (Gesamt, alternativ)</color>
+		
+		<color id="background.header">Hintergrund (oben)</color>
+		<color id="background.footer">Hintergrund (unten)</color>
+		<color id="background.left">Hintergrund (links)</color>
+		<color id="background.right">Hintergrund (rechts)</color>
+		<color id="background.content">Hintergrund (Inhalt)</color>
+		
+		<color id="topbar.background">Kopfbereich (Hintergrund)</color>
+		<color id="topbar.foreground">Kopfbereich (Vordergrund)</color>
+		<color id="topbar.searchbutton">Kopfbereich (Suchschaltfläche)</color>
+		
+		
+		<color id="nav.background">Navigation (Hintergrund)</color>
+		<color id="nav.foreground">Navigation (Vordergrund)</color>
+		<color id="nav.hover">Navigation (Vordergrund, Mauszeiger darüber)</color>
+		<color id="nav.clearmode">Navigation (Schließschaltfläche)</color>
+		
+		
+		<color id="common.background">Allgemeine Navigation Hintergrund</color>
+		<color id="common.font">Allgemeine Navigation Vordergrund (dunkel)</color>
+		<color id="common.bright">Allgemeine Navigation Vordergrund (hell)</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+	</config>	
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<slider id="width" min="1200" max="1800" >Gesamtbreite des Layouts</slider>
+		<style id="background" height="48" url="classes/plugins/ngpluginlayout/styles/sunnyvale/backstyles/">Hintergrund</style>
+		<radio id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten">Navigationsstil „Allgemeine Seiten“</radio>
+		<radio id="expandnav" options="fat=Nur bei Klick auf Pfeil (alle Navigationspunkte sind direkt erreichbar)|sparse=Bei Klick auf Pfeil oder Text (eingängiger, Zwischen-Navigationspunkte sind nicht direkt erreichbar)">Navigationszweig ausklappen</radio>
+		<radio id="captionposition" options="content=Im Absatzbereich „Inhalt“|header=Im Absatzbereich „Oben“">Position der Seitenüberschrift und der „Sie sind hier“-Navigation</radio>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

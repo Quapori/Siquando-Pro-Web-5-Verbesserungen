@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="paracountdown" caption="Countdown">
+    <languageresource uid="hours">
+        <caption>Stunden</caption>
+        <default>Std</default>
+        <description>Die Beschriftung der Stundenanzeige</description>
+    </languageresource>
+    <languageresource uid="minutes">
+        <caption>Minuten</caption>
+        <default>Min</default>
+        <description>Die Beschriftung der Minutenanzeige</description>
+    </languageresource>
+    <languageresource uid="seconds">
+        <caption>Sekunden</caption>
+        <default>Sek</default>
+        <description>Die Beschriftung der Sekundenanzeige</description>
+    </languageresource>
+    <languageresource uid="days">
+        <caption>Tage</caption>
+        <default>Tage</default>
+        <description>Die Beschriftung der Tageanzeige</description>
+    </languageresource>
+</languageresourcedictionary>

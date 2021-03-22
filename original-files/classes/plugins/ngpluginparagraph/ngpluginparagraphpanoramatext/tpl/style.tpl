@@ -1,0 +1,1 @@
+#ngparapanotext{$uid} p, #ngparatxtsl{$uid} a { color: #{$colorforeground} }

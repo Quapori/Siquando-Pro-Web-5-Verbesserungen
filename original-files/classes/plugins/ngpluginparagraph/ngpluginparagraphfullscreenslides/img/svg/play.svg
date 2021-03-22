@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="74" height="74" viewBox="0 0 74.00 74.00" enable-background="new 0 0 74.00 74.00" xml:space="preserve">
+	<path fill="#000000" fill-opacity="0.2" d="M 38,5C 55.6731,5 70,19.3269 70,37C 70,54.6731 55.6731,69 38,69C 20.3269,69 6,54.6731 6,37C 6,19.3269 20.3269,5 38,5 Z M 38,13C 24.7452,13 14,23.7452 14,37C 14,50.2548 24.7452,61 38,61C 51.2548,61 62,50.2548 62,37C 62,23.7452 51.2548,13 38,13 Z "/>
+	<path fill="#000000" fill-opacity="0.2" d="M 30,25L 30,49L 50,37L 30,25 Z "/>
+	<path fill="#FFFFFF" fill-opacity="0.8" d="M 37,5C 54.6731,5 69,19.3269 69,37C 69,54.6731 54.6731,69 37,69C 19.3269,69 5,54.6731 5,37C 5,19.3269 19.3269,5 37,5 Z M 37,13C 23.7452,13 13,23.7452 13,37C 13,50.2548 23.7452,61 37,61C 50.2548,61 61,50.2548 61,37C 61,23.7452 50.2548,13 37,13 Z "/>
+	<path fill="#FFFFFF" fill-opacity="0.8" d="M 29,25L 29,49L 49,37L 29,25 Z "/>
+</svg>

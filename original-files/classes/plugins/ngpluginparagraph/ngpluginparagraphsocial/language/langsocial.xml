@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="parasocial" caption="Social Media">
+  <languageresource uid="facebookinfo">
+    <caption>Facebook (Info)</caption>
+    <default>Zwei Klicks für mehr Datenschutz: Erst wenn Sie hier klicken, wird der Button aktiv und Sie können Ihre Empfehlung an Facebook senden. Schon beim Aktivieren werden Daten an Dritte übertragen.</default>
+    <description>Hinweistext zu Facebook</description>
+  </languageresource>
+  <languageresource uid="facebookdisplayname">
+    <caption>Facebook</caption>
+    <default>Facebook</default>
+    <description>Beschriftung des Dienstes „Facebook“.</description>
+  </languageresource>
+  <languageresource uid="twitterinfo">
+    <caption>Twitter (Info)</caption>
+    <default>Zwei Klicks für mehr Datenschutz: Erst wenn Sie hier klicken, wird der Button aktiv und Sie können Ihre Empfehlung an Twitter senden. Schon beim Aktivieren werden Daten an Dritte übertragen.</default>
+    <description>Hinweistext zu Twitter</description>
+  </languageresource>
+  <languageresource uid="twitterdisplayname">
+    <caption>Twitter</caption>
+    <default>Twitter</default>
+    <description>Beschriftung des Dienstes „Twitter“.</description>
+  </languageresource>
+  <languageresource uid="gplusinfo">
+    <caption>Google+ (Info)</caption>
+    <default>Zwei Klicks für mehr Datenschutz: Erst wenn Sie hier klicken, wird der Button aktiv und Sie können Ihre Empfehlung an Google+ senden. Schon beim Aktivieren werden Daten an Dritte übertragen.</default>
+    <description>Hinweistext zu Google+</description>
+  </languageresource>
+  <languageresource uid="gplusdisplayname">
+    <caption>Google+</caption>
+    <default>Google+</default>
+    <description>Beschriftung des Dienstes „Google+“.</description>
+  </languageresource>
+  <languageresource uid="perm">
+    <caption>Dauerhaft aktivieren</caption>
+    <default>Dauerhaft aktivieren:</default>
+    <description>Beschriftung der Funktion „Dauerhaft aktivieren“</description>
+  </languageresource>
+  <languageresource uid="help">
+    <caption>Hilfe</caption>
+    <default>Wenn Sie diese Felder durch einen Klick aktivieren, werden Informationen an Facebook, Twitter oder Google in die USA übertragen und unter Umständen auch dort gespeichert.</default>
+    <description>Beschriftung der Funktion „Dauerhaft aktivieren“</description>
+  </languageresource>  
+</languageresourcedictionary>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path fill="none" stroke-linejoin="miter" stroke="#{colora}" stroke-opacity="1" d="M 3,24L 10,17L 17,24L 10,31L 3,24Z "/>
+	<path fill="#{colorb}" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 6,24L 10,20L 14,24L 10,28L 6,24 Z "/>
+	<path fill="none" stroke-linejoin="miter" stroke="#{colora}" stroke-opacity="1" d="M 3,8L 10,1L 17,8L 10,15L 3,8 Z "/>
+</svg>

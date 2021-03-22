@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>vestibuel</id>
+  <caption>Vestibuel</caption>
+  <type>NGPluginLayoutFlexR</type>
+  <preview>preview_boat.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <initialversion>3.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Dieses farbenfrohe aber dennoch geradlinige Design ist für jede Website ein Volltreffer.</summary>
+</style>

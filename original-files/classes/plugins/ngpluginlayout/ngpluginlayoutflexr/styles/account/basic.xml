@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="accountdefault.png" uid="accountdefault" caption="(Standard)" />
+	<style preview="accountoutline.png" uid="accountoutline" caption="Umriss" />
+	<style preview="accountbank.png" uid="accountbank" caption="Konto" />
+	<style preview="accountbox.png" uid="accountbox" caption="Rechteckig" />
+	<style preview="accountcircle.png" uid="accountcircle" caption="Rund" />
+	<style preview="accountface.png" uid="accountface" caption="Gesicht" />
+	<style preview="none.png" uid="none" caption="(Keins)" />
+</styles>

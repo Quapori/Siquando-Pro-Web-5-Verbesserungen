@@ -1,0 +1,76 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">plural</string>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.address">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.email">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.facebook">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.googleplus">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.instagram">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.linkedin">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.phone">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.phoneitu">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.pinterest">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.twitter">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.xing">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.youtube">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7e2717093921de10d00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.commonnavhierarchical">dual</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.galeryinheritance">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.search">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1300</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">cbd3c6</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.border">e4ebe0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs.background">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs.hover">000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs.links">36591a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs.text">555555</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.background">36591a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.hover">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.links">e4ecdc</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.text">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.contact.hover">77bf39</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.contact.links">36591a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.contact.text">36591a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.content">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.fullnav.background">e4ecdc</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.fullnav.foreground.1">36591a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.fullnav.foreground.2">555555</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.fullnav.hover.1">000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.fullnav.hover.2">000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.header.background">36591a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.header.current">77bf39</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.header.foreground">e4ecdc</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.mainnav.background">477321</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.mainnav.current">77bf39</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.mainnav.foreground">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.mainnav.hover">36591a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.search.background">e4ecdc</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.search.foreground">36591a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.secnav.background">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.secnav.foreground">555555</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.secnav.hover">000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="slider.autoprogress">10</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

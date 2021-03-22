@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="moredefault.png" uid="moredefault" caption="(Standard)" />
+	<style preview="moresmall.png" uid="moresmall" caption="Klein" />
+	<style preview="moreelegant.png" uid="moreelegant" caption="Elegant" />
+	<style preview="morechevron.png" uid="morechevron" caption="Chevron" />
+	<style preview="moretriangle.png" uid="moretriangle" caption="Dreieck" />
+	<style preview="moreround.png" uid="moreround" caption="Abgerundet" />
+	<style preview="morearrow.png" uid="morearrow" caption="Pfeil" />
+	<style preview="morecircle.png" uid="morecircle" caption="Kreis" />
+	<style preview="none.png" uid="none" caption="(Keins)" />
+</styles>

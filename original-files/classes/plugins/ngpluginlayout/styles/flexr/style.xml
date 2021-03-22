@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>flexr</id>
+  <caption>Leeres Flex-Layout</caption>
+  <type>NGPluginLayoutFlexR</type>
+  <preview>preview_standard.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <initialversion>3.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Ein leeres responsives Flex-Layout. Ideal, um ein vollständig neues Design-Projekt zu starten.</summary>
+  <dependencies />
+  <substyles>
+    <substyle id="standard">
+      <caption>Standard</caption>
+      <preview>preview_standard.jpg</preview>
+      <previewbig>previewbig_standard.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderfont">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="commontopfill.color">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="contacttext">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="logofill.color">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="navfill.color">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="navcolorpriopen">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="navfontsec">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="navfontsearch">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="navfontter">828282</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="commonfill.color">828282</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="commontoppages">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="navfontpri">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="commonfolders">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="commonpages">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="commontext">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexRSettings" property="commonlink">ebebeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">ebebeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">ebebeb</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">ebebeb</dependency>
+      </dependencies>
+    </substyle>
+  </substyles>
+</style>

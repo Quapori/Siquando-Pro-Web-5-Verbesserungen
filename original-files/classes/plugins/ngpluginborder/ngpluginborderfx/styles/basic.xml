@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="preview_default.png" uid="default" caption="Standard (eckig)" />
+	<style preview="preview_default_round.png" uid="default_round" caption="Standard (rund)" />
+	<style preview="preview_photo.png" uid="photo" caption="Foto (eckig)" />
+	<style preview="preview_photo_round.png" uid="photo_round" caption="Foto (rund)" />
+	<style preview="preview_border_blue.png" uid="border_blue" caption="Rahmen (blau)" />
+	<style preview="preview_border_white.png" uid="border_white" caption="Rahmen (weiß)" />
+	<style preview="preview_border_green.png" uid="border_green" caption="Rahmen (grün)" />
+	<style preview="preview_border_yellow.png" uid="border_yellow" caption="Rahmen (gelb)" />
+	<style preview="preview_inset.png" uid="inset" caption="Vertieft (eckig)" />
+	<style preview="preview_inset_round.png" uid="inset_round" caption="Vertieft (rund)" />
+</styles>

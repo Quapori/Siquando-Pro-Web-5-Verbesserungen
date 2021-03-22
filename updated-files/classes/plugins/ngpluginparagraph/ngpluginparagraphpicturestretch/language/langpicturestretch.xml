@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="parapicturestretch" caption="Bildstrecke">
+	<languageresource uid="pictures">
+		<caption>Galerie mit x Bildern</caption>
+		<default>Galerie mit [n] Bildern</default>
+		<description>Beschriftung des Links zum Starten der Bilderstrecke. Verwenden Sie [n] als Platzhalter für die Anzahl.</description>
+	</languageresource>
+</languageresourcedictionary>

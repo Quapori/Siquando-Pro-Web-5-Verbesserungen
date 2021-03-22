@@ -1,0 +1,108 @@
+ul.ngteasercaptionsymbol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+ul.ngteasercaptionsymbol:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+ul.ngteasercaptionsymbol > li {
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    padding: 0.5em;
+
+}
+
+ul.ngteasercaptionsymbolaleft > li {
+    text-align: left;
+}
+
+ul.ngteasercaptionsymbolaright > li {
+    text-align: right;
+}
+
+ul.ngteasercaptionsymbolacenter > li {
+    text-align: center;
+}
+
+ul.ngteasercaptionsymbol > li > a,
+ul.ngteasercaptionsymbol > li > a:hover {
+    text-decoration: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    transition: color 0.4s;
+}
+
+ul.ngteasercaptionsymbolc1 > li {
+    width: 100%;
+}
+
+ul.ngteasercaptionsymbolc2 > li {
+    width: 50%;
+}
+
+ul.ngteasercaptionsymbolc2 > li:nth-child(2n+1) {
+    clear: both;
+}
+
+ul.ngteasercaptionsymbolc3 > li {
+    width: 33.33%;
+}
+
+ul.ngteasercaptionsymbolc3 > li:nth-child(3n+1) {
+    clear: both;
+}
+
+
+ul.ngteasercaptionsymbolc4 > li {
+    width: 25%;
+}
+
+ul.ngteasercaptionsymbolc4 > li:nth-child(4n+1) {
+    clear: both;
+}
+
+ul.ngteasercaptionsymbolc5 > li {
+    width: 20%;
+}
+
+ul.ngteasercaptionsymbolc5 > li:nth-child(5n+1) {
+    clear: both;
+}
+
+ul.ngteasercaptionsymbolc6 > li {
+    width: 16.66%;
+}
+
+ul.ngteasercaptionsymbolc6 > li:nth-child(6n+1) {
+    clear: both;
+}
+
+
+.ngteasercaptionsymbolsymbol {
+    width: 1.5em;
+    height: 1.5em;
+    display: inline-block;
+    vertical-align: -0.4em;
+    margin-right: 0.4em;
+    border: 0;
+    padding: 0;
+}
+
+ul.ngteasercaptionsymbolcircle img {
+    border-radius: 1.5em;
+}
+
+@media (max-width: 767px) {
+    ul.ngteasercaptionsymbol > li {
+        width: 100%;
+        float: none;
+    }
+}

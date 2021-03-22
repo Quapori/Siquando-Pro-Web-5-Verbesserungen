@@ -1,0 +1,14 @@
+.ngparasfxband {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.ngparasfxband>div {
+    position: absolute;
+}
+
+.ngparasfxband>div>img {
+    display: block;
+    position: absolute;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="files" caption="Dateitpyen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="file.png" uid="file" caption="Datei" />
+	<style preview="fileexe.png" uid="fileexe" caption="Programm" />
+    <style preview="filemovie.png" uid="filemovie" caption="Video" />
+    <style preview="filepdf.png" uid="filepdf" caption="PDF Dokument" />
+    <style preview="filesound.png" uid="filesound" caption="Audio" />
+    <style preview="filetext.png" uid="filetext" caption="Text Dokument" />
+    <style preview="filezip.png" uid="filezip" caption="Archiv" />
+    <style preview="download.png" uid="download" caption="Download" />
+</styles>

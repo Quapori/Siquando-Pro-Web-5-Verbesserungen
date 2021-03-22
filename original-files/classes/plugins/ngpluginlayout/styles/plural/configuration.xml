@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProPlural.chm">
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund Seite</color>
+		<color id="content">Hintergrund Inhalt</color>
+		<color id="border">Rahmenfarbe</color>
+		<color id="header.background">Kopfbereich, Hintergrund</color>
+		<color id="header.foreground">Kopfbereich, Vordergrund</color>
+		<color id="header.current">Kopfbereich, Markierung</color>
+		<color id="mainnav.background">Hauptnavigation, Hintergrund</color>
+		<color id="mainnav.foreground">Hauptnavigation, Vordergrund</color>
+		<color id="mainnav.hover">Hauptnavigation, Markierung (Maus darüber)</color>
+		<color id="mainnav.current">Hauptnavigation, Markierung (Aktuelle Seite)</color>
+		<color id="secnav.background">Zweitnavigation, Hintergrund</color>
+		<color id="secnav.foreground">Zweitnavigation, Vordergrund</color>
+		<color id="secnav.hover">Zweitnavigation, Vordergrund (Maus darüber)</color>
+		<color id="fullnav.background">Vollnavigation, Hintergrund</color>
+		<color id="fullnav.foreground.1">Vollnavigation, Ebene 1, Vordergrund</color>
+		<color id="fullnav.hover.1">Vollnavigation, Ebene 1, Vordergrund (Maus darüber)</color>
+		<color id="fullnav.foreground.2">Vollnavigation, Ebene 2, Vordergrund</color>
+		<color id="fullnav.hover.2">Vollnavigation, Ebene 2, Vordergrund (Maus darüber)</color>
+		<color id="search.background">Suchfeld, Hintergrund</color>
+		<color id="search.foreground">Suchfeld, Vordergrund</color>
+		<color id="breadcrumbs.background">„Sie sind hier“, Hintergrund</color>
+		<color id="breadcrumbs.text">„Sie sind hier“, Text</color>
+		<color id="breadcrumbs.links">„Sie sind hier“, Links</color>
+		<color id="breadcrumbs.hover">„Sie sind hier“, Links (Maus darüber)</color>
+		<color id="common.background">Allgemeine Seiten, Hintergrund</color>
+		<color id="common.text">Allgemeine Seiten, Text</color>
+		<color id="common.links">Allgemeine Seiten, Links</color>
+		<color id="common.hover">Allgemeine Seiten, Links (Maus darüber)</color>
+		<color id="contact.text">Kontakt, Text</color>
+		<color id="contact.links">Kontakt, Links</color>
+		<color id="contact.hover">Kontakt, Links (Maus darüber)</color>
+	</config>
+
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, übergeordneten Ordner, dann Eyecatcher verwenden</option>
+		<combo id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten|dual=Ordner und Seiten plus Seiten">Navigationsstil „Allgemeine Seiten“</combo>
+		<slider id="width" min="1000" max="1600" >Gesamtbreite des Layouts</slider>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="contact" caption="Kontakt">
+		<string id="phone">Telefonnummer, Anzeige</string>
+		<string id="phoneitu" info="Geben Sie hier die Telefonnummer im internationalen Format an, damit Besucher mit Smartphones die Nummer antippen können, um direkt einen Anruf zu tätigen.">Telefonnummer, ITU</string>
+		<string id="address">Adresse</string>
+		<email id="email">E-Mail-Adresse</email>
+		<url id="facebook">Facebook</url>
+		<url id="twitter">Twitter</url>
+		<url id="googleplus">Google+</url>
+		<url id="linkedin">LinkedIn</url>
+		<url id="xing">Xing</url>
+		<url id="instagram">Instagram</url>
+		<url id="youtube">YouTube</url>
+		<url id="pinterest" info="Wenn Sie Links auf die aufgeführten sozialen Netzwerke setzen, werden unter Umständen Marken der Netzwerke auf Ihrer Website platziert. Bitte beachten Sie deren Nutzungsbedingungen.">Pinterest</url>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

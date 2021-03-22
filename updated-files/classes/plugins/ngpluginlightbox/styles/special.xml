@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="special" caption="Spezial" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="threedred.png" uid="threedred" caption="Räumlich rot" />
+	<style preview="threedgray.png" uid="threedgray" caption="Räumlich grau" />
+	<style preview="threedblue.png" uid="threedblue" caption="Räumlich blau" />
+	<style preview="ui.png" uid="ui" caption="UI-Stil" />
+	<style preview="cross.png" uid="cross" caption="Kreuz" />
+	<style preview="comic.png" uid="comic" caption="Comic" />
+</styles>

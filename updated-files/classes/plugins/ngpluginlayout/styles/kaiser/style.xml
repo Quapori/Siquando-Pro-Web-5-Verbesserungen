@@ -1,0 +1,1184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>kaiser</id>
+  <caption>Kaiser</caption>
+  <type>NGPluginLayoutPro</type>
+  <preview>preview_staircase.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <initialversion>3.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Kaiser kombiniert eine überzeugende Panorama-Darstellung mit einem Super-Drop-Down-Menü.</summary>
+  <dependencies />
+  <substyles>
+    <substyle id="staircase">
+      <caption>Staircase</caption>
+      <preview>preview_staircase.jpg</preview>
+      <previewbig>previewbig_staircase.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9795</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f614c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f614c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f614c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f614c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f614c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f614c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f614c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f614c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f614c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eeeb</dependency>
+        <dependency filename="th011.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="bunkerhill">
+      <caption>Bunker Hill</caption>
+      <preview>preview_bunkerhill.jpg</preview>
+      <previewbig>previewbig_bunkerhill.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666363</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666363</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666363</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9595</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9595</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9595</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f564c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f564c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f564c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f564c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f564c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f564c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f564c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f564c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f564c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eceb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eceb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eceb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eceb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eceb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eceb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eceb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eceb</dependency>
+        <dependency filename="th019.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="burger">
+      <caption>Burger</caption>
+      <preview>preview_burger.jpg</preview>
+      <previewbig>previewbig_burger.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666363</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666363</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666363</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9595</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9595</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9595</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f4f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f4f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f4f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f4f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f4f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f4f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f4f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f4f4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f4f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eceb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eceb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eceb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eceb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eceb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eceb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eceb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eceb</dependency>
+        <dependency filename="th012.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="centralpark">
+      <caption>Central Park</caption>
+      <preview>preview_centralpark.jpg</preview>
+      <previewbig>previewbig_centralpark.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">636664</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">636664</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">636664</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">636664</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">636664</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">636664</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">636664</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">959a98</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">959a98</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">959a98</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">959a98</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">959a98</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">959a98</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">959a98</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">4c7f6d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4c7f6d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">4c7f6d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">4c7f6d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">4c7f6d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">4c7f6d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">4c7f6d</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">4c7f6d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">4c7f6d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ebf1ef</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ebf1ef</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">ebf1ef</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">ebf1ef</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ebf1ef</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">ebf1ef</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">ebf1ef</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">ebf1ef</dependency>
+        <dependency filename="th005.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="chollas">
+      <caption>Chollas</caption>
+      <preview>preview_chollas.jpg</preview>
+      <previewbig>previewbig_chollas.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666563</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666563</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666563</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9995</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9995</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9995</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f794c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f794c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f794c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f794c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f794c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f794c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f794c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f794c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f794c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1f0eb</dependency>
+        <dependency filename="th020.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="crysler">
+      <caption>Crysler</caption>
+      <preview>preview_crysler.jpg</preview>
+      <previewbig>previewbig_crysler.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">636566</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">636566</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">636566</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">636566</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">636566</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">636566</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">636566</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">95989a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">95989a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">95989a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">95989a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">95989a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">95989a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">95989a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">4c6f7f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ebeff1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ebeff1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">ebeff1</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">ebeff1</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ebeff1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">ebeff1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">ebeff1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">ebeff1</dependency>
+        <dependency filename="th013.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="dontwalk">
+      <caption>Dont walk</caption>
+      <preview>preview_dontwalk.jpg</preview>
+      <previewbig>previewbig_dontwalk.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666563</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666563</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666563</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9895</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9895</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9895</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1efeb</dependency>
+        <dependency filename="th014.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="dragons">
+      <caption>Dragons</caption>
+      <preview>preview_dragons.jpg</preview>
+      <previewbig>previewbig_dragons.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">636466</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">636466</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">636466</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">636466</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">636466</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">636466</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">636466</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">95979a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">95979a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">95979a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">95979a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">95979a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">95979a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">95979a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">4c647f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4c647f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">4c647f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">4c647f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">4c647f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">4c647f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">4c647f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">4c647f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">4c647f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ebeef1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ebeef1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">ebeef1</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">ebeef1</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ebeef1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">ebeef1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">ebeef1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">ebeef1</dependency>
+        <dependency filename="th030.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="flag">
+      <caption>Flag</caption>
+      <preview>preview_flag.jpg</preview>
+      <previewbig>previewbig_flag.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">656663</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">656663</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">656663</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">999a95</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">999a95</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">999a95</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">767f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">767f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">767f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">767f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">767f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">767f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">767f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">767f4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">767f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f0f1eb</dependency>
+        <dependency filename="th009.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="frost">
+      <caption>Frost</caption>
+      <preview>preview_frost.jpg</preview>
+      <previewbig>previewbig_frost.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9795</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f644c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f644c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f644c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f644c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f644c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f644c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f644c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f644c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f644c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eeeb</dependency>
+        <dependency filename="th016.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="ladyliberty">
+      <caption>Lady Liberty</caption>
+      <preview>preview_ladyliberty.jpg</preview>
+      <previewbig>previewbig_ladyliberty.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">636666</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">636666</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">636666</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">636666</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">636666</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">636666</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">636666</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">959a9a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">959a9a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">959a9a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">959a9a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">959a9a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">959a9a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">959a9a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">4c7f7f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ebf1f1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ebf1f1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">ebf1f1</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">ebf1f1</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ebf1f1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">ebf1f1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">ebf1f1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">ebf1f1</dependency>
+        <dependency filename="th010.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="landmark">
+      <caption>Landmark</caption>
+      <preview>preview_landmark.jpg</preview>
+      <previewbig>previewbig_landmark.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666563</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666563</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666563</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9995</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9995</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9995</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f774c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f774c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f774c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f774c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f774c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f774c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f774c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f774c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f774c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1f0eb</dependency>
+        <dependency filename="th006.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="lizard">
+      <caption>Lizard</caption>
+      <preview>preview_lizard.jpg</preview>
+      <previewbig>previewbig_lizard.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9795</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f634c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f634c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f634c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f634c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f634c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f634c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f634c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f634c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f634c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eeeb</dependency>
+        <dependency filename="th021.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="manhattan">
+      <caption>Manhattan</caption>
+      <preview>preview_manhattan.jpg</preview>
+      <previewbig>previewbig_manhattan.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">636665</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">636665</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">636665</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">636665</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">636665</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">636665</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">636665</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">959a98</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">959a98</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">959a98</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">959a98</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">959a98</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">959a98</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">959a98</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">4c7f72</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4c7f72</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">4c7f72</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">4c7f72</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">4c7f72</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">4c7f72</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">4c7f72</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">4c7f72</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">4c7f72</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ebf1ef</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ebf1ef</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">ebf1ef</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">ebf1ef</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ebf1ef</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">ebf1ef</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">ebf1ef</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">ebf1ef</dependency>
+        <dependency filename="th004.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="misty">
+      <caption>Misty</caption>
+      <preview>preview_misty.jpg</preview>
+      <previewbig>previewbig_misty.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">656663</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">656663</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">656663</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">999a95</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">999a95</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">999a95</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7b7f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7b7f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7b7f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7b7f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7b7f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7b7f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7b7f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7b7f4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7b7f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f0f1eb</dependency>
+        <dependency filename="th018.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="ocean">
+      <caption>Ocean</caption>
+      <preview>preview_ocean.jpg</preview>
+      <previewbig>previewbig_ocean.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9795</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f674c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f674c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f674c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f674c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f674c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f674c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f674c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f674c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f674c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eeeb</dependency>
+        <dependency filename="th023.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="oculus">
+      <caption>Oculus</caption>
+      <preview>preview_oculus.jpg</preview>
+      <previewbig>previewbig_oculus.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9795</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f634c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f634c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f634c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f634c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f634c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f634c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f634c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f634c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f634c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eeeb</dependency>
+        <dependency filename="th028.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="ohcrap">
+      <caption>Oh Crap</caption>
+      <preview>preview_ohcrap.jpg</preview>
+      <previewbig>previewbig_ohcrap.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9795</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f684c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f684c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f684c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f684c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f684c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f684c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f684c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f684c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f684c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eeeb</dependency>
+        <dependency filename="th027.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="parking">
+      <caption>Parking</caption>
+      <preview>preview_parking.jpg</preview>
+      <previewbig>previewbig_parking.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666563</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666563</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666563</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9995</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9995</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9995</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9995</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f784c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f784c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f784c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f784c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f784c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f784c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f784c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f784c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f784c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1f0eb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1f0eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1f0eb</dependency>
+        <dependency filename="th001.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="redbricks">
+      <caption>Red Bricks</caption>
+      <preview>preview_redbricks.jpg</preview>
+      <previewbig>previewbig_redbricks.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9795</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f614c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f614c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f614c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f614c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f614c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f614c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f614c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f614c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f614c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eeeb</dependency>
+        <dependency filename="th002.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="roma">
+      <caption>Roma</caption>
+      <preview>preview_roma.jpg</preview>
+      <previewbig>previewbig_roma.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666363</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666363</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666363</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9695</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9695</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9695</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f594c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f594c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f594c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f594c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f594c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f594c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f594c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f594c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f594c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1edeb</dependency>
+        <dependency filename="th029.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="rust">
+      <caption>Rust</caption>
+      <preview>preview_rust.jpg</preview>
+      <previewbig>previewbig_rust.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9695</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9695</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9695</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f5e4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1edeb</dependency>
+        <dependency filename="th003.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="slavin">
+      <caption>Slavin</caption>
+      <preview>preview_slavin.jpg</preview>
+      <previewbig>previewbig_slavin.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666363</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666363</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666363</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666363</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9595</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9595</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9595</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9595</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f4c51</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f4c51</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f4c51</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f4c51</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f4c51</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f4c51</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f4c51</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f4c51</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f4c51</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1ebec</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1ebec</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1ebec</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1ebec</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1ebec</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1ebec</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1ebec</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1ebec</dependency>
+        <dependency filename="th008.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="spider">
+      <caption>Spider</caption>
+      <preview>preview_spider.jpg</preview>
+      <previewbig>previewbig_spider.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9795</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9795</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9795</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f664c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f664c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f664c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f664c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f664c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f664c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f664c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f664c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f664c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1eeeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1eeeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1eeeb</dependency>
+        <dependency filename="th015.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="stream">
+      <caption>Stream</caption>
+      <preview>preview_stream.jpg</preview>
+      <previewbig>previewbig_stream.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666563</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666563</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666563</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9895</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9895</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9895</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1efeb</dependency>
+        <dependency filename="th022.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="streams">
+      <caption>Streams</caption>
+      <preview>preview_streams.jpg</preview>
+      <previewbig>previewbig_streams.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666463</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666463</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666463</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666463</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9695</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9695</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9695</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9695</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f5e4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f5e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1edeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1edeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1edeb</dependency>
+        <dependency filename="th026.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="sunset">
+      <caption>Sunset</caption>
+      <preview>preview_sunset.jpg</preview>
+      <previewbig>previewbig_sunset.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">636666</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">636666</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">636666</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">636666</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">636666</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">636666</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">636666</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">959a9a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">959a9a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">959a9a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">959a9a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">959a9a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">959a9a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">959a9a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">4c7f7f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">4c7f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ebf1f1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ebf1f1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">ebf1f1</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">ebf1f1</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ebf1f1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">ebf1f1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">ebf1f1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">ebf1f1</dependency>
+        <dependency filename="th024.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="tiber">
+      <caption>Tiber</caption>
+      <preview>preview_tiber.jpg</preview>
+      <previewbig>previewbig_tiber.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">636566</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">636566</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">636566</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">636566</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">636566</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">636566</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">636566</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">95989a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">95989a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">95989a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">95989a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">95989a</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">95989a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">95989a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">4c6f7f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">4c6f7f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ebeff1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ebeff1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">ebeff1</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">ebeff1</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ebeff1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">ebeff1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">ebeff1</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">ebeff1</dependency>
+        <dependency filename="th025.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="winter">
+      <caption>Winter</caption>
+      <preview>preview_winter.jpg</preview>
+      <previewbig>previewbig_winter.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">656663</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">656663</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">656663</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">656663</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">999a95</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">999a95</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">999a95</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">999a95</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7a7f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7a7f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7a7f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7a7f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7a7f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7a7f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7a7f4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7a7f4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7a7f4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f0f1eb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f0f1eb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f0f1eb</dependency>
+        <dependency filename="th017.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="yellowcabs">
+      <caption>Yellow Cabs</caption>
+      <preview>preview_yellowcabs.jpg</preview>
+      <previewbig>previewbig_yellowcabs.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbordercolor">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.color">666563</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.text">666563</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">666563</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">666563</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldcaptionfont">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">9a9895</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact">9a9895</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common">9a9895</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="2">9a9895</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline3font">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbordercolor">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.color">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.bullets">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.contact.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.common.hover">7f6e4c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="3">7f6e4c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellaltbackground.color">f1efeb</dependency>
+        <dependency type="Color" module="NGPluginLayoutPro" property="palette.nav.background">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvalueborder">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundhover">f1efeb</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackgroundactive">f1efeb</dependency>
+        <dependency filename="th007.jpg" type="Picture" module="NGPluginLayoutPro" property="eyecatcher">w7e27160b2d05808e400000000000000</dependency>
+      </dependencies>
+    </substyle>
+  </substyles>
+</style>

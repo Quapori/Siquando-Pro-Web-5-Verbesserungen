@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>bradbury</id>
+  <caption>Bradbury</caption>
+  <type>NGPluginLayoutFlexR</type>
+  <preview>preview_deepblue.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <initialversion>3.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Ein inverses Design mit heller Schrift auf dunklem Grund.</summary>
+</style>

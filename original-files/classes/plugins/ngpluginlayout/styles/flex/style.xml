@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>flex</id>
+  <caption>Leeres Flex-Layout</caption>
+  <type>NGPluginLayoutFlex</type>
+  <product>SIQUANDO Pro 5</product>
+  <initialversion>1.0</initialversion>
+  <responsive>false</responsive>
+  <preview>preview_standard.jpg</preview>
+  <summary>Ein leeres Flex-Layout. Ideal, um ein vollständig neues Design-Projekt zu starten.</summary>
+  <dependencies />
+  <substyles>
+    <substyle id="standard">
+      <caption>Standard</caption>
+      <preview>preview_standard.jpg</preview>
+      <previewbig>previewbig_standard.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="defaultfont">000000</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline4font">000000</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline5font">000000</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline6font">000000</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldfont">000000</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverfontstyle">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.textbarhover">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.textbaractive">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontpopup">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.prefixtextpopuphover">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.searchcolor">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="commonnavigationcommon.common.text">000000</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="commonnavigationcommon.common.texthover">000000</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluetext">000000</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbackground.color">ffffff</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submitbackground.startcolor">ffffff</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="submithoverbackground.startcolor">ffffff</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbackground.color">ffffff</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="background.color">ffffff</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navbackground.color">ffffff</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopup.color">ffffff</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.searchbackground.color">ffffff</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="searchleftsearchbackground.color">ffffff</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="searchrightsearchbackground.color">ffffff</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="commonbackground.color">ffffff</dependency>
+        <dependency type="Color" module="NGSettingsTabs" property="colorvaluebackground">ffffff</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="background.color">ffffff</dependency>
+      </dependencies>
+    </substyle>
+  </substyles>
+</style>

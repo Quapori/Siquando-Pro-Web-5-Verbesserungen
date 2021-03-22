@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProVallejo.chm">
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>true</showlink>
+		<showtitle>true</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnkown</aspectratio>
+		<showlink>true</showlink>
+		<showtitle>true</showtitle>
+		<showoverride>false</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="alt">Hervorgehobene Farbe</color>
+		<color id="background">Hintergrund</color>
+		<color id="navigation">Navigation</color>
+		<color id="main">Hauptbereich</color>
+	</config>	
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="includehome">Startseite in Navigation aufnehmen</option>
+	</config>
+</configs>

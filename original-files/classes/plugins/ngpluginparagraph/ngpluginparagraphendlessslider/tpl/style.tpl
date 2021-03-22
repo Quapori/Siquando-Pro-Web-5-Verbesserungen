@@ -1,0 +1,3 @@
+#sqwpluginendless{$uid} .sqwpluginendlessnav { color:#{$captionscolor};{if $captionswide}letter-spacing:4px;{/if}{if $captionsupper}text-transform:uppercase;{/if}{if $captionsbold}font-weight:bold;{/if}{if $captionsitalic}font-style:italic;{/if}{if $captionsshadow}text-shadow:1px 1px 4px rgba(0,0,0,0.3);{/if}text-decoration: none;font-size:15px }
+#sqwpluginendless{$uid} .sqwpluginendlesscurrent { color:#{$captionscolor};{if $captionswide}letter-spacing:1px;{/if}{if $captionsupper}text-transform:uppercase;{/if}{if $captionsbold}font-weight:bold;{/if}{if $captionsitalic}font-style:italic;{/if}{if $captionsshadow}text-shadow:1px 1px 4px rgba(0,0,0,0.3);{/if}text-decoration:none; }
+#sqwpluginendless{$uid} .sqwpluginendlessbullets>div { background-image:url({$bullet}) }

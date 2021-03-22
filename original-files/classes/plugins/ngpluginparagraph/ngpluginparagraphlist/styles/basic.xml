@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="Grau, Standard" />
+	<style preview="small.png" uid="small" caption="Grau, klein" />
+	<style preview="rect.png" uid="rect" caption="Grau, eckig" />
+	<style preview="smallrect.png" uid="smallrect" caption="Grau, eckig, klein" />
+	<style preview="star.png" uid="star" caption="Grau, Stern" />
+	<style preview="round.png" uid="round" caption="Grau, abgerundet" />
+	<style preview="smallround.png" uid="smallround" caption="Grau, abgerundet, klein" />
+	<style preview="arrow.png" uid="arrow" caption="Grau, Pfeil" />
+</styles>

@@ -1,0 +1,96 @@
+.sqwpluginendless {
+    position: relative;
+}
+
+.sqwpluginendlessoverlay {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    overflow: hidden;
+}
+
+.sqwpluginendlessoverlay>a.sqwpluginendlessnav,
+.sqwpluginendlessoverlay>a.sqwpluginendlesscurrent {
+    display: block;
+    position: absolute;
+}
+
+.sqwpluginendlessoverlay>a.sqwpluginendlessnav {
+    overflow: hidden;
+}
+
+.sqwpluginendlessoverlay>a.sqwpluginendlessnav>span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%) rotate(90deg);
+    white-space: nowrap;
+}
+
+.sqwpluginendlessoverlay>a.sqwpluginendlesscurrent>span {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 4%;
+    box-sizing: border-box;
+}
+
+
+.sqwpluginendlessstage {
+    position: relative;
+    overflow: hidden;
+    background-color: #000000;
+    transform: scale3d(1,1,1);
+}
+
+.sqwpluginendlessstage>ul {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.sqwpluginendlessstage>ul>li {
+    margin: 0;
+    padding: 0;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.sqwpluginendlessstage>ul>li>img {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.sqwpluginendlessbullets {
+    margin: 10px auto;
+}
+
+.sqwpluginendlessbullets>div {
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.sqwpluginendlessbullets>div.sqwpluginendlessbulletactive {
+    background-position: 0 -20px;
+}
+
+.sqwpluginendlessbullets:after {
+    content: "";
+    display: table;
+    clear: both;
+}

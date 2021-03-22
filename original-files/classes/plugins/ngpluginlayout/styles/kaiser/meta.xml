@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>kaiser</id>
+  <caption>Kaiser</caption>
+  <type>NGPluginLayoutPro</type>
+  <preview>preview_staircase.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <initialversion>3.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Kaiser kombiniert eine überzeugende Panorama-Darstellung mit einem Super-Drop-Down-Menü.</summary>
+</style>

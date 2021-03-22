@@ -1,0 +1,22 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">quantico</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd7190d2c2bbda5300000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd719082206d4edb00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.animate">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">edeee9</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.footer">f0f0f0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.header">f0f0f0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.main">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav">b42e26</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.navbackground">000000</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

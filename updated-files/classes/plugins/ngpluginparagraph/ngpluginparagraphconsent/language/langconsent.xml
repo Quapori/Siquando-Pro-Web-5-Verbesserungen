@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="paraconsent" caption="Cookie Kontrollzentrum">
+  <languageresource uid="on">
+    <caption>aktiv</caption>
+    <default>aktiv</default>
+    <description>Die Beschriftung aktiver Cookies</description>
+  </languageresource>
+  <languageresource uid="off">
+    <caption>nicht aktiv</caption>
+    <default>nicht aktiv</default>
+    <description>Die Beschriftung nicht aktiver Cookies</description>
+  </languageresource>
+  <languageresource uid="essential">
+    <caption>immer aktiv</caption>
+    <default>immer aktiv</default>
+    <description>Die Beschriftung technisch notwendiger, immer aktiver Cookies</description>
+  </languageresource>
+  <languageresource uid="all">
+    <caption>Alle aktivieren</caption>
+    <default>Alle aktivieren</default>
+    <description>Die Beschriftung der Schaltfläche „Alle aktivieren“</description>
+  </languageresource>
+  <languageresource uid="none">
+    <caption>Alle deaktivieren</caption>
+    <default>Alle deaktivieren</default>
+    <description>Die Beschriftung der Schaltfläche „Alle deaktivieren“</description>
+  </languageresource>
+</languageresourcedictionary>

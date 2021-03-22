@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="navigation" caption="Navigation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="world.png" uid="world" caption="Welt" />
+    <style preview="map.png" uid="map" caption="Karte" />
+    <style preview="pin.png" uid="pin" caption="Pin" />
+    <style preview="walk.png" uid="walk" caption="Fußgänger" />
+    <style preview="youarehere.png" uid="youarehere" caption="Standort" />
+    <style preview="plane.png" uid="plane" caption="Flugzeug" />
+    <style preview="train.png" uid="train" caption="Zug" />
+    <style preview="bus.png" uid="bus" caption="Bus" />
+    <style preview="car.png" uid="car" caption="Auto" />
+    <style preview="city.png" uid="city" caption="Stadt" />
+    <style preview="detour.png" uid="detour" caption="Umleitung" />
+    <style preview="terrain.png" uid="terrain" caption="Umgebung" />
+    <style preview="parking.png" uid="parking" caption="Parken" />
+    <style preview="motorcycle.png" uid="motorcycle" caption="Motorrad" />
+    <style preview="bike.png" uid="bike" caption="Fahrrad" />
+    <style preview="traffic.png" uid="traffic" caption="Verkehr" />
+</styles>

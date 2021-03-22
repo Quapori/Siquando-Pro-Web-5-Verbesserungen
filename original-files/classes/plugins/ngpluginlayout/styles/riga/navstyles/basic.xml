@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="navdefault.png" uid="navdefault" caption="(Standard)" />
+	<style preview="navsquare.png" uid="navsquare" caption="Quadratisch" />
+	<style preview="navdiamond.png" uid="navdiamond" caption="Raute" />
+	<style preview="navsimple.png" uid="navsimple" caption="Einfach" />
+	<style preview="navsimplesquare.png" uid="navsimplesquare" caption="Quadratisch, einfach" />
+	<style preview="navdonut.png" uid="navdonut" caption="Kringel" />
+	<style preview="navdot.png" uid="navdot" caption="Punkt" />
+</styles>

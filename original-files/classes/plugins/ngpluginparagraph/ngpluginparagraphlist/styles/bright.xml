@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="bright" caption="Hell" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="bright.png" uid="bright" caption="Hell" />
+	<style preview="brightsmall.png" uid="brightsmall" caption="Hell, klein" />
+	<style preview="brightrect.png" uid="brightrect" caption="Hell, eckig" />
+	<style preview="brightsmallrect.png" uid="brightsmallrect" caption="Hell, eckig, klein" />
+	<style preview="brightstar.png" uid="brightstar" caption="Hell, Stern" />
+	<style preview="brightround.png" uid="brightround" caption="Hell, abgerundet" />
+	<style preview="brightsmallround.png" uid="brightsmallround" caption="Hell, abgerundet, klein" />
+	<style preview="brightarrow.png" uid="brightarrow" caption="Hell, Pfeil" />
+</styles>

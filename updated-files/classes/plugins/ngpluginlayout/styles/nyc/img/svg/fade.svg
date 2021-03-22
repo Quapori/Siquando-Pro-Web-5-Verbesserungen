@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="1" height="800" viewBox="0 0 1.00 800.00" enable-background="new 0 0 1.00 800.00" xml:space="preserve">
+	<linearGradient id="fill" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="0" y2="1">
+		<stop offset="0" stop-color="#{colora}" stop-opacity="0.5"/>
+		<stop offset="1" stop-color="#{colora}" stop-opacity="0"/>
+	</linearGradient>
+	<rect x="0" y="0" fill="url(#fill)" stroke-linejoin="round" width="1" height="800"/>
+</svg>

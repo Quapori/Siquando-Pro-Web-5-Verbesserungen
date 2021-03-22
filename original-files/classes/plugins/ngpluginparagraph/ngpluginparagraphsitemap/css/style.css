@@ -1,0 +1,23 @@
+ul.ngsitemap ul {
+    margin:0;
+    padding:0;
+}
+
+ul.ngsitemap {
+    margin:0;
+    padding:0;	
+}
+
+ul.ngsitemap li {
+	list-style: none;
+    text-indent:0px;
+    background-position: 1px 6px;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    line-height: 26px;
+}
+
+ul.ngsitemap li.collapsed 
+{
+	cursor: pointer;	
+}

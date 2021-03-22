@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <style preview="default.png" uid="default" caption="(Standard)" />
+    <style preview="arrow.png" uid="arrow" caption="Pfeil" />
+    <style preview="bold.png" uid="bold" caption="Fett" />
+    <style preview="thin.png" uid="thin" caption="Dünn" />
+    <style preview="triangle.png" uid="triangle" caption="Dreieck" />
+    <style preview="filled.png" uid="filled" caption="Ausgefüllt" />
+    <style preview="small.png" uid="small" caption="Klein" />
+    <style preview="circle.png" uid="circle" caption="Kreis" />
+    <style preview="bow.png" uid="bow" caption="Bogen" />
+    <style preview="easy.png" uid="easy" caption="Leicht" />
+    <style preview="block.png" uid="block" caption="Block" />
+</styles>

@@ -1,0 +1,13 @@
+<object class="NGSettingsPalette" version="1.0">
+  <properties>
+    <string name="colorvalue" lang="--" domain="palette" index="0">#73472e</string>
+    <string name="colorvalue" lang="--" domain="palette" index="1">#593724</string>
+    <string name="colorvalue" lang="--" domain="palette" index="2">#b4856a</string>
+    <string name="colorvalue" lang="--" domain="palette" index="3">#2e7347</string>
+    <string name="colorvalue" lang="--" domain="palette" index="4">#2e5973</string>
+    <string name="colorvalue" lang="--" domain="palette" index="5">#f7f4f2</string>
+    <string name="name" lang="--" domain="name" unique="true">Palette</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

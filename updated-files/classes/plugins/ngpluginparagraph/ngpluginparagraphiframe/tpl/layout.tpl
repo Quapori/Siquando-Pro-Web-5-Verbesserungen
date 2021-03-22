@@ -1,0 +1,2 @@
+<iframe src="{$url|escape}" {if $responsive}class="sqrsuppressborders"{/if} {if $scrolling!='auto'}scrolling="{$scrolling}"{/if} style="width:{$width};height:{$height}px;border:{$frameborderwidth}px solid #{$framebordercolor}">
+</iframe>

@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse fill="#{colora}" fill-opacity="0.5" stroke-linejoin="round" stroke="#{colorb}" cx="27" cy="24" rx="20" ry="20"/>
+	<path fill="#{colorb}" d="M 29.435,11C 29.6303,11.1953 29.6303,11.5118 29.435,11.7071L 17.0607,24.0815L 29.435,36.4558C 29.6303,36.6511 29.6303,36.9677 29.435,37.1629C 29.2398,37.3582 28.9232,37.3582 28.7279,37.1629L 16,24.435C 15.8047,24.2398 15.8047,23.9232 16,23.7279L 28.7279,11C 28.9232,10.8047 29.2398,10.8047 29.435,11 Z "/>
+</svg>

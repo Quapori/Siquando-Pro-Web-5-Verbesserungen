@@ -1,0 +1,15 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">temecula</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd8050e1826305e700000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.alt">afcb97</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">588036</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

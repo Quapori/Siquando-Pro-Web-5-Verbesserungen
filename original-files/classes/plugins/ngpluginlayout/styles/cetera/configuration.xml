@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProCetera.chm">
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+    <config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+        <aspectratio>RatioUnknown</aspectratio>
+        <showlink>false</showlink>
+        <showtitle>false</showtitle>
+        <showoverride>false</showoverride>
+    </config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund, Seite</color>
+		<color id="contentbackground">Hintergrund, Inhalt</color>
+		<color id="boxborder">Rahmenfarbe</color>
+		<color id="breadcrumbs">„Sie sind hier“-Links</color>
+		<color id="breadcrumbs.hover">„Sie sind hier“-Links, Maus darüber</color>
+		<color id="contact">Kontakt-Links</color>
+		<color id="contact.hover">Kontakt-Links, Maus darüber</color>
+		<color id="footertext">Fußzeile, Text</color>
+		<color id="footerlinks">Fußzeile, Links</color>
+		<color id="footerhover">Fußzeile, Links, Maus darüber</color>
+		<color id="nav.active">Navigation, Markierung aktueller Punkt</color>
+		<color id="nav.open">Navigation, Markierung offener Punkt</color>
+		<color id="navtext">Navigation, Links</color>
+		<color id="navhover">Navigation, Links, Maus darüber</color>
+		<color id="searchtext">Suchfeld</color>
+		<color id="bullets">Navigationspunkte im Bildwechsler</color>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, übergeordneten Ordner, dann Eyecatcher verwenden</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="navpictures.1">Bilder für Navigationspunkte der 1. Ebene zeigen</option>
+		<option id="navpictures.2">Bilder für Navigationspunkte der 2. Ebene zeigen</option>
+		<option id="navpictures.3">Bilder für Navigationspunkte der 3. Ebene zeigen</option>
+		<cropratio id="cropratio.1">Bildformat der 1. Ebene</cropratio>
+		<cropratio id="cropratio.2">Bildformat der 2. Ebene</cropratio>
+		<cropratio id="cropratio.3">Bildformat der 3. Ebene</cropratio>
+		<combo id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten|dual=Ordner und Seiten plus Seiten">Navigationsstil „Allgemeine Seiten“</combo>
+		<slider id="width" min="1000" max="1600" >Gesamtbreite des Layouts</slider>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="contact" caption="Kontakt">
+		<string id="phone">Telefonnummer, Anzeige</string>
+		<string id="phoneitu" info="Geben Sie hier die Telefonnummer im internationalen Format an, damit Besucher mit Smartphones die Nummer antippen können, um direkt einen Anruf zu tätigen.">Telefonnummer, ITU</string>
+		<string id="address">Adresse</string>
+		<email id="email">E-Mail-Adresse</email>
+		<url id="facebook">Facebook</url>
+		<url id="twitter">Twitter</url>
+		<url id="googleplus">Google+</url>
+		<url id="linkedin">LinkedIn</url>
+		<url id="xing">Xing</url>
+		<url id="instagram">Instagram</url>
+		<url id="youtube">YouTube</url>
+		<url id="pinterest" info="Wenn Sie Links auf die aufgeführten sozialen Netzwerke setzen, werden unter Umständen Marken der Netzwerke auf Ihrer Website platziert. Bitte beachten Sie deren Nutzungsbedingungen.">Pinterest</url>
+	</config>
+
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+    <config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+    <config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

@@ -1,0 +1,213 @@
+<object class="NGPluginLayoutFlexSettings" version="1.0">
+  <properties>
+    <string name="background" lang="--" domain="LayoutFlex">solid 242e3a</string>
+    <bool name="center" lang="--" domain="LayoutFlex">true</bool>
+    <int name="width" lang="--" domain="LayoutFlex">960</int>
+    <string name="margin" lang="--" domain="LayoutFlex">0</string>
+    <string name="captionposition" lang="--" domain="LayoutFlex">content</string>
+    <string name="navposition" lang="--" domain="LayoutFlex">above</string>
+    <string name="navbackground" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="navbordercolor" lang="--" domain="LayoutFlex">d3d3d3</string>
+    <string name="navborderwidth" lang="--" domain="LayoutFlex">0</string>
+    <string name="navmargin" lang="--" domain="LayoutFlex">0</string>
+    <string name="navpadding" lang="--" domain="LayoutFlex">10 0 10 0</string>
+    <string name="navroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="navshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="navvisible" lang="--" domain="LayoutFlex">true</bool>
+    <text name="navnavigationhorizontal" lang="--" domain="LayoutFlex">NGPluginNavigationDropDown,Raleway&amp;#44;13&amp;#44;false&amp;#44;false&amp;#44;true&amp;#44;ffffff,solid f9f9f9,516580,solid dcdcdc,000000,,eaeaea,solid ffffff,Raleway&amp;#44;13&amp;#44;false&amp;#44;false&amp;#44;true&amp;#44;516580,solid f9f9f9,000000,true,,1,10,true,516580,solid ffffff,d3d3d3,0,4,default,16,0,160,,0 10 0 0</text>
+    <string name="navfill" lang="--" domain="LayoutFlex">solid 516580</string>
+    <string name="navlinetop" lang="--" domain="LayoutFlex">0 d3d3d3</string>
+    <string name="navlinebottom" lang="--" domain="LayoutFlex">1 242e3a</string>
+    <string name="eyecatcherbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="eyecatcherbordercolor" lang="--" domain="LayoutFlex">d7d7d7</string>
+    <string name="eyecatcherborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="eyecatchermargin" lang="--" domain="LayoutFlex">16 0 16 0</string>
+    <string name="eyecatcherpadding" lang="--" domain="LayoutFlex">16</string>
+    <string name="eyecatcherroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="eyecatchershadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="eyecatchervisible" lang="--" domain="LayoutFlex">true</bool>
+    <text name="eyecatchereyecatcher" lang="++" domain="LayoutFlex">NGPluginEyecatcherPicture,w7dd50e0a26273947700000000000000,fill31,100,false</text>
+    <string name="eyecatcherfill" lang="--" domain="LayoutFlex">solid f2e5c2</string>
+    <string name="eyecatcherlinetop" lang="--" domain="LayoutFlex">1 f2e5c2</string>
+    <string name="eyecatcherlinebottom" lang="--" domain="LayoutFlex">1 f2e5c2</string>
+    <string name="headerbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="headerbordercolor" lang="--" domain="LayoutFlex">d3d3d3</string>
+    <string name="headerborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="headermargin" lang="--" domain="LayoutFlex">0 0 16 0</string>
+    <string name="headerpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="headerroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="headershadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="headervisible" lang="--" domain="LayoutFlex">false</bool>
+    <string name="headerfill" lang="--" domain="LayoutFlex">solid f2e5c2</string>
+    <string name="headerlinetop" lang="--" domain="LayoutFlex">0 d3d3d3</string>
+    <string name="headerlinebottom" lang="--" domain="LayoutFlex">1 f2e5c2</string>
+    <string name="leftbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="leftbordercolor" lang="--" domain="LayoutFlex">d7d7d7</string>
+    <string name="leftborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="leftmargin" lang="--" domain="LayoutFlex">0 20 0 0</string>
+    <string name="leftpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="leftroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="leftshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="leftvisible" lang="--" domain="LayoutFlex">false</bool>
+    <int name="leftwidth" lang="--" domain="LayoutFlex">200</int>
+    <string name="logoleftlogo" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="logoleftbackground" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="logoleftbordercolor" lang="--" domain="LayoutFlex">d3d3d3</string>
+    <string name="logoleftborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="logoleftmargin" lang="--" domain="LayoutFlex">0 10 10 0</string>
+    <string name="logoleftpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="logoleftroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="logoleftshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="logoleftvisible" lang="--" domain="LayoutFlex">false</bool>
+    <int name="logoleftwidth" lang="--" domain="LayoutFlex">200</int>
+    <string name="navleftbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="navleftbordercolor" lang="--" domain="LayoutFlex">d7d7d7</string>
+    <string name="navleftborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="navleftmargin" lang="--" domain="LayoutFlex">0 10 10 0</string>
+    <string name="navleftpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="navleftroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="navleftshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="navleftvisible" lang="--" domain="LayoutFlex">false</bool>
+    <int name="navleftwidth" lang="--" domain="LayoutFlex">200</int>
+    <text name="navleftnavigationvertical" lang="--" domain="LayoutFlex">NGPluginNavigationVertical</text>
+    <string name="searchleftbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="searchleftbordercolor" lang="--" domain="LayoutFlex">d7d7d7</string>
+    <string name="searchleftborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="searchleftmargin" lang="--" domain="LayoutFlex">0 10 10 0</string>
+    <string name="searchleftpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="searchleftroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="searchleftshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="searchleftvisible" lang="--" domain="LayoutFlex">false</bool>
+    <int name="searchleftwidth" lang="--" domain="LayoutFlex">200</int>
+    <string name="searchleftsearchborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="searchleftsearchroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="searchleftsearchcolor" lang="--" domain="LayoutFlex">444444</string>
+    <string name="searchleftsearchbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="searchleftsearchbordercolor" lang="--" domain="LayoutFlex">eeeeee</string>
+    <string name="searchleftsearchstyle" lang="--" domain="LayoutFlex">default</string>
+    <string name="contentbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="contentbordercolor" lang="--" domain="LayoutFlex">d7d7d7</string>
+    <string name="contentborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="contentmargin" lang="--" domain="LayoutFlex">0</string>
+    <string name="contentpadding" lang="--" domain="LayoutFlex">16</string>
+    <string name="contentroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="contentshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <string name="contentsubnav" lang="--" domain="LayoutFlex">
+    </string>
+    <bool name="contentshowbreadcrumbs" lang="--" domain="LayoutFlex">false</bool>
+    <string name="contentborderbreadcrumbs" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="rightbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="rightbordercolor" lang="--" domain="LayoutFlex">d7d7d7</string>
+    <string name="rightborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="rightmargin" lang="--" domain="LayoutFlex">0 0 0 20</string>
+    <string name="rightpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="rightroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="rightshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="rightvisible" lang="--" domain="LayoutFlex">false</bool>
+    <int name="rightwidth" lang="--" domain="LayoutFlex">200</int>
+    <string name="logorightlogo" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="logorightbackground" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="logorightbordercolor" lang="--" domain="LayoutFlex">d3d3d3</string>
+    <string name="logorightborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="logorightmargin" lang="--" domain="LayoutFlex">0 0 10 10</string>
+    <string name="logorightpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="logorightroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="logorightshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="logorightvisible" lang="--" domain="LayoutFlex">false</bool>
+    <int name="logorightwidth" lang="--" domain="LayoutFlex">200</int>
+    <string name="navrightbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="navrightbordercolor" lang="--" domain="LayoutFlex">d7d7d7</string>
+    <string name="navrightborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="navrightmargin" lang="--" domain="LayoutFlex">0 0 10 10</string>
+    <string name="navrightpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="navrightroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="navrightshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="navrightvisible" lang="--" domain="LayoutFlex">false</bool>
+    <int name="navrightwidth" lang="--" domain="LayoutFlex">200</int>
+    <text name="navrightnavigationvertical" lang="--" domain="LayoutFlex">NGPluginNavigationVertical</text>
+    <string name="searchrightbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="searchrightbordercolor" lang="--" domain="LayoutFlex">d7d7d7</string>
+    <string name="searchrightborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="searchrightmargin" lang="--" domain="LayoutFlex">0 0 10 10</string>
+    <string name="searchrightpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="searchrightroundedcorners" lang="--" domain="LayoutFlex">4</string>
+    <string name="searchrightshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="searchrightvisible" lang="--" domain="LayoutFlex">false</bool>
+    <int name="searchrightwidth" lang="--" domain="LayoutFlex">200</int>
+    <string name="searchrightsearchcolor" lang="--" domain="LayoutFlex">444444</string>
+    <string name="searchrightsearchbackground" lang="--" domain="LayoutFlex">solid ffffff</string>
+    <string name="searchrightsearchbordercolor" lang="--" domain="LayoutFlex">eeeeee</string>
+    <string name="searchrightsearchborderwidth" lang="--" domain="LayoutFlex">1</string>
+    <string name="searchrightsearchroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="searchrightsearchstyle" lang="--" domain="LayoutFlex">default</string>
+    <string name="footerbackground" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="footerbordercolor" lang="--" domain="LayoutFlex">d3d3d3</string>
+    <string name="footerborderwidth" lang="--" domain="LayoutFlex">0</string>
+    <string name="footermargin" lang="--" domain="LayoutFlex">0 0 0 0</string>
+    <string name="footerpadding" lang="--" domain="LayoutFlex">10</string>
+    <string name="footerroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="footershadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="footervisible" lang="--" domain="LayoutFlex">true</bool>
+    <string name="footerfill" lang="--" domain="LayoutFlex">solid 516580</string>
+    <string name="footerlinetop" lang="--" domain="LayoutFlex">1 242e3a</string>
+    <string name="footerlinebottom" lang="--" domain="LayoutFlex">0 000000</string>
+    <string name="containermainbackground" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="containermainbordercolor" lang="--" domain="LayoutFlex">afafaf</string>
+    <string name="containermainborderwidth" lang="--" domain="LayoutFlex">0</string>
+    <string name="containermainmargin" lang="--" domain="LayoutFlex">0 0 16 0</string>
+    <string name="containermainpadding" lang="--" domain="LayoutFlex">0</string>
+    <string name="containermainroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="containermainshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <string name="containermainfill" lang="--" domain="LayoutFlex">solid f2e5c2</string>
+    <string name="containermainlinetop" lang="--" domain="LayoutFlex">1 f2e5c2</string>
+    <string name="containermainlinebottom" lang="--" domain="LayoutFlex">1 f2e5c2</string>
+    <string name="containerleftbackground" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="containerleftbordercolor" lang="--" domain="LayoutFlex">d3d3d3</string>
+    <string name="containerleftborderwidth" lang="--" domain="LayoutFlex">0</string>
+    <string name="containerleftmargin" lang="--" domain="LayoutFlex">0</string>
+    <string name="containerleftpadding" lang="--" domain="LayoutFlex">0</string>
+    <string name="containerleftroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="containerleftshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <string name="containerleftfill" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="containerleftedge" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="containerrightbackground" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="containerrightbordercolor" lang="--" domain="LayoutFlex">d3d3d3</string>
+    <string name="containerrightborderwidth" lang="--" domain="LayoutFlex">0</string>
+    <string name="containerrightmargin" lang="--" domain="LayoutFlex">0</string>
+    <string name="containerrightpadding" lang="--" domain="LayoutFlex">0</string>
+    <string name="containerrightroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="containerrightshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <string name="containerrightfill" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="containerrightedge" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="commonbackground" lang="--" domain="LayoutFlex">
+    </string>
+    <string name="commonbordercolor" lang="--" domain="LayoutFlex">d3d3d3</string>
+    <string name="commonborderwidth" lang="--" domain="LayoutFlex">0</string>
+    <string name="commonmargin" lang="--" domain="LayoutFlex">0</string>
+    <string name="commonpadding" lang="--" domain="LayoutFlex">16 0 16 0</string>
+    <string name="commonroundedcorners" lang="--" domain="LayoutFlex">0</string>
+    <string name="commonshadow" lang="--" domain="LayoutFlex">3 3 0 SE</string>
+    <bool name="commonvisible" lang="--" domain="LayoutFlex">true</bool>
+    <text name="commonnavigationcommon" lang="--" domain="LayoutFlex">NGPluginNavigationCommonHierarchical,ffffff,Raleway,14,false,false,true,false,ffffff,Corbel,14,false,false,false,ffffff,true</text>
+    <string name="commonfill" lang="--" domain="LayoutFlex">solid 242e3a</string>
+    <string name="commonlinetop" lang="--" domain="LayoutFlex">0 ebebeb</string>
+    <string name="commonlinebottom" lang="--" domain="LayoutFlex">0 232323</string>
+    <string name="name" lang="--" domain="name" unique="true">LayoutFlex</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

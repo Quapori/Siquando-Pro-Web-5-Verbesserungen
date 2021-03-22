@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="small" caption="Klein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="mini.png" uid="mini" caption="Eckig (klein)" />
+	<style preview="miniround.png" uid="miniround" caption="Rund (klein)" />
+	<style preview="_default.png" uid="_default" caption="(Standard)" />
+</styles>

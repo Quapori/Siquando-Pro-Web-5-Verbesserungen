@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="preview_default.svg.png" uid="default.svg" caption="default" />
+	<style preview="preview_quarters.svg.png" uid="quarters.svg" caption="squarters" />
+	<style preview="preview_bits.svg.png" uid="bits.svg" caption="bits" />
+	<style preview="preview_twins.svg.png" uid="twins.svg" caption="twins" />
+	<style preview="preview_ticks.svg.png" uid="ticks.svg" caption="ticks" />
+</styles>

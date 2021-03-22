@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*)$ /assets/index.php?&ngq=$1 [B,QSA,L]
+</IfModule>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="updefault.png" uid="updefault" caption="(Standard)" />
+	<style preview="upsolid.png" uid="upsolid" caption="Ausgefüllt" />
+	<style preview="uproundbox.png" uid="uproundbox" caption="Abgerundetes Rechteck" />
+	<style preview="upbold.png" uid="upbold" caption="Fett" />
+	<style preview="upthin.png" uid="upthin" caption="Mager" />
+	<style preview="upbox.png" uid="upbox" caption="Rechteck" />
+	<style preview="uphollow.png" uid="uphollow" caption="Rechteck (hohl)" />
+	<style preview="uparrow.png" uid="uparrow" caption="Pfeil" />
+	<style preview="uparrowinverse.png" uid="uparrowinverse" caption="Pfeil (invers)" />
+	<style preview="upcircle.png" uid="upcircle" caption="Kreis" />
+</styles>

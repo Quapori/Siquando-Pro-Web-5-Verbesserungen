@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProRochester.chm">
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund</color>
+		<color id="search">Suchfeld</color>
+		<color id="signal">Signalfarbe</color>
+	</config>	
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="includehome">Startseite in Navigation aufnehmen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+	</config>
+</configs>

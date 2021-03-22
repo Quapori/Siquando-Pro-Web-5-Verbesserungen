@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="circle.png" uid="circle" caption="Kreis" />
+	<style preview="triangle.png" uid="triangle" caption="Dreieck (klein)" />
+	<style preview="bigtriangle.png" uid="bigtriangle" caption="Dreieck (groß)" />
+	<style preview="chevron.png" uid="chevron" caption="Chevron" />
+	<style preview="boldchevron.png" uid="boldchevron" caption="Chevron (fett)" />
+	<style preview="check.png" uid="check" caption="Häkchen" />
+	<style preview="arrow.png" uid="arrow" caption="Pfeil" />
+	<style preview="point.png" uid="point" caption="Punkt" />
+	<style preview="hollowcircle.png" uid="hollowcircle" caption="Kreis (hohl)" />
+	<style preview="hollow.png" uid="hollow" caption="Hohl" />
+	<style preview="round.png" uid="round" caption="Runde Kanten" />
+	<style preview="triple.png" uid="triple" caption="Dreifach" />
+	<style preview="plus.png" uid="plus" caption="Plus" />
+	<style preview="star.png" uid="star" caption="Sternchen" />
+	<style preview="checkcircle.png" uid="checkcircle" caption="Häkchen (im Kreis)" />
+	<style preview="checkcirclehollow.png" uid="checkcirclehollow" caption="Häkchen (im Kreis, hohl)" />
+	<style preview="checkbox.png" uid="checkbox" caption="Häkchen (im Kästchen)" />
+	<style preview="checkboxhollow.png" uid="checkboxhollow" caption="Häkchen (im Kästchen, hohl)" />
+
+</styles>

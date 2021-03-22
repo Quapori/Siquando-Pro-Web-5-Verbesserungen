@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProNashville.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>true</showlink>
+		<showtitle>true</showtitle>
+		<showoverride>false</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="navback">Hintergrund Navigation</color>
+		<color id="navtext">Text Navigation</color>
+		<color id="active">Aktiver Navigationspunkt</color>
+		<color id="header">Hintergrund oben</color>
+		<color id="main">Hintergrund Hauptbereich</color>
+		<color id="footer">Hintergrund unten</color>
+	</config>
+	
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+</configs>

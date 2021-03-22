@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="vector" caption="Vektor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.svg.png" uid="default.svg" caption="(Standard)" />
+	<style preview="small.svg.png" uid="small.svg" caption="Klein" />
+	<style preview="circle.svg.png" uid="circle.svg" caption="Rund" />
+	<style preview="rect.svg.png" uid="rect.svg" caption="Eckig" />
+	<style preview="more.svg.png" uid="more.svg" caption="Mehr" />
+	<style preview="triangle.svg.png" uid="triangle.svg" caption="Dreieck" />
+</styles>

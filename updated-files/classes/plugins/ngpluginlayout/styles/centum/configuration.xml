@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProCentum.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background.page">Hintergrund (Seite)</color>
+		<color id="background.top">Hintergrund (oben)</color>
+		<color id="background.content">Hintergrund (Inhalt)</color>
+		<color id="nav.bright">Navigation Vordergrund</color>
+		<color id="nav.dark">Navigation Hintergrund (dunkel)</color>
+		<color id="nav.hover">Navigation Hintergrund (Maus darüber)</color>
+		<color id="bullets.dark">Navigationspunkte (dunkel)</color>
+		<color id="bullets.bright">Navigationspunkte (hell)</color>
+		<color id="common.background">Allgemeine Navigation Hintergrund</color>
+		<color id="common.font">Allgemeine Navigation Vordergrund (dunkel)</color>
+		<color id="common.bright">Allgemeine Navigation Vordergrund (hell)</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+	</config>	
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<option id="largeslider">Große Bilder im Slider verwenden</option>
+		<option id="roundedcorners">Abgerundete Ecken oben am Hauptbereich</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, übergeordneten Ordner, dann Eyecatcher verwenden</option>
+		<option id="mutevideo">Video stummschalten</option>
+		<slider id="width" min="1200" max="1600" >Gesamtbreite des Layouts</slider>
+		<radio id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten">Navigationsstil „Allgemeine Seiten“</radio>
+		<style id="navstyle" height="24" url="classes/plugins/ngpluginlayout/styles/centum/navstyles/">Navigationsstil</style>
+	</config>
+	<config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

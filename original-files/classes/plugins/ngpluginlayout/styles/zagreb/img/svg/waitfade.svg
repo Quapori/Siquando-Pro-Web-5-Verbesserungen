@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="48" height="48" viewBox="0 0 48.00 48.00" enable-background="new 0 0 48.00 48.00" xml:space="preserve">
+	<linearGradient id="SVGID_Fill1_" gradientUnits="objectBoundingBox" x1="-2.59151e-009" y1="0.5" x2="1" y2="0.5">
+		<stop offset="0" stop-color="#{colorb}" stop-opacity="1"/>
+		<stop offset="1" stop-color="#{colora}" stop-opacity="1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_Fill1_)" stroke-linejoin="round" d="M 24,1C 36.7025,1 47,11.2975 47,24C 47,36.7026 36.7025,47 24,47C 11.2974,47 0.999995,36.7026 0.999995,24C 0.999995,11.2975 11.2974,1 24,1 Z M 24,5C 13.5066,5 5,13.5066 5,24C 5,34.4934 13.5066,43 24,43C 34.4934,43 43,34.4934 43,24C 43,13.5066 34.4934,5 24,5 Z "/>
+</svg>

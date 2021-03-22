@@ -1,0 +1,23 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">helmut</string>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">header,sidebarleft,sidebarright,footer</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.mainlayout">cols</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.title">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1200</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav">222222</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.active">c70101</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.hover">999999</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.title">c4c4c4</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

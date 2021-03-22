@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="parabloghead" caption="Blog-Kopf">
+    <languageresource uid="mon">
+        <caption>Montag</caption>
+        <default>Montag</default>
+        <description>Der Wochentag „Montag“</description>
+    </languageresource>
+    <languageresource uid="tue">
+        <caption>Dienstag</caption>
+        <default>Dienstag</default>
+        <description>Der Wochentag „Dienstag“</description>
+    </languageresource>
+    <languageresource uid="wed">
+        <caption>Mittwoch</caption>
+        <default>Mittwoch</default>
+        <description>Der Wochentag „Mittwoch“</description>
+    </languageresource>
+    <languageresource uid="thu">
+        <caption>Donnerstag</caption>
+        <default>Donnerstag</default>
+        <description>Der Wochentag „Donnerstag“</description>
+    </languageresource>
+    <languageresource uid="fri">
+        <caption>Freitag</caption>
+        <default>Freitag</default>
+        <description>Der Wochentag „Freitag“</description>
+    </languageresource>
+    <languageresource uid="sat">
+        <caption>Samstag</caption>
+        <default>Samstag</default>
+        <description>Der Wochentag „Samstag“</description>
+    </languageresource>
+    <languageresource uid="sun">
+        <caption>Sonntag</caption>
+        <default>Sonntag</default>
+        <description>Der Wochentag „Sonntag“</description>
+    </languageresource>
+    <languageresource uid="january">
+        <caption>Januar</caption>
+        <default>Januar</default>
+        <description>Der Monat „Januar“</description>
+    </languageresource>
+    <languageresource uid="february">
+        <caption>Februar</caption>
+        <default>Februar</default>
+        <description>Der Monat „Februar“</description>
+    </languageresource>
+    <languageresource uid="march">
+        <caption>März</caption>
+        <default>März</default>
+        <description>Der Monat „März“</description>
+    </languageresource>
+    <languageresource uid="april">
+        <caption>April</caption>
+        <default>April</default>
+        <description>Der Monat „April“</description>
+    </languageresource>
+    <languageresource uid="may">
+        <caption>Mai</caption>
+        <default>Mai</default>
+        <description>Der Monat „Mai“</description>
+    </languageresource>
+    <languageresource uid="june">
+        <caption>Juni</caption>
+        <default>Juni</default>
+        <description>Der Monat „Juni“</description>
+    </languageresource>
+    <languageresource uid="july">
+        <caption>Juli</caption>
+        <default>Juli</default>
+        <description>Der Monat „Juli“</description>
+    </languageresource>
+    <languageresource uid="august">
+        <caption>August</caption>
+        <default>August</default>
+        <description>Der Monat „August“</description>
+    </languageresource>
+    <languageresource uid="september">
+        <caption>September</caption>
+        <default>September</default>
+        <description>Der Monat „september“</description>
+    </languageresource>
+    <languageresource uid="october">
+        <caption>Oktober</caption>
+        <default>Oktober</default>
+        <description>Der Monat „Oktober“</description>
+    </languageresource>
+    <languageresource uid="november">
+        <caption>November</caption>
+        <default>November</default>
+        <description>Der Monat „November“</description>
+    </languageresource>
+    <languageresource uid="december">
+        <caption>Dezember</caption>
+        <default>Dezember</default>
+        <description>Der Monat „Dezember“</description>
+    </languageresource>
+    <languageresource uid="by">
+        <caption>von</caption>
+        <default>von</default>
+        <description>Das Wort „von“ in der Autorenkennzeichnung</description>
+    </languageresource>
+    <languageresource uid="facebook">
+        <caption>Bei Facebook teilen</caption>
+        <default>Bei Facebook teilen</default>
+        <description>Beschriftung des Links „Bei Facebook teilen“.
+        </description>
+    </languageresource>
+    <languageresource uid="twitter">
+        <caption>Bei Twitter teilen</caption>
+        <default>Bei Twitter teilen</default>
+        <description>Beschriftung des Links „Bei Twitter teilen“.
+        </description>
+    </languageresource>
+    <languageresource uid="googleplus">
+        <caption>Bei Google+ teilen</caption>
+        <default>Bei Google+ teilen</default>
+        <description>Beschriftung des Links „Bei Google+ teilen“.
+        </description>
+    </languageresource>
+    <languageresource uid="linkedin">
+        <caption>Bei LinkedIn teilen</caption>
+        <default>Bei LinkedIn teilen</default>
+        <description>Beschriftung des Links „Bei LinkedIn teilen“.
+        </description>
+    </languageresource>
+    <languageresource uid="xing">
+        <caption>Bei XING teilen</caption>
+        <default>Bei XING teilen</default>
+        <description>Beschriftung des Links „Bei XING teilen“.</description>
+    </languageresource>
+    <languageresource uid="mail">
+        <caption>Per E-Mail teilen</caption>
+        <default>Per E-Mail teilen</default>
+        <description>Beschriftung des Links „Per E-Mail teilen“.</description>
+    </languageresource>
+
+</languageresourcedictionary>

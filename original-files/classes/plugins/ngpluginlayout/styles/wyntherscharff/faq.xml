@@ -1,0 +1,17 @@
+<object class="NGSettingsFAQ" version="1.0">
+  <properties>
+    <string name="colorvalueborder" lang="--" domain="faq">e5e5e5</string>
+    <string name="colorvalueborderactive" lang="--" domain="faq">4f81bd</string>
+    <string name="colorvalueborderhover" lang="--" domain="faq">
+    </string>
+    <string name="colorvaluetext" lang="--" domain="faq">808080</string>
+    <string name="colorvaluetexthover" lang="--" domain="faq">
+    </string>
+    <string name="colorvaluetextactive" lang="--" domain="faq">4f81bd</string>
+    <int name="paddingvertical" lang="--" domain="faq">10</int>
+    <int name="paddinghorizontal" lang="--" domain="faq">20</int>
+    <string name="name" lang="--" domain="name" unique="true">FAQ</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

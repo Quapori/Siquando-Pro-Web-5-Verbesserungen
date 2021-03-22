@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="paraguestbook" caption="Gästebuch">
+  <languageresource uid="name">
+    <caption>Name</caption>
+    <default>Ihr Name</default>
+    <description>Die Beschriftung des Felds „Name“</description>
+  </languageresource>
+  <languageresource uid="email">
+    <caption>E-Mail</caption>
+    <default>Ihre E-Mail (wird nicht angezeigt)</default>
+    <description>Die Beschriftung des Felds „E-Mail“</description>
+  </languageresource>
+  <languageresource uid="location">
+    <caption>Woher kommen Sie?</caption>
+    <default>Woher kommen Sie?</default>
+    <description>Die Beschriftung des Felds „Woher kommen Sie?“</description>
+  </languageresource>
+  <languageresource uid="caption">
+    <caption>Überschrift</caption>
+    <default>Überschrift</default>
+    <description>Die Beschriftung des Felds „Überschrift“</description>
+  </languageresource>
+  <languageresource uid="message">
+    <caption>Nachricht</caption>
+    <default>Ihre Nachricht</default>
+    <description>Die Beschriftung des Felds „Ihre Nachricht“</description>
+  </languageresource>
+  <languageresource uid="submit">
+    <caption>Absenden</caption>
+    <default>Absenden</default>
+    <description>Die Beschriftung der Schaltfläche „Absenden“</description>
+  </languageresource>
+  <languageresource uid="recaptcha">
+    <caption>Bitte lösen Sie folgendes Captcha</caption>
+    <default>Bitte lösen Sie folgendes Captcha</default>
+    <description>Die Beschriftung des Captchas</description>
+  </languageresource>
+  <languageresource uid="invalidcaptcha">
+    <caption>Captcha falsch</caption>
+    <default>Sie haben das Captcha nicht richtig gelöst. Bitte versuchen Sie es erneut.</default>
+    <description>Fehlermeldung, die erscheint, wenn das Captcha nicht gelöst wurde.</description>
+  </languageresource>
+  <languageresource uid="missingfields">
+    <caption>Felder nicht ausgefüllt</caption>
+    <default>Sie haben nicht alle Felder ausgefüllt.</default>
+    <description>Fehlermeldung, die erscheint, wenn nicht alle Felder ausgefüllt wurden.</description>
+  </languageresource>
+  <languageresource uid="mustconsent">
+    <caption>Der Datenverarbeitung nicht zugestimmt.</caption>
+    <default>Um einen Gästebucheintrag zu verfassen, müssen Sie der Datennutzung zustimmen.</default>
+    <description>Fehlermeldung, die erscheint, wenn der Besucher der Datennutzung nicht zugestimmt hat.</description>
+  </languageresource>
+  <languageresource uid="post">
+    <caption>Beitrag schreiben</caption>
+    <default>Schreiben Sie uns einen Beitrag</default>
+    <description>Überschrift des Bereichs, in dem der Besucher einen eigenen Beitrag verfassen kann.</description>
+  </languageresource>
+  <languageresource uid="stars">
+    <caption>Ihre Bewertung</caption>
+    <default>Ihre Bewertung</default>
+    <description>Die Beschriftung des Felds „Ihre Bewertung“</description>
+  </languageresource>
+  <languageresource uid="star1">
+    <caption>1 Stern</caption>
+    <default>1 Stern</default>
+    <description>Die Bewertung „1 Stern“</description>
+  </languageresource>
+  <languageresource uid="star2">
+    <caption>2 Sterne</caption>
+    <default>2 Sterne</default>
+    <description>Die Bewertung „2 Sterne“</description>
+  </languageresource>
+  <languageresource uid="star3">
+    <caption>3 Sterne</caption>
+    <default>3 Sterne</default>
+    <description>Die Bewertung „3 Sterne“</description>
+  </languageresource>
+  <languageresource uid="star4">
+    <caption>4 Sterne</caption>
+    <default>4 Sterne</default>
+    <description>Die Bewertung „4 Sterne“</description>
+  </languageresource>
+  <languageresource uid="star5">
+    <caption>5 Sterne</caption>
+    <default>5 Sterne</default>
+    <description>Die Bewertung „5 Sterne“</description>
+  </languageresource>
+  <languageresource uid="average">
+    <caption>5 von 5 Sternen</caption>
+    <default>[s] von 5 Sternen</default>
+    <description>Der Text „4.5 von 5 Sternen“. Verwenden Sie [s] als Platzhalter für den Durchschnittswert.</description>
+  </languageresource>
+  <languageresource uid="thankyou">
+    <caption>Vielen Dank (nicht moderiert)</caption>
+    <default>Herzlichen Dank dafür, dass Sie sich die Zeit genommen haben, einen Beitrag für unser Gästebuch zu verfassen.</default>
+    <description>Meldung, die erscheint, wenn ein Beitrag in einem nicht moderierten Gästebuch verfasst wurde.</description>
+  </languageresource>
+  <languageresource uid="thankyoumod">
+    <caption>Vielen Dank (moderiert)</caption>
+    <default>Herzlichen Dank dafür, dass Sie sich die Zeit genommen haben, einen Beitrag für unser Gästebuch zu verfassen. Wir werden ihn nach kurzer Prüfung umgehend veröffentlichen.</default>
+    <description>Meldung, die erscheint, wenn ein Beitrag in einem moderierten Gästebuch verfasst wurde.</description>
+  </languageresource>
+  <languageresource uid="from">
+    <caption>Zusatz „aus“</caption>
+    <default>aus</default>
+    <description>Der Zusatz, wenn Besucher ihren Ort angegeben haben, z.B. „Jutta aus Bonn“.</description>
+  </languageresource>
+  <languageresource uid="mailpreamble">
+    <caption>E-Mail - Einleitung</caption>
+    <default>Ein Besucher hat einen neuen Eintrag in Ihrem Gästebuch verfasst.</default>
+    <description>Einleitender Text der E-Mail, die Sie erhalten, wenn ein neuer Gästebucheintrag verfasst worden ist.</description>
+  </languageresource>
+  <languageresource uid="mailpreamblemod">
+    <caption>E-Mail - Moderationshinweis</caption>
+    <default>Da Sie ein moderiertes Gästebuch betreiben, müssen Sie den Eintrag in SIQUANDO Pro freischalten, bevor dieser angezeigt wird.</default>
+    <description>Erklärungstext, der erscheint, wenn ein moderiertes Gästebuch verwendet wird.</description>
+  </languageresource>
+  <languageresource uid="mailname">
+    <caption>E-Mail - Name</caption>
+    <default>Name</default>
+    <description>Die Beschriftung des Felds „Name“ in der Benachrichtigungsmail.</description>
+  </languageresource>
+  <languageresource uid="mailcaption">
+    <caption>E-Mail - Überschrift</caption>
+    <default>Überschrift</default>
+    <description>Die Beschriftung des Felds „Überschrift“ in der Benachrichtigungsmail.</description>
+  </languageresource>
+  <languageresource uid="mailmessage">
+    <caption>E-Mail - Nachricht</caption>
+    <default>Nachricht</default>
+    <description>Die Beschriftung des Felds „Nachricht“ in der Benachrichtigungsmail.</description>
+  </languageresource>
+  <languageresource uid="mailemail">
+    <caption>E-Mail - E-Mail</caption>
+    <default>E-Mail</default>
+    <description>Die Beschriftung des Felds „E-Mail“ in der Benachrichtigungsmail.</description>
+  </languageresource>
+  <languageresource uid="maillocation">
+    <caption>E-Mail - Ort</caption>
+    <default>Ort</default>
+    <description>Die Beschriftung des Felds „Ort“ in der Benachrichtigungsmail.</description>
+  </languageresource>
+  <languageresource uid="mailstars">
+    <caption>E-Mail - Sterne</caption>
+    <default>Sterne</default>
+    <description>Die Beschriftung des Felds „Sterne“ in der Benachrichtigungsmail.</description>
+  </languageresource>
+  <languageresource uid="mailview">
+    <caption>E-Mail - Jetzt ansehen</caption>
+    <default>Seite mit Gästebuch jetzt ansehen.</default>
+    <description>Die Beschriftung des Links zur Seite mit dem Gästebuch</description>
+  </languageresource>
+</languageresourcedictionary>

@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: local('Vollkorn Regular'), local('Vollkorn-Regular'), url(./../fonts/vollkorn-regular-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: local('Vollkorn Italic'), local('Vollkorn-Italic'), url(./../fonts/vollkorn-italic-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: local('Vollkorn Bold Italic'), local('Vollkorn-BoldItalic'), url(./../fonts/vollkorn-bold-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: local('Vollkorn Bold'), local('Vollkorn-Bold'), url(./../fonts/vollkorn-bolditalic-webfont.woff) format('woff');
+}

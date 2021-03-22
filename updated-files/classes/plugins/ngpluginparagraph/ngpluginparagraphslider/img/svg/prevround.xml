@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path d="M 0,0C 13.2548,0 24,10.7452 24,24C 24,37.2548 13.2548,48 0,48L 0,0 Z " fill="#{colora}" fill-opacity="0.4"/>
+	<path d="M 5,23L 13,31L 13,15L 5,23 Z" fill="#{colorb}"/>
+</svg>

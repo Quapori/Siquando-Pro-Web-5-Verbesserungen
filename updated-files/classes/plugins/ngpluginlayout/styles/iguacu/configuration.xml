@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProIguacu.chm">
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyectacher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioNone</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund (Gesamt)</color>
+		<color id="mainborder">Rahmen um Layout</color>
+		<color id="background.content">Hintergrund (Inhalt)</color>
+		<color id="nav.background">Navigation (Hintergrund)</color>
+		<color id="nav.background.alt">Navigation (Hintergrund, alternativ)</color>
+		<color id="nav.foreground">Navigation (Vordergrund)</color>
+		<color id="nav.hover">Navigation (Vordergrund, Maus darüber)</color>
+		<color id="common.background">Allgemeine Navigation Hintergrund</color>
+		<color id="common.font">Allgemeine Navigation Vordergrund</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+		<color id="breadcrumbs.background">„Sie sind hier“ (Hintergrund)</color>
+		<color id="breadcrumbs.color">„Sie sind hier“ (Vordergrund)</color>
+		<color id="breadcrumbs.link">„Sie sind hier“ (Links)</color>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<slider id="width" min="1200" max="1800" >Gesamtbreite des Layouts</slider>
+		<slider id="navwidth" min="180" max="420" >Breite der Navigation</slider>
+		<radio id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten|dual=Ordner und Seiten plus Seiten">Navigationsstil „Allgemeine Seiten“</radio>
+		<radio id="expandnav" options="fat=Nur bei Klick auf Pfeil (alle Navigationspunkte sind direkt erreichbar)|sparse=Bei Klick auf Pfeil oder Text (eingängiger, Zwischen-Navigationspunkte sind nicht direkt erreichbar)">Navigationszweig ausklappen</radio>
+		<radio id="navpos" options="left=Links|right=Rechts">Position der Navigation</radio>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="contact" caption="Kontakt">
+		<email id="email">E-Mail-Adresse</email>
+		<url id="facebook">Facebook</url>
+		<url id="twitter">Twitter</url>
+		<url id="linkedin">LinkedIn</url>
+		<url id="xing">Xing</url>
+		<url id="instagram">Instagram</url>
+		<url id="youtube">YouTube</url>
+		<url id="pinterest" info="Wenn Sie Links auf die aufgeführten sozialen Netzwerke setzen, werden unter Umständen Marken der Netzwerke auf Ihrer Website platziert. Bitte beachten Sie deren Nutzungsbedingungen.">Pinterest</url>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

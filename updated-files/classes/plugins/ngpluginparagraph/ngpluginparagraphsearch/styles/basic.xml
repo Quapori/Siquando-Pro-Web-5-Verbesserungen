@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="black.png" uid="black" caption="Schwarz" />
+	<style preview="white_preview.png" uid="white" caption="Weiß" />
+	<style preview="color.png" uid="color" caption="Farbig" />
+	<style preview="lookingglass.png" uid="lookingglass" caption="Feldstecher" />
+	<style preview="big.png" uid="big" caption="Groß" />	
+</styles>

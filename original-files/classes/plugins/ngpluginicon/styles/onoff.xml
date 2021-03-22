@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="onoff" caption="An/Aus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="staroff.png" uid="staroff" caption="Stern (aus)" />
+	<style preview="staron.png" uid="staron" caption="Stern (an)" />
+	<style preview="circleoff.png" uid="circleoff" caption="Kreis (aus)" />
+	<style preview="circleon.png" uid="circleon" caption="Kreis (an)" />
+	<style preview="boxoff.png" uid="boxoff" caption="Kasten (aus)" />
+	<style preview="boxon.png" uid="boxon" caption="Kasten (an)" />
+</styles>

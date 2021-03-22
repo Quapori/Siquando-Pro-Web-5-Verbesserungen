@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="navdefault.png" uid="navdefault" caption="(Standard)" />
+	<style preview="navhollow.png" uid="navhollow" caption="Hohl" />
+	<style preview="navbicolor.png" uid="navbicolor" caption="Zweifarbig" />
+	<style preview="navdot.png" uid="navdot" caption="Punkte" />
+	<style preview="navrect.png" uid="navrect" caption="Rechteck" />
+	<style preview="navrecthollow.png" uid="navrecthollow" caption="Rechteck, hohl" />
+	<style preview="navrectbig.png" uid="navrectbig" caption="Rechteck, groß" />
+	<style preview="navrectround.png" uid="navrectround" caption="Rechteck, abgerundet" />
+	<style preview="navdiamond.png" uid="navdiamond" caption="Raute" />
+	<style preview="navdiamondalt.png" uid="navdiamondalt" caption="Raute, alternativ" />
+</styles>

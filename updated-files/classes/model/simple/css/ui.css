@@ -1,0 +1,70 @@
+.nguiparagraphcontainer {
+	position: relative;
+}
+
+.nguieditparagraph {
+	width: 64px;
+	height: 32px;
+	background-color: rgba(0,0,0,0.8);
+	border-radius: 5px;
+	z-index: 900;
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: none;
+}
+
+.nguiparagraphcontainer:hover .nguieditparagraph
+{
+	display: block; 
+}
+
+.ngparagraphstreamcontainer:hover .nguiaddparagraph
+{
+	visibility: visible;
+}
+
+.nguiaddparagraph {
+	width: 96px;
+	height: 32px;
+	background-color: rgba(0,0,0,0.8);
+	border-radius: 5px;
+	margin-left: auto;
+	visibility: hidden;
+}
+
+p.nguinoparagaph {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.nguinoparagaph div {
+	height: 32px;
+}
+
+.nguieditparagraph img, .nguiaddparagraph img  {
+	margin: 8px;
+	float: right;
+	display: block;
+	border: 0;
+}
+
+p.nguiaddparagraphsteam {
+	border: 2px dotted #888888;
+	background-color: rgba(255,255,255,0.5);
+	color: #28649e;
+	padding: 16px;
+	text-align: center;
+}
+
+p.nguiaddparagraphsteam img {
+	width: 16px;
+	height: 16px;
+	border: 0;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+.nguieditparagraph a, .nguiaddparagraph a {
+	outline: none;
+}

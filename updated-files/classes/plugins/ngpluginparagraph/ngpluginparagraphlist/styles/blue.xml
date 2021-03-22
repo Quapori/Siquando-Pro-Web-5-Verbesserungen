@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="blue" caption="Blau" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="blue.png" uid="blue" caption="Blau" />
+	<style preview="bluesmall.png" uid="bluesmall" caption="Blau, klein" />
+	<style preview="bluerect.png" uid="bluerect" caption="Blau, eckig" />
+	<style preview="bluesmallrect.png" uid="bluesmallrect" caption="Blau, eckig, klein" />
+	<style preview="bluestar.png" uid="bluestar" caption="Blau, Stern" />
+	<style preview="blueround.png" uid="blueround" caption="Blau, abgerundet" />
+	<style preview="bluesmallround.png" uid="bluesmallround" caption="Blau, abgerundet, klein" />
+	<style preview="bluearrow.png" uid="bluearrow" caption="Blau, Pfeil" />
+</styles>

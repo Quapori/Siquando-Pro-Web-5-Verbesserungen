@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="100" height="100" viewBox="0 0 100.00 100.00" enable-background="new 0 0 100.00 100.00" xml:space="preserve">
+	<path fill="#{colora}" fill-opacity="0.3" stroke-linejoin="round" d="M 50,30.8133L 45.2589,45.5009L 29.825,45.4713L 42.3287,54.5191L 37.5312,69.1884L 50,60.0926L 62.4688,69.1884L 57.6713,54.5191L 70.1749,45.4713L 54.7411,45.5009L 50,30.8133 Z "/>
+	<path fill="#{colora}" fill-opacity="0.3" stroke-linejoin="round" d="M 40,133L 39,133L 40,133 Z "/>
+	<path fill="#{colora}" fill-opacity="0.3" stroke-linejoin="round" d="M 7.67127,4.51825L 12.4688,19.1875L -1.01725e-005,10.0918L -9.37165e-006,0L 13.9153,0L 7.67127,4.51825 Z "/>
+	<path fill="#{colora}" fill-opacity="0.3" stroke-linejoin="round" d="M 100,10.0917L 87.5312,19.1875L 92.3287,4.51824L 86.0847,0L 100,0L 100,10.0917 Z "/>
+	<path fill="#{colora}" fill-opacity="0.3" stroke-linejoin="round" d="M -1.01725e-005,80.8125L 4.7411,95.5001L 20.1749,95.4704L 13.9153,100L -1.01725e-005,100L -1.01725e-005,80.8125 Z "/>
+	<path fill="#{colora}" fill-opacity="0.3" stroke-linejoin="round" d="M 86.0847,100L 79.825,95.4704L 95.2589,95.5001L 100,80.8125L 100,100L 86.0847,100 Z "/>
+</svg>

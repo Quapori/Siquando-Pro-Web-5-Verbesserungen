@@ -1,0 +1,19 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">louisville</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd70b0c0c0560c4d00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd70b0a2a2e3bbe500000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.caption">fa5500</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.footer">f8f8f8</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.topbar">333333</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.topbarhover">111111</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'ProzaLibre';
+  font-style: normal;
+  font-weight: normal;
+  src: local('ProzaLibre'), local('Proza Libre'), url(./../fonts/prozalibre-regular-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ProzaLibre';
+  font-style: normal;
+  font-weight: bold;
+  src: local('ProzaLibre Bold'), local('Proza Libre Bold'), url(./../fonts/prozalibre-bold-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ProzaLibre';
+  font-style: italic;
+  font-weight: normal;
+  src: local('ProzaLibre Italic'), local('Proza Libre Italic'), url(./../fonts/prozalibre-italic-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ProzaLibre';
+  font-style: italic;
+  font-weight: bold;
+  src: local('ProzaLibre Bold Italic'), local('Proza Libre Bold Italic'), url(./../fonts/prozalibre-bolditalic-webfont.woff) format('woff');
+  font-display: swap;
+}

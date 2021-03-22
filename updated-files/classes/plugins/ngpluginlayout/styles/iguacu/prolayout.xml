@@ -1,0 +1,52 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">iguacu</string>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.email">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.facebook">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.instagram">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.linkedin">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.pinterest">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.twitter">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.xing">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.youtube">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7e3c1b102e0d794ec00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">header,sidebarleft,footer</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7e3c1b102e15d5e0600000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.commonnavhierarchical">dual</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.expandnav">fat</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.navpos">right</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.navwidth">320</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.search">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.userscalable">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1300</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">5b6d7a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.content">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs.background">f3f5f7</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs.color">888888</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs.link">677a8a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.background">f3f5f7</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.font">888888</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.hover">8fbde5</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.link">677a8a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.mainborder">677a8a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.background">333c44</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.background.alt">21292d</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.foreground">e2e4e6</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.hover">8fbde5</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

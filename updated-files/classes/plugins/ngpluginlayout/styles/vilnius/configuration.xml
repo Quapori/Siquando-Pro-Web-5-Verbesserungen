@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProVilnius.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="logosmall" caption="Logo (Smartphone)">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio16by9</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund</color>
+		<color id="background.header">Hintergrund (oben)</color>
+		<color id="background.footer">Hintergrund (unten)</color>
+		<color id="background.left">Hintergrund (links)</color>
+		<color id="background.right">Hintergrund (rechts)</color>
+		<color id="background.content">Hintergrund (Inhalt)</color>
+		<color id="border">Rahmenlinien um Absatzbereiche</color>
+		<color id="nav.bright">Navigation Vordergrund</color>
+		<color id="nav.dark">Navigation Hintergrund (dunkel)</color>
+		<color id="nav.medium">Navigation Hintergrund (hell)</color>
+		<color id="nav.hover">Navigation Hintergrund (Maus darüber)</color>
+		<color id="bullets">Navigationspunkte</color>
+		<color id="common.background">Allgemeine Navigation Hintergrund</color>
+		<color id="common.font">Allgemeine Navigation Vordergrund (dunkel)</color>
+		<color id="common.bright">Allgemeine Navigation Vordergrund (hell)</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+	</config>	
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="navactive">Aktuelle Seite in Navigation hervorheben</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, übergeordneten Ordner, dann Eyecatcher verwenden</option>
+		<option id="mutevideo">Video stummschalten</option>
+		<slider id="width" min="1200" max="1600" >Gesamtbreite des Layouts</slider>
+		<combo id="fadeeffect" options="left=Nach links gleiten|right=Nach rechts gleiten|up=Nach oben gleiten|down=Nach unten gleiten|fade=Überblenden|grow=Vergrößern|shrink=Verkleinern">Überblendeffekt für den Bildwechsler</combo>
+		<style height="20" id="navstyle" url="classes/plugins/ngpluginlayout/styles/vilnius/navstyles/">Navigationsstil</style>		
+		<radio id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten">Navigationsstil „Allgemeine Seiten“</radio>
+	</config>
+	<config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

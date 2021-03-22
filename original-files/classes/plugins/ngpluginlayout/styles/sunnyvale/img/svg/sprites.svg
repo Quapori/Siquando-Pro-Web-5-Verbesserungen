@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="48" height="336" viewBox="0 0 48.00 336.00" enable-background="new 0 0 48.00 336.00" xml:space="preserve">
+	<g>
+		<rect x="18" y="165" fill="#{colora}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="14" height="2"/>
+		<rect x="18" y="173" fill="#{colora}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="14" height="2"/>
+		<rect x="18" y="169" fill="#{colora}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="14" height="2"/>
+	</g>
+	<path fill="#{colora}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 22.543,113.043C 25.5801,113.043 28.043,115.506 28.043,118.543C 28.043,119.701 27.6855,120.775 27.0752,121.661L 30.957,125.543L 29.543,126.957L 25.6602,123.075C 24.7754,123.686 23.7007,124.043 22.543,124.043C 19.5059,124.043 17.043,121.581 17.043,118.543C 17.043,115.506 19.5059,113.043 22.543,113.043 Z M 22.543,115.043C 20.6104,115.043 19.043,116.61 19.043,118.543C 19.043,120.476 20.6104,122.043 22.543,122.043C 24.4761,122.043 26.043,120.476 26.043,118.543C 26.043,116.61 24.4761,115.043 22.543,115.043 Z "/>
+	<path fill="#{colorc}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 17.6362,316.95L 22.5859,312L 17.6362,307.05L 19.0503,305.636L 24,310.586L 28.9492,305.636L 30.3633,307.05L 25.4141,312L 30.3633,316.95L 28.9492,318.364L 24,313.414L 19.0503,318.364L 17.6362,316.95 Z "/>
+	<path fill="#{colorb}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 21,259L 21,269L 27,264L 21,259 Z "/>
+	<path fill="#{colora}" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 24.04,16L 32.6,24.52L 30.44,24.52L 30.44,32L 26.2,32L 26.2,26.68L 21.92,26.68L 21.92,32L 17.64,32L 17.64,24.52L 15.52,24.52L 24.04,16 Z "/>
+</svg>

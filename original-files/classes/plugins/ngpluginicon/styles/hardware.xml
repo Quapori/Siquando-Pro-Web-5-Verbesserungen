@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="hardware" caption="Hardware" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="desktop.png" uid="desktop" caption="Desktop" />
+	<style preview="notebook.png" uid="notebook" caption="Notebook" />
+	<style preview="tablet.png" uid="tablet" caption="Tablet" />
+	<style preview="smartphone.png" uid="smartphone" caption="Smartphone" />
+	<style preview="responsive.png" uid="responsive" caption="Responsiv" />
+	<style preview="mouse.png" uid="mouse" caption="Maus" />
+	<style preview="tv.png" uid="tv" caption="Fernsehgerät" />
+	<style preview="mic.png" uid="mic" caption="Mikrofon" />
+	<style preview="router.png" uid="router" caption="Router" />
+	<style preview="keyboard.png" uid="keyboard" caption="Tastatur" />
+	<style preview="wireless.png" uid="wireless" caption="Drahtlos" />
+	<style preview="headphones.png" uid="headphones" caption="Kopfhörer" />
+	<style preview="calculator.png" uid="calculator" caption="Rechner" />
+	<style preview="3d.png" uid="3d" caption="3d" />
+	<style preview="bug.png" uid="bug" caption="Bug" />
+	<style preview="server.png" uid="server" caption="Server" />
+	<style preview="cpu.png" uid="cpu" caption="CPU" />
+</styles>

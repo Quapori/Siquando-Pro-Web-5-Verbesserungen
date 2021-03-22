@@ -1,0 +1,175 @@
+<object class="NGPluginLayoutFlexRSettings" version="1.0">
+  <properties>
+    <string name="background" lang="--" domain="LayoutFlexR">solid ffffff</string>
+    <string name="filltop" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="fillbottom" lang="--" domain="LayoutFlexR">
+    </string>
+    <int name="width" lang="--" domain="LayoutFlexR">1200</int>
+    <int name="mobilewidth" lang="--" domain="LayoutFlexR">768</int>
+    <string name="captionposition" lang="--" domain="LayoutFlexR">header</string>
+    <bool name="breadcrumbs" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="commontopbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="commontoppadding" lang="--" domain="LayoutFlexR">20</string>
+    <bool name="commontopvisible" lang="--" domain="LayoutFlexR">false</bool>
+    <bool name="commontoppanorama" lang="--" domain="LayoutFlexR">false</bool>
+    <string name="commontopfill" lang="--" domain="LayoutFlexR">solid 828282</string>
+    <string name="commontopmargin" lang="--" domain="LayoutFlexR">0</string>
+    <string name="commontoppages" lang="--" domain="LayoutFlexR">Open Sans,15,false,false,false,ebebeb</string>
+    <string name="commontoppageshover" lang="--" domain="LayoutFlexR">false,false,false,ffffff</string>
+    <string name="commontopalignment" lang="--" domain="LayoutFlexR">right</string>
+    <bool name="commontophidemobile" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="contactbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="contactpadding" lang="--" domain="LayoutFlexR">10 0 10 0</string>
+    <bool name="contactvisible" lang="--" domain="LayoutFlexR">false</bool>
+    <bool name="contactpanorama" lang="--" domain="LayoutFlexR">false</bool>
+    <string name="contactfill" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="contactmargin" lang="--" domain="LayoutFlexR">0</string>
+    <string name="contacttext" lang="--" domain="LayoutFlexR">Roboto Slab,17,false,false,false,bd2824</string>
+    <string name="contacttexthover" lang="--" domain="LayoutFlexR">false,false,false,e7312c</string>
+    <string name="contactalignment" lang="--" domain="LayoutFlexR">right</string>
+    <bool name="contacthidemobile" lang="--" domain="LayoutFlexR">true</bool>
+    <text name="contactphone" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactphoneiso" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactaddress" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactmail" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactfacebook" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contacttwitter" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactgoogleplus" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactlinkedin" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactinstagram" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactxing" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactyoutube" lang="++" domain="LayoutFlexR">
+    </text>
+    <text name="contactpinterest" lang="++" domain="LayoutFlexR">
+    </text>
+    <string name="logobackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="logopadding" lang="--" domain="LayoutFlexR">20</string>
+    <bool name="logovisible" lang="--" domain="LayoutFlexR">false</bool>
+    <bool name="logopanorama" lang="--" domain="LayoutFlexR">false</bool>
+    <string name="logofill" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="logomargin" lang="--" domain="LayoutFlexR">0</string>
+    <string name="logologo" lang="--" domain="LayoutFlexR">
+    </string>
+    <int name="logowidth" lang="--" domain="LayoutFlexR">180</int>
+    <string name="logoalignment" lang="--" domain="LayoutFlexR">center</string>
+    <string name="navbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="navpadding" lang="--" domain="LayoutFlexR">0 0 0 0</string>
+    <string name="navmargin" lang="--" domain="LayoutFlexR">0 40 0 40</string>
+    <bool name="navvisible" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="navpanorama" lang="--" domain="LayoutFlexR">false</bool>
+    <string name="navfill" lang="--" domain="LayoutFlexR">solid ffffff</string>
+    <string name="navpaddingpri" lang="--" domain="LayoutFlexR">32 15 32 15</string>
+    <string name="navbackgroundpri" lang="--" domain="LayoutFlexR">solid ffffff</string>
+    <string name="navfontpri" lang="--" domain="LayoutFlexR">Roboto Slab,17,true,false,false,bd2824</string>
+    <string name="navbackgroundpriopen" lang="--" domain="LayoutFlexR">solid bd2824</string>
+    <string name="navcolorpriopen" lang="--" domain="LayoutFlexR">ffffff</string>
+    <string name="navpaddingsec" lang="--" domain="LayoutFlexR">22 15 22 15</string>
+    <string name="navbackgroundsec" lang="--" domain="LayoutFlexR">solid bd2824</string>
+    <string name="navfontsec" lang="--" domain="LayoutFlexR">Roboto Slab,17,false,false,false,ffffff</string>
+    <bool name="navdivider" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="navhover" lang="--" domain="LayoutFlexR">false</bool>
+    <bool name="navanimate" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="navlogo" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="navstylemore" lang="--" domain="LayoutFlexR">moreround</string>
+    <string name="navstylehome" lang="--" domain="LayoutFlexR">homesimple</string>
+    <string name="navstylemenu" lang="--" domain="LayoutFlexR">menudefault</string>
+    <string name="navpaddingsearch" lang="--" domain="LayoutFlexR">10</string>
+    <string name="navbackgroundsearch" lang="--" domain="LayoutFlexR">solid ffffff</string>
+    <string name="navstylesearch" lang="--" domain="LayoutFlexR">searchdefault</string>
+    <string name="navfontsearch" lang="--" domain="LayoutFlexR">Roboto Slab,17,false,false,false,828282</string>
+    <bool name="navshowsearch" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="navincludehome" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="navmarkactive" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="navshadow" lang="--" domain="LayoutFlexR">false</bool>
+    <bool name="navfixed" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="eyecatcherbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="eyecatcherpadding" lang="--" domain="LayoutFlexR">0</string>
+    <string name="eyecatchermargin" lang="--" domain="LayoutFlexR">0 0 0 0</string>
+    <bool name="eyecatchervisible" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="eyecatcherpanorama" lang="--" domain="LayoutFlexR">false</bool>
+    <string name="eyecatcherfill" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="eyecatcherpicture" lang="--" domain="LayoutFlexR">w7e181810080723b6e00000000000000</string>
+    <int name="eyecatcherautoprogress" lang="--" domain="LayoutFlexR">5</int>
+    <int name="eyecatcherheight" lang="--" domain="LayoutFlexR">65</int>
+    <bool name="eyecatcherinheritance" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="eyecatchermutevideo" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="eyecatcherbulletstyle" lang="--" domain="LayoutFlexR">bulletrect</string>
+    <string name="eyecatcherbulletcolora" lang="--" domain="LayoutFlexR">ffffff</string>
+    <string name="eyecatcherbulletcolorb" lang="--" domain="LayoutFlexR">000000</string>
+    <string name="headerbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="headerpadding" lang="--" domain="LayoutFlexR">40</string>
+    <string name="headermargin" lang="--" domain="LayoutFlexR">0</string>
+    <bool name="headervisible" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="headerpanorama" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="headerfill" lang="--" domain="LayoutFlexR">
+    </string>
+    <bool name="mainpanorama" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="mainbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="mainfill" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="mainsidebarmode" lang="--" domain="LayoutFlexR">equal</string>
+    <string name="mainmargin" lang="--" domain="LayoutFlexR">0</string>
+    <string name="contentbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="contentpadding" lang="--" domain="LayoutFlexR">40</string>
+    <string name="leftbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="leftpadding" lang="--" domain="LayoutFlexR">40</string>
+    <bool name="leftvisible" lang="--" domain="LayoutFlexR">false</bool>
+    <string name="rightbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="rightpadding" lang="--" domain="LayoutFlexR">40</string>
+    <bool name="rightvisible" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="footerbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="footerpadding" lang="--" domain="LayoutFlexR">40</string>
+    <bool name="footervisible" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="footerpanorama" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="footerfill" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="footermargin" lang="--" domain="LayoutFlexR">0</string>
+    <string name="commonbackground" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="commonpadding" lang="--" domain="LayoutFlexR">40</string>
+    <bool name="commonvisible" lang="--" domain="LayoutFlexR">true</bool>
+    <bool name="commonpanorama" lang="--" domain="LayoutFlexR">false</bool>
+    <string name="commonfill" lang="--" domain="LayoutFlexR">
+    </string>
+    <string name="commonmargin" lang="--" domain="LayoutFlexR">0</string>
+    <bool name="commonshowpages" lang="--" domain="LayoutFlexR">false</bool>
+    <bool name="commonshowfolders" lang="--" domain="LayoutFlexR">true</bool>
+    <string name="commonfolders" lang="--" domain="LayoutFlexR">Roboto Slab,15,false,false,false,828282</string>
+    <string name="commonpages" lang="--" domain="LayoutFlexR">Open Sans,15,false,false,false,bd2824</string>
+    <string name="commonpageshover" lang="--" domain="LayoutFlexR">false,false,false,e7312c</string>
+    <string name="commontext" lang="--" domain="LayoutFlexR">Open Sans,15,false,false,false,828282</string>
+    <string name="commonlink" lang="--" domain="LayoutFlexR">true,false,false,bd2824</string>
+    <string name="commonhover" lang="--" domain="LayoutFlexR">true,false,false,e7312c</string>
+    <fulltext name="commonhtml" lang="++" domain="LayoutFlexR">
+    </fulltext>
+    <string name="name" lang="--" domain="name" unique="true">LayoutFlexR</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

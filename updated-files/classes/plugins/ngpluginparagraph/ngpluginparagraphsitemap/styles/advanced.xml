@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="advanced" caption="Erweitert" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="folder.png" uid="folder" caption="Ordner" />
+	<style preview="xp.png" uid="xp" caption="Ordner (alternativ)" />
+	<style preview="arrow.png" uid="arrow" caption="Pfeil" />
+	<style preview="arrowthreed.png" uid="arrowthreed" caption="Pfeil (3D)" />
+	<style preview="bold.png" uid="bold" caption="Plastisch" />
+	<style preview="triangle.png" uid="triangle" caption="Dreieck" />
+	<style preview="box.png" uid="box" caption="Box (grün)" />
+	<style preview="boxblue.png" uid="boxblue" caption="Box (blau)" />
+	<style preview="boxred.png" uid="boxred" caption="Box (rot)" />
+	<style preview="threed.png" uid="threed" caption="Plastisch" />
+</styles>

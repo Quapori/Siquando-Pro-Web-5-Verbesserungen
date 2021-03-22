@@ -1,0 +1,35 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">leonidas</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7e271307211c8970100000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.commonnavhierarchical">dual</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.galeryinheritance">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.mainlayout">sidebars</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.mutevideo">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.search">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.size">100</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1400</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.captions">888888</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.hover">f79646</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.link">888888</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.text">888888</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.background">fbfbfb</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.foreground">444444</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.hover">000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.lines">d67628</text>
+    <text name="config" lang="--" domain="LayoutPro" index="slider.autoprogress">10</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

@@ -1,0 +1,78 @@
+.ngparazoom > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.ngparazoom > ul > li {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.ngparazoom > ul > li > p:last-of-type {
+    margin-bottom: 0;
+}
+
+.ngparazoom > ul > li > p:first-of-type {
+    margin-top: 0;
+}
+
+.ngparazoom > ul > li > img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.ngparazoom > ul > li > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: 2;
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    .ngparazoom {
+        display: table;
+        table-layout: fixed;
+    }
+
+    .ngparazoom > ul {
+        display: table-row;
+    }
+
+    .ngparazoom > ul > li {
+        display: table-cell;
+        width: 50%;
+    }
+
+    .ngparazoom > ul > li.ngparazoompictureleft:after {
+        content: ' ';
+        display: block;
+        width: 24px;
+        height: 24px;
+        background: url(../svg/zoom.svg) no-repeat;
+        position: absolute;
+        bottom: 8px;
+        left: 8px;
+        pointer-events: none;
+    }
+
+    .ngparazoom > ul > li.ngparazoompictureright:after {
+        content: ' ';
+        display: block;
+        width: 24px;
+        height: 24px;
+        background: url(../svg/zoom.svg) no-repeat;
+        position: absolute;
+        bottom: 8px;
+        right: 8px;
+        pointer-events: none;
+    }
+
+    .ngparazoom > ul > li > div.ngparazoomvisible {
+        display: block;
+    }
+}

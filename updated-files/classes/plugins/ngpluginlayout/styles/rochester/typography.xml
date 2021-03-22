@@ -1,0 +1,61 @@
+<object class="NGPluginTypographySettings" version="1.0">
+  <properties>
+    <string name="defaultfont" lang="--" domain="typography">Corbel,16,false,false,false,828282</string>
+    <string name="defaultmargin" lang="--" domain="typography">10 10</string>
+    <int name="defaultlineheight" lang="--" domain="typography">175</int>
+    <string name="headline1font" lang="--" domain="typography">Roboto,48,false,false,false,000000</string>
+    <string name="headline1margin" lang="--" domain="typography">40 0</string>
+    <int name="headline1lineheight" lang="--" domain="typography">120</int>
+    <string name="headline2font" lang="--" domain="typography">Signika,22,true,false,false,e67300</string>
+    <string name="headline2margin" lang="--" domain="typography">10 10</string>
+    <int name="headline2lineheight" lang="--" domain="typography">160</int>
+    <string name="headline3font" lang="--" domain="typography">Corbel,16,true,false,true,5a5a5a</string>
+    <string name="headline3margin" lang="--" domain="typography">10 10</string>
+    <int name="headline3lineheight" lang="--" domain="typography">160</int>
+    <string name="headline4font" lang="--" domain="typography">Corbel,16,false,false,true,000000</string>
+    <string name="headline4margin" lang="--" domain="typography">10 10</string>
+    <int name="headline4lineheight" lang="--" domain="typography">160</int>
+    <string name="headline5font" lang="--" domain="typography">Corbel,16,true,false,false,5a5a5a</string>
+    <string name="headline5margin" lang="--" domain="typography">10 10</string>
+    <int name="headline5lineheight" lang="--" domain="typography">160</int>
+    <string name="headline6font" lang="--" domain="typography">Corbel,16,false,false,false,000000</string>
+    <string name="headline6margin" lang="--" domain="typography">10 10</string>
+    <int name="headline6lineheight" lang="--" domain="typography">160</int>
+    <string name="linkfontstyle" lang="--" domain="typography">true,false,false,e67300</string>
+    <bool name="linkunderline" lang="--" domain="typography">false</bool>
+    <string name="linkhoverfontstyle" lang="--" domain="typography">true,false,false,395e8a</string>
+    <bool name="linkhoverunderline" lang="--" domain="typography">true</bool>
+    <string name="fieldfont" lang="--" domain="typography">Corbel,16,false,false,false,828282</string>
+    <string name="fieldbordercolor" lang="--" domain="typography">e67300</string>
+    <string name="fieldborderwidth" lang="--" domain="typography">1</string>
+    <string name="fieldbackground" lang="--" domain="typography">solid ffffff</string>
+    <string name="fieldpadding" lang="--" domain="typography">4</string>
+    <string name="fieldroundedcorners" lang="--" domain="typography">0</string>
+    <string name="fieldshadow" lang="--" domain="typography">3 3 0 SE</string>
+    <string name="fieldcaptionfont" lang="--" domain="typography">Corbel,16,false,false,false,332e2a</string>
+    <string name="fieldcaptionerrorcolor" lang="--" domain="typography">a65856</string>
+    <string name="submitfont" lang="--" domain="typography">Corbel,16,false,false,true,ffffff</string>
+    <string name="submitbordercolor" lang="--" domain="typography">e67300</string>
+    <string name="submitborderwidth" lang="--" domain="typography">0</string>
+    <string name="submitbackground" lang="--" domain="typography">solid e67300</string>
+    <string name="submitpadding" lang="--" domain="typography">5 20 5 20</string>
+    <string name="submitroundedcorners" lang="--" domain="typography">4</string>
+    <string name="submitshadow" lang="--" domain="typography">3 3 9 SE</string>
+    <string name="submithoverfontstyle" lang="--" domain="typography">false,false,true,ffffff</string>
+    <string name="submithoverbordercolor" lang="--" domain="typography">000000</string>
+    <string name="submithoverbackground" lang="--" domain="typography">solid 332e2a</string>
+    <string name="cellfont" lang="--" domain="typography">Corbel,16,false,false,false,828282</string>
+    <string name="cellbordercolor" lang="--" domain="typography">e67300</string>
+    <string name="cellborderwidth" lang="--" domain="typography">1</string>
+    <string name="cellbackground" lang="--" domain="typography">solid ffffff</string>
+    <string name="cellpadding" lang="--" domain="typography">5 10 5 10</string>
+    <string name="cellheaderfont" lang="--" domain="typography">Corbel,16,false,false,false,ffffff</string>
+    <string name="cellheaderbordercolor" lang="--" domain="typography">e67300</string>
+    <string name="cellheaderborderwidth" lang="--" domain="typography">1</string>
+    <string name="cellheaderbackground" lang="--" domain="typography">solid e67300</string>
+    <string name="cellheaderpadding" lang="--" domain="typography">5 10 5 10</string>
+    <string name="name" lang="--" domain="name" unique="true">typography</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

@@ -1,0 +1,43 @@
+.columncontainer {
+	background-repeat: repeat-y;
+	margin-bottom: 10px;
+}
+
+.column {
+	float: left;
+}
+
+@media screen and (max-width: 1023px) {
+	.sqrcolumncontainer2>div, .sqrcolumncontainer3>div {
+		float: none;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	.sqrcolumncontainer2>div {
+		box-sizing: border-box;
+		width: 48%;
+		float: left;
+		margin-right: 4%;
+	}
+	.sqrcolumncontainer2>div:last-child {
+		margin-right: 0;
+	}
+	.sqrcolumncontainer3>div {
+		box-sizing: border-box;
+		width: 30.6666666666%;
+		float: left;
+		margin-right: 4%;
+	}
+	.sqrcolumncontainer3>div:last-child {
+		margin-right: 0;
+	}
+	.sqrcolumncontainer2:after, .sqrcolumncontainer3:after {
+		visibility: hidden;
+		display: block;
+		font-size: 0;
+		content: " ";
+		clear: both;
+		height: 0;
+	}
+}

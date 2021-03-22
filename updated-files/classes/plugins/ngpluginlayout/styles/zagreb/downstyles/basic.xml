@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="downdefault.png" uid="downdefault" caption="(Standard)" />
+	<style preview="downtriangle.png" uid="downtriangle" caption="Dreieck" />
+	<style preview="downsimple.png" uid="downsimple" caption="Einfach" />
+	<style preview="downarrow.png" uid="downarrow" caption="Pfeil" />
+	<style preview="downthick.png" uid="downthick" caption="Dick" />
+	<style preview="downchevron.png" uid="downchevron" caption="Chevron" />
+</styles>

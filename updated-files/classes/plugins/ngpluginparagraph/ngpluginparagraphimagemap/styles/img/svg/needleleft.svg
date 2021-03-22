@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="48" height="32" viewBox="0 0 48.00 32.00" enable-background="new 0 0 48.00 32.00" xml:space="preserve">
+	<linearGradient id="SVGID_Fill1_" gradientUnits="objectBoundingBox" x1="0.646128" y1="0.847694" x2="1.40043" y2="0.847694" gradientTransform="rotate(252.504730 0.646128 0.847694)">
+		<stop offset="0" stop-color="#DCDCDC" stop-opacity="1"/>
+		<stop offset="1" stop-color="#B9B9B9" stop-opacity="1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_Fill1_)" stroke-width="0.2" stroke-linejoin="round" d="M 2,16L 28.5762,19.25L 28.5762,12.75L 2,16 Z "/>
+	<ellipse fill="#{color}" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" cx="35.875" cy="16.0625" rx="10.5" ry="10.5"/>
+</svg>

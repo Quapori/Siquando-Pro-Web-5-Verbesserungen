@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="bold.png" uid="bold" caption="Kräftig" />
+	<style preview="bolder.png" uid="bolder" caption="Kräftiger" />
+	<style preview="arrow.png" uid="arrow" caption="Pfeil" />
+	<style preview="arrowbold.png" uid="arrowbold" caption="Pfeil, kräftig" />
+	<style preview="dots.png" uid="dots" caption="Pünktchen" />
+	<style preview="circle.png" uid="circle" caption="Kreis" />
+	<style preview="rect.png" uid="rect" caption="Rechteck" />
+	<style preview="roundedrect.png" uid="roundedrect" caption="Rechteck, abgerundet" />
+</styles>

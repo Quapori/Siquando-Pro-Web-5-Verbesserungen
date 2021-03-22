@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="32" height="32" viewBox="0 0 32.00 32.00" enable-background="new 0 0 32.00 32.00" xml:space="preserve">
+	<linearGradient id="SVGID_Fill1_" gradientUnits="objectBoundingBox" x1="0.500001" y1="1" x2="1.5" y2="1" gradientTransform="rotate(-90.000000 0.500001 1.000002)">
+		<stop offset="0" stop-color="#FFC800" stop-opacity="1"/>
+		<stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_Fill1_)" stroke-width="1.33333" stroke-linejoin="miter" d="M 16,1C 24.2837,1 31,7.71588 31,16C 31,24.2837 24.2837,31 16,31C 7.71588,31 1,24.2837 1,16C 1,7.71588 7.71588,1 16,1 Z "/>
+	<path fill="#212731" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 9.90625,17.875C 10.6831,17.875 11.3125,18.5049 11.3125,19.2813C 11.3125,20.0576 10.6831,20.6875 9.90625,20.6875C 9.12943,20.6875 8.5,20.0576 8.5,19.2813C 8.5,18.5049 9.12943,17.875 9.90625,17.875 Z "/>
+	<path fill="#212731" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 22.0938,17.875C 22.8701,17.875 23.5,18.5049 23.5,19.2813C 23.5,20.0576 22.8701,20.6875 22.0938,20.6875C 21.3174,20.6875 20.6875,20.0576 20.6875,19.2813C 20.6875,18.5049 21.3174,17.875 22.0938,17.875 Z "/>
+	<path fill="none" stroke-width="1.33333" stroke-linejoin="miter" stroke="#212731" stroke-opacity="1" d="M 5.6875,16C 6.625,16.9375 9.46085,18.8125 14.125,18.8125"/>
+	<path fill="none" stroke-width="1.33333" stroke-linejoin="miter" stroke="#212731" stroke-opacity="1" d="M 26.3125,16C 25.375,16.9375 22.5387,18.8125 17.875,18.8125"/>
+	<rect x="12.25" y="24.4375" fill="#212731" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="7.5" height="0.9375"/>
+</svg>

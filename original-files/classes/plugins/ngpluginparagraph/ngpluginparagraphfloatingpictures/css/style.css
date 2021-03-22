@@ -1,0 +1,33 @@
+.ngparafloatingpictures {
+    width: 100%;
+    height: 0;
+    padding-bottom: 66.66%;
+    overflow: hidden;
+    position: relative;
+}
+
+.ngparafloatingpictures>img
+{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 0;
+}
+
+.ngparafloatingpictures>span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="searchdefault.png" uid="searchdefault" caption="(Standard)" />
+	<style preview="searchthin.png" uid="searchthin" caption="Dünn" />
+	<style preview="searchangled.png" uid="searchangled" caption="Angewinkelt" />
+	<style preview="searchbinocular.png" uid="searchbinocular" caption="Feldstecher" />
+	<style preview="searchdoc.png" uid="searchdoc" caption="Dokument" />
+	<style preview="searchshort.png" uid="searchshort" caption="Kurz" />
+</styles>

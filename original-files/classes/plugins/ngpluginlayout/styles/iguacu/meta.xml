@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>iguacu</id>
+  <caption>Iguacu</caption>
+  <type>NGPluginLayoutPro</type>
+  <preview>preview_beach.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <initialversion>5.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Ein responsives Design mit vertikaler Navigation.</summary>
+</style>

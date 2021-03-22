@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style uid="click" caption="Klick" />
+	<style uid="faint" caption="Faint" />
+	<style uid="woosh" caption="Woosh" />
+	<style uid="swoosh" caption="Swoosh" />
+	<style uid="triangle" caption="Triangel" />
+</styles>

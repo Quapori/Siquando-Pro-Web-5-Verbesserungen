@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="vector" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="circle.png" uid="circle" caption="Kreis" />
+	<style preview="triangle.png" uid="triangle" caption="Dreieck (klein)" />
+	<style preview="bigtriangle.png" uid="bigtriangle" caption="Dreieck (groß)" />
+	<style preview="chevron.png" uid="chevron" caption="Chevron" />
+	<style preview="boldchevron.png" uid="boldchevron" caption="Chevron (fett)" />
+	<style preview="check.png" uid="check" caption="Häkchen" />
+	<style preview="arrow.png" uid="arrow" caption="Pfeil" />
+	<style preview="point.png" uid="point" caption="Punkt" />
+	<style preview="ninedots.png" uid="ninedots" caption="9 Punkte" />
+	<style preview="fourdots.png" uid="fourdots" caption="4 Punkte" />
+	<style preview="hollowsquare.png" uid="hollowsquare" caption="Rechteck (hohl)" />
+	<style preview="hollowcircle.png" uid="hollowcircle" caption="Kreis (hohl)" />
+</styles>

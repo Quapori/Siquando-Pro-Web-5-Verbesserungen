@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="preview_default.png" uid="default" caption="default" />
+	<style preview="preview_blue.png" uid="blue" caption="blue" />
+	<style preview="preview_green.png" uid="green" caption="green" />
+	<style preview="preview_red.png" uid="red" caption="red" />
+	<style preview="preview_rainbow.png" uid="rainbow" caption="rainbow" />
+	<style preview="preview_wheel.png" uid="wheel" caption="wheel" />
+	<style preview="preview_wheelblue.png" uid="wheelblue" caption="wheelblue" />
+	<style preview="preview_wheelred.png" uid="wheelred" caption="wheelred" />
+	<style preview="preview_wheelgreen.png" uid="wheelgreen" caption="wheelgreen" />
+	<style preview="preview_clock.png" uid="clock" caption="clock" />
+	<style preview="preview_clockblue.png" uid="clockblue" caption="clockblue" />
+	<style preview="preview_clockred.png" uid="clockred" caption="clockred" />
+	<style preview="preview_clockgreen.png" uid="clockgreen" caption="clockgreen" />
+	<style preview="preview_simple.png" uid="simple" caption="simple" />
+	<style preview="preview_simpleblue.png" uid="simpleblue" caption="simpleblue" />
+	<style preview="preview_simplered.png" uid="simplered" caption="simplered" />
+	<style preview="preview_simplegreen.png" uid="simplegreen" caption="simplegreen" />
+	<style preview="preview_outer.png" uid="outer" caption="outer" />
+	<style preview="preview_outerblue.png" uid="outerblue" caption="outerblue" />
+	<style preview="preview_outerred.png" uid="outerred" caption="outerred" />
+	<style preview="preview_outergreen.png" uid="outergreen" caption="outergreen" />
+	<style preview="preview_bits.png" uid="bits" caption="bits" />
+	<style preview="preview_bitsblue.png" uid="bitsblue" caption="bitsblue" />
+	<style preview="preview_bitsred.png" uid="bitsred" caption="bitsred" />
+	<style preview="preview_bitsgreen.png" uid="bitsgreen" caption="bitsgreen" />
+	<style preview="preview_easy.png" uid="easy" caption="easy" />
+	<style preview="preview_easyred.png" uid="easyred" caption="easyred" />
+	<style preview="preview_easygreen.png" uid="easygreen" caption="easygreen" />
+	<style preview="preview_easyblue.png" uid="easyblue" caption="easyblue" />
+	<style preview="preview_3d.png" uid="3d" caption="3d" />
+	<style preview="preview_3dblue.png" uid="3dblue" caption="3dblue" />
+	<style preview="preview_3dred.png" uid="3dred" caption="3dred" />
+	<style preview="preview_3dgreen.png" uid="3dgreen" caption="3dgreen" />
+	<style preview="preview_3dblack.png" uid="3dblack" caption="3dblack" />
+</styles>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="blue.png" uid="blue" caption="Blau" />
+	<style preview="red.png" uid="red" caption="Rot" />
+	<style preview="small.png" uid="small" caption="Grau, kleiner Pfeil" />
+	<style preview="smallblue.png" uid="smallblue" caption="Blau, kleiner Pfeil" />
+	<style preview="smallred.png" uid="smallred" caption="Rot, kleiner Pfeil" />
+</styles>

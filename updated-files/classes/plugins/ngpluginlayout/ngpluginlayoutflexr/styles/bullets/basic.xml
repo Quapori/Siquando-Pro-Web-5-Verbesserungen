@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="bulletdefault.png" uid="bulletdefault" caption="(Standard)" />
+	<style preview="bulletsimple.png" uid="bulletsimple" caption="Rund, einfach" />
+	<style preview="bulletrect.png" uid="bulletrect" caption="Rechteck" />
+	<style preview="bulletrectsimple.png" uid="bulletrectsimple" caption="Rechteck, einfach" />
+	<style preview="bulletdotround.png" uid="bulletdotround" caption="Punkt, rund" />
+	<style preview="bulletdotrect.png" uid="bulletdotrect" caption="Punkt, eckig" />
+	<style preview="bulletstar.png" uid="bulletstar" caption="Stern" />
+	<style preview="bulletdiamond.png" uid="bulletdiamond" caption="Raute" />
+	<style preview="bulletrectround.png" uid="bulletrectround" caption="Rechteck, runde Ecken" />
+	<style preview="bulletrectroundsimple.png" uid="bulletrectroundsimple" caption="Rechteck, runde Ecken, einfach" />
+</styles>

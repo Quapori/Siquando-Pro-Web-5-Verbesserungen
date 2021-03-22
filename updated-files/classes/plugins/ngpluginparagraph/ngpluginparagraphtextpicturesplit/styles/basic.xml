@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="none.png" uid="none" caption="(kein Wasserzeichen)" />
+	<style preview="quote.png" uid="quote" caption="Anführungszeichen, dunkel" />
+	<style preview="quotebright.png" uid="quotebright" caption="Anführungszeichen, hell" />
+	<style preview="idea.png" uid="idea" caption="Idee, dunkel" />
+	<style preview="ideabright.png" uid="ideabright" caption="Idee, hell" />
+	<style preview="question.png" uid="question" caption="Fragezeichen, dunkel" />
+	<style preview="questionbright.png" uid="questionbright" caption="Fragezeichen, hell" />
+	<style preview="exclamation.png" uid="exclamation" caption="Ausrufezeichen, dunkel" />
+	<style preview="exclamationbright.png" uid="exclamationbright" caption="Ausrufezeichen, hell" />
+	<style preview="camera.png" uid="camera" caption="Kamera, dunkel" />
+	<style preview="camerabright.png" uid="camerabright" caption="Kamera, hell" />
+	<style preview="heart.png" uid="heart" caption="Herz, dunkel" />
+	<style preview="heartbright.png" uid="heartbright" caption="Herz, hell" />
+	<style preview="cloud.png" uid="cloud" caption="Wolke, hohl, dunkel" />
+	<style preview="cloudbright.png" uid="cloudbright" caption="Wolke, hohl, hell" />
+	<style preview="cloudsolid.png" uid="cloudsolid" caption="Wolke, ausgefüllt, dunkel" />
+	<style preview="cloudsolidbright.png" uid="cloudsolidbright" caption="Wolke, ausgefüllt, hell" />
+	<style preview="doublequote.png" uid="doublequote" caption="Doppelte Anführungszeichen, dunkel" />
+	<style preview="doublequotebright.png" uid="doublequotebright" caption="Doppelte Anführungszeichen, hell" />
+	<style preview="chevron.png" uid="chevron" caption="Chevrons, dunkel" />
+	<style preview="chevronbright.png" uid="chevronbright" caption="Chevrons, hell" />
+	<style preview="arrow.png" uid="arrow" caption="Pfeil, dunkel" />
+	<style preview="arrowbright.png" uid="arrowbright" caption="Pfeil, hell" />
+	<style preview="retro.png" uid="retro" caption="Retro, dunkel" />
+	<style preview="retrobright.png" uid="retrobright" caption="Retro, hell" />
+	<style preview="bubble.png" uid="bubble" caption="Sprechblase, dunkel" />
+	<style preview="bubblebright.png" uid="bubblebright" caption="Sprechblase, hell" />
+	<style preview="power.png" uid="power" caption="Power, dunkel" />
+	<style preview="powerbright.png" uid="powerbright" caption="Power, hell" />
+	<style preview="omega.png" uid="omega" caption="Omega, dunkel" />
+	<style preview="omegabright.png" uid="omegabright" caption="Omega, hell" />
+	
+</styles>

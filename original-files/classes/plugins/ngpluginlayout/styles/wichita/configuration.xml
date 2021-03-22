@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProWichita.chm">
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnkown</aspectratio>
+		<showlink>true</showlink>
+		<showtitle>true</showtitle>
+		<showoverride>false</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="dark">Dunkle Farbe</color>
+		<color id="medium">Mittlere Farbe</color>
+		<color id="bright">Helle Farbe</color>
+	</config>	
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="includehome">Startseite in Navigation aufnehmen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="audio">Audio-Effekt, wenn sich Menü öffnet</option>
+	</config>
+</configs>

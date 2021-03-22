@@ -1,0 +1,56 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">pica</string>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.email">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.facebook">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.googleplus">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.instagram">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.linkedin">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.pinterest">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.twitter">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.xing">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.youtube">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7e2b050d08060140e00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.commonnavhierarchical">dual</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.fade">zoomin</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.galeryinheritance">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.mainlayout">sidebars</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.search">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1200</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">d3d1cf</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.nav">ebe9e6</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.nav.bright">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.border">d3d1cf</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs">333333</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.bullet">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.bullet.active">d02e2e</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common">333333</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.dark">000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.content">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.header">f4f3f2</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.header.accent">d02e2e</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.header.font">333333</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.header.font.dark">000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="slider.autoprogress">5</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

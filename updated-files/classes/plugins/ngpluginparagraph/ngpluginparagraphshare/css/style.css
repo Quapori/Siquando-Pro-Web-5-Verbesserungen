@@ -1,0 +1,121 @@
+.ngparashare {
+    text-align: right;
+}
+
+.ngparashare a {
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    margin-left: 10px;
+    transition: background-color 0.2s;
+    background: #444444 url(../img/sprites.svg) 0 0 no-repeat;
+}
+
+.ngparashare a:hover {
+    background-color: #000000;
+}
+
+.ngparashareleft {
+    text-align: left;
+}
+
+.ngparashareleft a {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.ngparasharecenter {
+    text-align: center;
+}
+
+.ngparasharecenter a {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.ngparashare a.ngparasharefb {
+    background-position: -42px 0;
+}
+
+.ngparasharecolor a.ngparasharefb {
+    background-color: #3B5998;
+}
+
+.ngparashare a.ngparasharetwitter {
+    background-position: -126px 0;
+}
+
+.ngparasharecolor a.ngparasharetwitter {
+	background-color: #55ACEE;
+}
+
+.ngparashare a.ngparasharegplus {
+    background-position: 0 0;
+}
+
+.ngparasharecolor a.ngparasharegplus {
+	background-color: #D34836;
+}
+
+.ngparashare a.ngparasharexing {
+    background-position: -168px 0;
+}
+
+.ngparasharecolor a.ngparasharexing {
+	background-color: #007771;
+}
+
+.ngparashare a.ngparasharein {
+    background-position: -84px 0;
+}
+
+.ngparasharecolor a.ngparasharein {
+	background-color: #007BB5;
+}
+
+
+.ngparasharesmall a {
+    width: 22px;
+    height: 22px;
+}
+
+.ngparasharesmall a.ngparasharefb {
+    background-position: -52px -52px;
+}
+
+.ngparasharesmall a.ngparasharetwitter {
+    background-position: -136px -52px;
+}
+
+.ngparasharesmall a.ngparasharegplus {
+    background-position: -10px -52px;
+}
+
+.ngparasharesmall a.ngparasharexing {
+    background-position: -178px -52px;
+}
+
+.ngparasharesmall a.ngparasharein {
+    background-position: -94px -52px;
+}
+
+.ngparasharecolor a.ngparasharefb:hover {
+    background-color: #5E7FC1;
+}
+
+.ngparasharecolor a.ngparasharetwitter:hover {
+    background-color: #9ACDF4;
+}
+
+.ngparasharecolor a.ngparasharein:hover {
+    background-color: #24A7E3;
+}
+
+.ngparasharecolor a.ngparasharexing:hover {
+    background-color: #33A89E;
+}
+
+.ngparasharecolor a.ngparasharegplus:hover {
+    background-color: #E6948A;
+}

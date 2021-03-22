@@ -1,0 +1,16 @@
+<object class="NGSettingsTabs" version="1.0">
+  <properties>
+    <string name="colorvalueborder" lang="--" domain="tabs">dddddd</string>
+    <string name="colorvaluetext" lang="--" domain="tabs">000000</string>
+    <string name="colorvaluebackground" lang="--" domain="tabs">ffffff</string>
+    <string name="colorvaluebackgroundhover" lang="--" domain="tabs">ebf3fd</string>
+    <string name="colorvaluebackgroundactive" lang="--" domain="tabs">fdf9eb</string>
+    <int name="roundedcorners" lang="--" domain="tabs">4</int>
+    <bool name="tabborder" lang="--" domain="tabs">true</bool>
+    <int name="paddingvertical" lang="--" domain="tabs">20</int>
+    <int name="paddinghorizontal" lang="--" domain="tabs">30</int>
+    <string name="name" lang="--" domain="name" unique="true">Tabs</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

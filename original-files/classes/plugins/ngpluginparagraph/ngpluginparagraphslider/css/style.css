@@ -1,0 +1,138 @@
+.ngpluginsliderstage {
+	overflow: hidden;
+	position: relative;
+}
+
+.ngpluginsliderstage>ul {
+	display: block;
+	list-style: none;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	transition: transform 0.5s;
+	-webkit-transition: -webkit-transform 0.5s;
+	-ms-transition: -ms-transform 0.5s;
+	top: 0;
+	left: 0;
+}
+
+.ngpluginsliderstage>ul.ngslidernotransition {
+	transition: none;
+	-webkit-transition: none;
+	-ms-transition: none;
+}
+
+.ngpluginsliderstage>ul>li {
+	display: block;
+	position: absolute;
+	top: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.ngpluginsliderstage video {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.ngpluginsliderstage .selectedslide video
+{
+	display: block;
+}
+
+.ngpluginslidercaptions {
+	position: absolute;
+}
+
+.ngpluginsildertopright {
+	top: 0;
+	right: 0;
+}
+
+.ngpluginsilderbottomright {
+	bottom: 0;
+	right: 0;
+}
+
+.ngpluginsildertopleft {
+	top: 0;
+	left: 0;
+}
+
+.ngpluginsilderbottomleft {
+	bottom: 0;
+	left: 0;
+}
+
+
+.ngpluginsliderstage .ngpluginsliderh1 {
+	transition: opacity 0.2s, transform 0.2s;
+	-webkit-transition: opacity 0.2s, -webkit-transform 0.2s;
+	opacity: 0;
+	transform: translateY(20px);
+	-webkit-transform: translateY(20px);
+}
+
+.ngpluginsliderstage .ngpluginsliderh2 {
+	transition: opacity 0.5s, transform 0.5s;
+	-webkit-transition: opacity 0.5s, -webkit-transform 0.5s;
+	opacity: 0;
+	transform: translateY(20px);
+	-webkit-transform: translateY(20px);
+}
+
+.ngpluginsliderstage .selectedslide .ngpluginsliderh1 {
+	opacity: 1;
+	transform: translateY(0);
+	-webkit-transform: translateY(0);
+}
+
+.ngpluginsliderstage .selectedslide .ngpluginsliderh2 {
+	opacity: 1;
+	transform: translateY(0);
+	-webkit-transform: translateY(0);
+}
+
+.ngpluginsliderstage>ul>li img {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.ngpluginslidercontrols {
+	margin: 10px auto;
+}
+
+.ngpluginslidercontrols a {
+	display: block;
+	float: left;
+	width: 20px;
+	height: 16px;	
+}
+
+.ngpluginslidercontrols a.selectedslide {
+	background-position: 0 -16px;
+}
+
+.ngpluginslidernext, .ngpluginsliderprev {
+	width: 48px;
+	height: 48px;
+	position: absolute;
+	top: 50%;
+	margin-top: -24px;
+}
+
+.ngpluginslidernext {
+	right: 0;
+	transition: right 0.2s;
+	-webkit-transition: right 0.2s;
+}
+
+.ngpluginsliderprev {
+	left: -48px;
+	-webkit-transition: left 0.2s;
+}

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="paralogin"
+	caption="Login">
+	<languageresource uid="loginname">
+		<caption>Login-E-Mail</caption>
+		<default>Login-E-Mail</default>
+		<description>Beschriftung des Eingabefelds „Login-E-Mail“</description>
+	</languageresource>
+	<languageresource uid="password">
+		<caption>Kennwort</caption>
+		<default>Kennwort</default>
+		<description>Beschriftung des Eingabefelds „Kennwort“</description>
+	</languageresource>
+	<languageresource uid="oldpassword">
+		<caption>Altes Kennwort</caption>
+		<default>Altes Kennwort</default>
+		<description>Beschriftung des Eingabefelds „Altes Kennwort“</description>
+	</languageresource>
+	<languageresource uid="newpassword">
+		<caption>Neues Kennwort</caption>
+		<default>Neues Kennwort</default>
+		<description>Beschriftung des Eingabefelds „Neues Kennwort“</description>
+	</languageresource>
+	<languageresource uid="passwordrepeat">
+		<caption>Kennwort wiederholen</caption>
+		<default>Kennwort wiederholen</default>
+		<description>Beschriftung des Eingabefelds „Kennwort wiederholen“</description>
+	</languageresource>
+	<languageresource uid="buttonlogin">
+		<caption>Anmelden</caption>
+		<default>Anmelden</default>
+		<description>Beschriftung der Schaltfläche „Login“</description>
+	</languageresource>
+	<languageresource uid="buttonforgotpassword">
+		<caption>Kennwort zusenden</caption>
+		<default>Kennwort zusenden</default>
+		<description>Beschriftung der Schaltfläche „Kennwort zusenden“</description>
+	</languageresource>
+	<languageresource uid="buttonchangepassword">
+		<caption>Kennwort ändern</caption>
+		<default>Kennwort ändern</default>
+		<description>Beschriftung der Schaltfläche „Kennwort ändern“</description>
+	</languageresource>
+	<languageresource uid="buttoncreateaccount">
+		<caption>Registrieren</caption>
+		<default>Registrieren</default>
+		<description>Beschriftung der Schaltfläche „Registrieren“</description>
+	</languageresource>
+	<languageresource uid="loginerror">
+		<caption>Fehler: Falsche Anmeldedaten</caption>
+		<default>Sie konnten nicht angemeldet werden, da Ihre Anmeldedaten nicht korrekt sind. Überprüfen Sie Ihre Eingaben und versuchen Sie es erneut.</default>
+		<description>Fehlermeldung, die bei falschen Anmeldedaten erscheint</description>
+	</languageresource>
+	<languageresource uid="loginsuccess">
+		<caption>Erfolgreich angemeldet</caption>
+		<default>Sie haben Sich erfolgreich angemeldet.</default>
+		<description>Meldung, die bei einer erfolgreichen Anmeldung erscheint</description>
+	</languageresource>
+	<languageresource uid="forgotpassword">
+		<caption>Kennwort vergessen</caption>
+		<default>Haben Sie Ihr Kennwort vergessen?</default>
+		<description>Link, mit dem der Besucher ein vergessenes Kennwort zurücksetzen kann</description>
+	</languageresource>
+	<languageresource uid="forgotpasswordsuccess">
+		<caption>Neues Kennwort zugesendet</caption>
+		<default>Wir haben Ihnen ein neues Kennwort per Mail zugesendet. Schauen Sie in Ihrem Posteingang nach.</default>
+		<description>Meldung, dass ein neues Kennwort zugesendet wurde.</description>
+	</languageresource>
+	<languageresource uid="forgotpasswordhelp">
+		<caption>Hilfe: Kennwort vergessen</caption>
+		<default>Sie haben Ihr Kennwort vergessen? Kein Problem. Geben Sie Ihre Login-E-Mail ein und wir schicken Ihnen ein neues per Mail zu.</default>
+		<description>Hilfestellung für die „Kennwort vergessen“-Funktion.</description>
+	</languageresource>
+	<languageresource uid="changepasswordhelp">
+		<caption>Hilfe: Kennwort ändern</caption>
+		<default>Um Ihr Kennwort zu ändern, geben Sie bitte Ihre Login-E-Mail-Adresse, ihr altes Kennwort und das neue Kennwort ein. Aus Sicherheitsgründen bitten wir Sie, das neue Kennwort zu wiederholen.</default>
+		<description>Hilfestellung für die „Kennwort ändern“-Funktion.</description>
+	</languageresource>
+	<languageresource uid="createaccounthelp">
+		<caption>Hilfe: Registrieren</caption>
+		<default>Um sich zu registrieren, geben Sie bitte eine E-Mail-Adresse an, auf die Sie Zugriff haben. Diese ist in Zukunft Ihr Login. Wählen Sie ein Kennwort, um Ihr Konto abzusichern.</default>
+		<description>Hilfestellung für die „Registrieren“-Funktion.</description>
+	</languageresource>
+	<languageresource uid="createaccountsendhelp">
+		<caption>Hilfe: Registrieren (Kennwort zusenden)</caption>
+		<default>Um sich zu registrieren, geben Sie bitte eine E-Mail-Adresse an, auf die Sie Zugriff haben. Diese ist in Zukunft Ihr Login. Ihr Kennwort senden wir Ihnen an diese Adresse.</default>
+		<description>Hilfestellung für die „Registrieren“-Funktion.</description>
+	</languageresource>
+	<languageresource uid="illegalemail">
+		<caption>Fehler: ungültige E-Mail</caption>
+		<default>Die angegebene E-Mail-Adresse „[e]“ ist ungültig.</default>
+		<description>Fehlermeldung, die erscheint, wenn der Besucher eine ungültige E-Mail-Adresse angegeben hat. Verwenden Sie [e] als Platzhalter für die Adresse.</description>
+	</languageresource>
+	<languageresource uid="duplicateemail">
+		<caption>Fehler: doppelte E-Mail</caption>
+		<default>Die angegebene E-Mail-Adresse „[e]“ ist bereits registriert.</default>
+		<description>Fehlermeldung, die erscheint, wenn der Besucher eine E-Mail-Adresse angegeben hat, die bereits verwendet wird Verwenden Sie [e] als Platzhalter für die Adresse.</description>
+	</languageresource>
+	<languageresource uid="passwordmismatch">
+		<caption>Fehler: Kennwörter stimmen nicht überein</caption>
+		<default>Kennwort und Kennwortwiederholung stimmen nicht überein.</default>
+		<description>Fehlermeldung, die erscheint, wenn der Besucher das Kennwort nicht korrekt wiederholt hat.</description>
+	</languageresource>
+	<languageresource uid="changepassword">
+		<caption>Kennwort ändern</caption>
+		<default>Möchten Sie Ihr Kennwort ändern?</default>
+		<description>Link, mit dem der Besucher sein Kennwort ändern kann</description>
+	</languageresource>
+	<languageresource uid="createaccount">
+		<caption>Konto erstellen</caption>
+		<default>Sie haben keine Zugangsdaten? Hier können Sie sich registrieren.</default>
+		<description>Link, mit dem der Besucher ein Zugangskonto anlegen kann</description>
+	</languageresource>
+	<languageresource uid="backtologin">
+		<caption>Zurück zum Login</caption>
+		<default>Zurück zum Login</default>
+		<description>Link, der zurück zum Login führt</description>
+	</languageresource>
+	<languageresource uid="createsuccess">
+		<caption>Regstrierung erfolgreich</caption>
+		<default>Sie haben sich erfolgreich registriert und können sich mit Ihren Zugangsdaten anmelden.</default>
+		<description>Meldung, die nach erfolgreicher Registrierung dargestellt wird</description>
+	</languageresource>
+	<languageresource uid="changesuccess">
+		<caption>Kennwort geändert</caption>
+		<default>Das Kennwort wurde erfolgreich geändert.</default>
+		<description>Meldung, die nach erfolgreicher Änderung des Kennworts dargestellt wird</description>
+	</languageresource>
+	<languageresource uid="createsuccesssend">
+		<caption>Regstrierung erfolgreich (Kennwort zusenden)</caption>
+		<default>Sie haben sich erfolgreich registriert und erhalten in Kürze eine E-Mail mit Ihrem Kennwort.</default>
+		<description>Meldung, die nach erfolgreicher Registrierung dargestellt wird</description>
+	</languageresource>
+	<languageresource uid="mustconsent">
+		<caption>Der Datenverarbeitung nicht zugestimmt.</caption>
+		<default>Damit wir für Sie eine Konto anlegen können, müssen Sie der Nutzung Ihrer persönlichen Daten zustimmen.</default>
+		<description>Fehlermeldung, die erscheint, wenn der Besucher der Datennutzung nicht zugestimmt hat.</description>
+	</languageresource>
+</languageresourcedictionary>

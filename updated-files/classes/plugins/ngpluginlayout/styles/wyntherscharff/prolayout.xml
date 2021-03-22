@@ -1,0 +1,50 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">wyntherscharff</string>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.email">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.facebook">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.instagram">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.linkedin">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.pinterest">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.twitter">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.xing">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.youtube">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7e41100b040de86bb00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">header,sidebarleft,sidebarright,footer</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7e410f0e38096905400000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.captionposition">content</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.commonnavhierarchical">dual</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.expandnav">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.eyecatcherposition">content</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.galeryinheritance">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.search">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.sticky">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.userscalable">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1602</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.border">e5e5e5</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.font">808080</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.link">4f81bd</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.cartindicator">e8a700</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.foreground.1">4f81bd</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.foreground.2">80bd4f</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.foreground.3">808080</text>
+    <text name="config" lang="--" domain="LayoutPro" index="slider.autoprogress">5</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="parachat" caption="Chat">
+  <languageresource uid="nickname">
+    <caption>Nickname</caption>
+    <default>Nickname</default>
+    <description>Die Beschriftung des Felds „Nickname“</description>
+  </languageresource>
+  <languageresource uid="line">
+    <caption>Nachricht</caption>
+    <default>Nachricht</default>
+    <description>Die Beschriftung des Felds „Nachricht“</description>
+  </languageresource>
+  <languageresource uid="send">
+    <caption>Senden</caption>
+    <default>Senden</default>
+    <description>Die Beschriftung der Schaltfläche „Senden“</description>
+  </languageresource>
+  <languageresource uid="wink">
+    <caption>Emoji „Augenzwinkernd“</caption>
+    <default>Augenzwinkernd</default>
+    <description>Die Beschriftung des Emojis „augenzwinkernd“</description>
+  </languageresource>
+  <languageresource uid="sad">
+    <caption>Emoji „betrübt“</caption>
+    <default>Betrübt</default>
+    <description>Die Beschriftung des Emojis „betrübt“</description>
+  </languageresource>
+  <languageresource uid="dead">
+    <caption>Emoji „ausgeknockt“</caption>
+    <default>Ausgeknockt</default>
+    <description>Die Beschriftung des Emojis „ausgeknockt“</description>
+  </languageresource>
+  <languageresource uid="happy">
+    <caption>Emoji „glücklich“</caption>
+    <default>Glücklich</default>
+    <description>Die Beschriftung des Emojis „glücklich“</description>
+  </languageresource>
+  <languageresource uid="lol">
+    <caption>Emoji „Lach mich schlapp“</caption>
+    <default>Lach mich schlapp</default>
+    <description>Die Beschriftung des Emojis „Lach mich schlapp“</description>
+  </languageresource>
+  <languageresource uid="surprise">
+    <caption>Emoji „überrascht“</caption>
+    <default>Überrascht</default>
+    <description>Die Beschriftung des Emojis „überrascht“</description>
+  </languageresource>
+  <languageresource uid="love">
+    <caption>Emoji „Ich liebe es“</caption>
+    <default>Ich liebe es</default>
+    <description>Die Beschriftung des Emojis „Ich liebe es“</description>
+  </languageresource>
+  <languageresource uid="angry">
+    <caption>Emoji „zornig“</caption>
+    <default>Zornig</default>
+    <description>Die Beschriftung des Emojis „zornig“</description>
+  </languageresource>
+
+</languageresourcedictionary>

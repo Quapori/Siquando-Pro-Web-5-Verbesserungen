@@ -1,0 +1,66 @@
+.nginfobox img
+{
+	display: block;
+	position: absolute;
+	height: 100%;
+}
+
+.nginfobox 
+{
+	position: relative;
+	height: 100%;
+	overflow: hidden;
+}
+
+.nginfobox div 
+{
+	position: absolute;
+	padding: 16px;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+.nginfobox h3 
+{
+	margin-top: 0;
+}
+
+.nginfobox a 
+{
+	text-decoration: none;
+}
+
+.nginfobox a:hover 
+{
+	text-decoration: underline;
+}
+
+.nginfobox ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nginfobox ul li
+{
+	display: block;
+	margin: 0;
+	padding: 4px 0 4px 20px;
+	line-height: 16px;
+}
+
+.nginfobox div img 
+{
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	right: 16px;
+	bottom: 16px;
+	border: 0;
+}
+
+.nginfobox div a:hover img 
+{
+	opacity: 0.9;
+}

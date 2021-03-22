@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="vector" caption="Vektor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.svg.png" uid="default.svg" caption="(Standard)" />
+	<style preview="subtile.svg.png" uid="subtile.svg" caption="Subtil" />
+	<style preview="small.svg.png" uid="small.svg" caption="Kleines Dreieck" />
+	<style preview="half.svg.png" uid="half.svg" caption="Halbe Rechtecke" />
+	<style preview="hollow.svg.png" uid="hollow.svg" caption="Hohl" />
+	<style preview="round.svg.png" uid="round.svg" caption="Abgerundet" />
+	<style preview="button.svg.png" uid="button.svg" caption="Schalter" />
+</styles>
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="paraform"
+	caption="Formular">
+	<languageresource uid="submit">
+		<caption>Absenden</caption>
+		<default>Absenden</default>
+		<description>Die Beschriftung des „Absenden“-Buttons</description>
+	</languageresource>
+	<languageresource uid="error">
+		<caption>Fehler</caption>
+		<default>Das Formular konnte nicht abgeschickt werden. Bitte überprüfen und korrigieren Sie die angezeigten Fehler:</default>
+		<description>Meldung, die angezeigt wird, wenn das Formular Fehler enthält</description>
+	</languageresource>
+	<languageresource uid="repeat">
+		<caption>Kennwort wiederholen</caption>
+		<default>Kennwort wiederholen</default>
+		<description>Beschriftung der Felder, in die der Benutzer eine Kennwortwiederholung eingeben soll.</description>
+	</languageresource>
+	<languageresource uid="preamble">
+		<caption>Nachrichtenkopf</caption>
+		<default>Ein Besucher Ihrer Site hat am [d] ein Formular ausgefüllt:</default>
+		<description>Einleitungstext der E-Mail, die an Sie gesendet wird. Verwenden Sie [d] als Platzhalter für die Sende-Uhrzeit.</description>
+	</languageresource>
+	<languageresource uid="preamblecopy">
+		<caption>Nachrichtenkopf (Kopie an Besucher)</caption>
+		<default>Vielen Dank für Ihre Nachricht an uns. Sie haben am [d] folgende Daten an uns geschickt:</default>
+		<description>Einleitungstext der E-Mail, die der Besucher erhält, wenn er ein Formular ausgefüllt hat. Verwenden Sie [d] als Platzhalter für die Sende-Uhrzeit.</description>
+	</languageresource>
+	<languageresource uid="field">
+		<caption>Spalte „Feld“</caption>
+		<default>Feld</default>
+		<description>Beschriftung der Spalte „Feld“</description>
+	</languageresource>
+	<languageresource uid="value">
+		<caption>Spalte „Wert“</caption>
+		<default>Wert</default>
+		<description>Beschriftung der Spalte „Wert“</description>
+	</languageresource>
+	<languageresource uid="captchalabel">
+		<caption>Captcha</caption>
+		<default>Sicherheitsfrage</default>
+		<description>Beschriftung des Captchas</description>
+	</languageresource>
+	<languageresource uid="date">
+		<caption>Spalte „Datum“</caption>
+		<default>Datum</default>
+		<description>Beschriftung der Spalte „Datum“ in der CSV-Datei.</description>
+	</languageresource>
+
+</languageresourcedictionary>

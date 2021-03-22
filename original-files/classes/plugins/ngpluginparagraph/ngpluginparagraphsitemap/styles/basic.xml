@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="blue.png" uid="blue" caption="Blau" />
+	<style preview="red.png" uid="red" caption="Rot" />
+	<style preview="green.png" uid="green" caption="Grün" />
+	<style preview="color.png" uid="color" caption="Farbig" />
+	<style preview="simple.png" uid="simple" caption="Einfach" />
+	<style preview="round.png" uid="round" caption="Rund" />
+	<style preview="roundcolor.png" uid="roundcolor" caption="Rund (farbig)" />
+</styles>

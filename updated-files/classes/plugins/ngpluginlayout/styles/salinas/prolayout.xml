@@ -1,0 +1,18 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">salinas</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd71d0e2c280e7b300000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd71d0d0d2e976c200000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">f6f6f6</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.search">b9774b</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.top">8a5938</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

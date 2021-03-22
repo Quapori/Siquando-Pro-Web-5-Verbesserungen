@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="paracollage" caption="Collage">
+  <languageresource uid="more">
+    <caption>Mehr erfahren</caption>
+    <default>Mehr erfahren</default>
+    <description>Die Beschriftung des Links „Mehr erfahren“</description>
+  </languageresource>
+</languageresourcedictionary>

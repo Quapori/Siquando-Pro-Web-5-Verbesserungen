@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !=gartenanlage-zurfreienstunde.de
+RewriteRule ^/?(.*) https://gartenanlage-zurfreienstunde.de/common/$1 [R,L]
+RewriteCond %{HTTPS} !=on
+RewriteCond %{THE_REQUEST} ^GET
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/common/$1 [R,L]
+RewriteRule ^(.*)$ /index.php?ngq=common/$1 [QSA,L]
+</IfModule>

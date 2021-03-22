@@ -1,0 +1,88 @@
+.ngparacollagewrapper {
+	width: 100%;
+}
+
+.ngparacollage {
+	position: relative;
+}
+
+.ngparacollage .ngparacollagetile {
+	position: absolute;
+	box-sizing: border-box;
+}
+
+.ngparacollage .ngparacollageitemouter {
+	position: absolute;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
+.ngparacollage .ngparacollageiteminner {
+	position: relative;
+	box-sizing: border-box;
+}
+
+.ngparacollageupdown .ngparacollageshifter {
+	transition: transform 0.3s;
+	transform: translateY(0);
+	-webkit-transition: -webkit-transform 0.3s;
+	-webkit-transform: translateY(0);
+	box-sizing: border-box;
+}
+
+.ngparacollageupdown .ngparacollageshifter:hover {
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	box-sizing: border-box;
+}
+
+.ngparacollageleftright .ngparacollageshifter {
+	transition: transform 0.3s;
+	transform: translateX(0);
+	-webkit-transition: -webkit-transform 0.3s;
+	-webkit-transform: translateX(0);
+	box-sizing: border-box;
+}
+
+.ngparacollageleftright .ngparacollageshifter:hover {
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	box-sizing: border-box;
+}
+
+.ngparacollage .ngparacollageimg {
+	position: relative;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
+.ngparacollage .ngparacollagetext {
+	position: relative;
+	overflow: hidden;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	box-sizing: border-box;
+	padding: 5%;
+}
+
+.ngparacollageleftright .ngparacollageimg {
+	float: left;
+	box-sizing: border-box;
+}
+
+.ngparacollage .ngparacollageimg img {
+	position: absolute;
+	display: block;
+	border: 0;
+	box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+	.sqr .ngparacollageupdown .ngparacollageshifter:hover, 
+	.sqr .ngparacollageleftright .ngparacollageshifter:hover
+	{
+		transform: none;
+		-webkit-transform: none;
+	}
+}

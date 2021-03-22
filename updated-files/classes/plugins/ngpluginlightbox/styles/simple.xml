@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="simple" caption="Einfach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="graysimple.png" uid="graysimple" caption="Einfach, dunkel" />
+	<style preview="whitesimple.png" uid="whitesimple" caption="Einfach, hell" />
+</styles>

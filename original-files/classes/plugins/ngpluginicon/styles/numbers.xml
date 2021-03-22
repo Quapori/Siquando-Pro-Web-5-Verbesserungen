@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="numbers" caption="Zahlen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="box1.png" uid="box1" caption="Box 1" />
+    <style preview="box2.png" uid="box2" caption="Box 2" />
+    <style preview="box3.png" uid="box3" caption="Box 3" />
+    <style preview="box4.png" uid="box4" caption="Box 4" />
+    <style preview="box5.png" uid="box5" caption="Box 5" />
+    <style preview="box6.png" uid="box6" caption="Box 6" />
+</styles>

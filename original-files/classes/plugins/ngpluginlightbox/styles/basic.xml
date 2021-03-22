@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="defaultsmall.png" uid="defaultsmall" caption="Grau, kleines Kreuz" />
+	<style preview="redbig.png" uid="redbig" caption="Rot, großes Kreuz" />
+	<style preview="redsmall.png" uid="redsmall" caption="Rot, kleines Kreuz" />
+	<style preview="bluebig.png" uid="bluebig" caption="Blau, großes Kreuz" />
+	<style preview="bluesmall.png" uid="bluesmall" caption="Blau, kleines Kreuz" />
+	<style preview="inverse.png" uid="inverse" caption="Invers" />
+</styles>

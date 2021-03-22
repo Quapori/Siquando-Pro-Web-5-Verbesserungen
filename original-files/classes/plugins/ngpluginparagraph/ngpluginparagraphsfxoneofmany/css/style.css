@@ -1,0 +1,54 @@
+.ngparasfxoneofmany {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.ngparasfxoneofmany>div {
+    display: flex;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.ngparasfxoneofmany>div>div {
+    display: block;
+    width: 20%;
+    position: relative;
+}
+
+.ngparasfxoneofmany>div>div.ngparasfxoneofmanycolumn3,
+.ngparasfxoneofmany>div>div.ngparasfxoneofmanycolumn2
+{
+    z-index: 0
+}
+
+.ngparasfxoneofmany>div>div.ngparasfxoneofmanycolumn1
+{
+    z-index: 1;
+}
+
+
+.ngparasfxoneofmany>div>div>img {
+    width: 100%;
+    display: block;
+    z-index: 0;
+    position: absolute;
+}
+
+.ngparasfxoneofmany>div>div>img.ngparasfxoneofmanyimg1 {
+    transform-origin: top;
+    z-index: 1;
+    position: absolute;
+}
+
+@media (orientation: portrait) {
+    .ngparasfxoneofmany>div>div.ngparasfxoneofmanycolumn3 {
+        display: none;
+    }
+
+    .ngparasfxoneofmany>div>div {
+        width: 33.33%;
+    }
+}

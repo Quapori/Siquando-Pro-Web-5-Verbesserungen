@@ -1,0 +1,1 @@
+#{$id} .ngpluginaudiochartssprite { background-image: url({$src})}

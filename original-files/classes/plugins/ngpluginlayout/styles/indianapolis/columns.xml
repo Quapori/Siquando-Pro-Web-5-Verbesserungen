@@ -1,0 +1,10 @@
+<object class="NGSettingsColumns" version="1.0">
+  <properties>
+    <string name="colorvalueseparator" lang="--" domain="columns">eeeeee</string>
+    <int name="widthseparator" lang="--" domain="columns">1</int>
+    <int name="gutter" lang="--" domain="columns">40</int>
+    <string name="name" lang="--" domain="name" unique="true">Columns</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

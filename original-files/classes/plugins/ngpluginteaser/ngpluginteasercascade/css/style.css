@@ -1,0 +1,167 @@
+.ngteasercascade>ul {
+    list-style: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.ngteasercascade>ul>li {
+    display: block;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ngteasercascade>ul>li>ul
+{
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.ngteasercascade>ul>li>ul>li>ul
+{
+    display: block;
+    margin: 0;
+    list-style: none;
+}
+
+.ngteasercascade>ul>li>ul>li {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.ngteasercascade>ul>li>ul>li>ul>li {
+    display: block;
+    padding: 0;
+}
+
+.ngteasercascade>ul.ngteasercascadelazy>li>ul>li>ul>li {
+    opacity: 0;
+    transform: translate3d(0,50px,0);
+    transition: opacity 1s ease, transform 1s ease;
+}
+
+.ngteasercascade>ul.ngteasercascadelazy>li>ul>li>ul>li.ngteasercascadelazyreveal {
+    opacity: 1;
+    transform: translate3d(0,0,0);
+}
+
+.ngteasercascade>ul>li>ul>li>ul>li.ngteasercascadehidden {
+    display: none;
+}
+
+.ngteasercascadeshowhidden>ul>li>ul>li>ul>li.ngteasercascadehidden {
+    display: block;
+}
+
+.ngteasercascadeshowhidden>div {
+    display: none;
+}
+
+.ngteasercascade>div {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.ngteasercascade>div>button {
+    display: inline-block;
+    margin: 0;
+}
+
+
+.ngteasercascade>ul>li>ul>li>ul>li>a {
+    text-decoration: none;
+}
+
+.ngteasercascade>ul>li>ul>li>ul>li>a>figure {
+    display: block;
+    width: 100%;
+    height: 0;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.ngteasercascade>ul>li>ul>li>ul>li>a>img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 0;
+}
+
+.ngteasercascade>ul>li>ul>li>ul>li>a>figure>img {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease;
+    border: 0;
+}
+
+.ngteasercascade>ul.ngteasercascadehover>li>ul>li>ul>li>a:hover>figure>img {
+    transform: scale3d(1.1, 1.1, 1);
+}
+
+.ngteasercascade>ul>li>ul>li>ul>li>a>div>h3 {
+    margin-top: 0;
+}
+
+.ngteasercascade>ul>li>ul>li>ul>li>a>div>p:last-of-type {
+    margin-bottom: 0;
+}
+
+@media (min-width: 1280px) {
+     .ngteasercascadec6>ul>li>ul>li,
+     .ngteasercascadec4>ul>li>ul>li{
+        display: block;
+        margin: 0;
+        padding: 0;
+        float: left;
+        width: 50%;
+    }
+    .ngteasercascadec6>ul>li>ul:after,
+    .ngteasercascadec4>ul>li>ul:after{
+        content: "";
+        clear: both;
+        display: table;
+    }
+}
+
+@media (min-width: 768px) {
+    .ngteasercascadec6>ul:after,
+    .ngteasercascadec4>ul:after,
+    .ngteasercascadec2>ul:after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+    .ngteasercascadec2>ul>li>ul>li
+    {
+        display: block;
+        margin: 0;
+        padding: 0;
+        float: left;
+        width: 50%;
+    }
+    .ngteasercascadec2>ul>li>ul:after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+    .ngteasercascadec6>ul>li {
+        float: left;
+        width: 33.333%;
+    }
+
+    .ngteasercascadec4>ul>li {
+        float: left;
+        width: 50%;
+    }
+
+}

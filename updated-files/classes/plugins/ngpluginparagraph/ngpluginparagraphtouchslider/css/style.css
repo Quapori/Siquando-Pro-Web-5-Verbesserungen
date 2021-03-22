@@ -1,0 +1,70 @@
+.ngparagraphtouchslider {
+	overflow: hidden;
+	position: relative;
+	touch-action: pan-y;
+}
+
+.ngparagraphtouchslider>ul {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	transform: translateX(0);
+}
+
+.ngparagraphtouchslider>ul>li {
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+.ngparagraphtouchslider>ul>li img {
+	display: block;
+	border: 0;
+}
+
+.ngparagraphtouchsliderbullets {
+	display: block;
+	list-style: none;
+	padding: 0;
+	margin: 8px auto;
+}
+
+.ngparagraphtouchsliderbullets:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.ngparagraphtouchsliderbullets>li {
+	display: block;
+	width: 25px;
+	height: 25px;
+	cursor: pointer;
+	float: left;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+.ngparagraphtouchsliderbullets>li.ngparagraphtouchsliderbulletsactive {
+	background-position: 0 -25px;
+}
+
+.sqr .sqrallwaysfullwidth .ngparagraphtouchslider {
+	border-left-width: 0 !important;
+	border-right-width: 0 !important;
+}
+
+@media screen and (max-width: 1023px) {
+	.sqr .sqrmobilefullwidth .ngparagraphtouchslider {
+		border-left-width: 0  !important;
+		border-right-width: 0  !important;
+	}
+}

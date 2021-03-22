@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="red" caption="Rot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="red.png" uid="red" caption="Rot" />
+	<style preview="redsmall.png" uid="redsmall" caption="Rot, klein" />
+	<style preview="redrect.png" uid="redrect" caption="Rot, eckig" />
+	<style preview="redsmallrect.png" uid="redsmallrect" caption="Rot, eckig, klein" />
+	<style preview="redstar.png" uid="redstar" caption="Rot, Stern" />
+	<style preview="redround.png" uid="redround" caption="Rot, abgerundet" />
+	<style preview="redsmallround.png" uid="redsmallround" caption="Rot, abgerundet, klein" />
+	<style preview="redarrow.png" uid="redarrow" caption="Rot, Pfeil" />
+</styles>

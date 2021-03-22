@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Dosis Regular'), local('Dosis-Regular'), url(./../fonts/dosis-regular-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Dosis Bold'), local('Dosis-Bold'), url(./../fonts/dosis-bold-webfont.woff) format('woff');
+  font-display: swap;
+}

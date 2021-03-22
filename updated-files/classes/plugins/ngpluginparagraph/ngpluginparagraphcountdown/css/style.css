@@ -1,0 +1,174 @@
+.ngparacountdown > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+    width: auto;
+    text-align: center;
+}
+
+.ngparacountdown > ul > li {
+    display: inline-block;
+}
+
+.ngparacountdown > ul > li > span {
+    text-align: center;
+    padding: 0.8em 0;
+    display: block;
+}
+
+.ngparacountdown > ul > li > ul {
+    margin: 0 0.5em;
+    padding: 0;
+    list-style: none;
+    display: block;
+}
+
+.ngparacountdown > ul > li > ul::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.ngparacountdown > ul > li > ul > li {
+    margin: 0 0.03em;
+    padding: 0;
+    display: block;
+    float: left;
+}
+
+.ngparacountdowndigit {
+    position: relative;
+    height: 1.2em;
+    width: 0.8em;
+
+    transform: rotate3d(1,0,0,0.001deg);
+}
+
+.ngparacountdownmodern .ngparacountdowndigit {
+    font-family: 'Arial','Helvetica',sans-serif;
+}
+
+.ngparacountdownclassical .ngparacountdowndigit {
+    font-family: 'Times New Roman','Times','Georgia',serif;
+}
+
+
+.ngparacountdowndigit::after {
+    display: block;
+    position: absolute;
+    height: 0.6em;
+    width: 0.8em;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    box-sizing: border-box;
+    content: ' ';
+}
+
+.ngparacountdowndigit > div {
+    position: absolute;
+    height: 1.2em;
+    width: 0.8em;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    transform: rotate3d(1,0,0,0.001deg);
+}
+
+.ngparacountdowndigit > div > div {
+    position: absolute;
+    height: 0.6em;
+    width: 0.8em;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+}
+
+.ngparacountdowndigit > .ngparacountdowndigitbottom > div,
+.ngparacountdowndigit > .ngparacountdowndigitbottomflap > div {
+    top: 0.6em;
+}
+
+.ngparacountdowndigit > .ngparacountdowndigitbottom > div > div,
+.ngparacountdowndigit > .ngparacountdowndigitbottomflap > div > div {
+    top: -0.6em;
+}
+
+.ngparacountdowndigit > div > div > div {
+    line-height: 1.2em;
+    width: 0.8em;
+    height: 1.2em;
+    text-align: center;
+    padding: 0;
+    position: absolute;
+}
+
+.ngparacountdowndigit > .ngparacountdowndigitbottomflap {
+    display: none;
+}
+
+.ngparacountdownmedium .playing > .ngparacountdowndigittopflap {
+    animation: flipout 0.6s forwards linear;
+}
+
+.ngparacountdownfast .playing > .ngparacountdowndigittopflap {
+    animation: flipout 0.3s forwards linear;
+}
+
+.ngparacountdownslow .playing > .ngparacountdowndigittopflap {
+    animation: flipout 0.9s forwards linear;
+}
+
+
+@keyframes flipout {
+    0% {
+        transform: rotate3d(1,0,0,0.01deg);
+    }
+    50%, 100% {
+        transform: rotate3d(1,0,0,-90deg);
+    }
+}
+
+.playing > .ngparacountdowndigitbottomflap {
+    display: block;
+    transform: rotate3d(1,0,0,-90deg);
+}
+
+.ngparacountdownmedium .playing > .ngparacountdowndigitbottomflap {
+    animation: flipin 0.6s forwards linear;
+}
+
+.ngparacountdownfast .playing > .ngparacountdowndigitbottomflap {
+    animation: flipin 0.3s forwards linear;
+}
+
+.ngparacountdownslow .playing > .ngparacountdowndigitbottomflap {
+    animation: flipin 0.9s forwards linear;
+}
+
+
+@keyframes flipin {
+    0%, 50% {
+        transform: rotate3d(1,0,0,90deg);
+    }
+    100% {
+        transform: rotate3d(1,0,0,0.01deg);
+    }
+}
+
+.ngparacountdowndigit > .ngparacountdowndigittop {
+    z-index: 1;
+}
+
+.ngparacountdowndigit > .ngparacountdowndigittopflap {
+    z-index: 2;
+}
+
+.ngparacountdowndigit > .ngparacountdowndigitbottom {
+    z-index: 3;
+}
+
+.ngparacountdowndigit > .ngparacountdowndigitbottomflap {
+    z-index: 4;
+}

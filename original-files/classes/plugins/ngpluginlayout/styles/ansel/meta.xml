@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>ansel</id>
+  <caption>Ansel</caption>
+  <type>NGPluginLayoutFlex</type>
+  <preview>preview_day.jpg</preview>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <product>SIQUANDO Pro 5</product>
+  <initialversion>1.0</initialversion>
+  <responsive>false</responsive>
+</style>

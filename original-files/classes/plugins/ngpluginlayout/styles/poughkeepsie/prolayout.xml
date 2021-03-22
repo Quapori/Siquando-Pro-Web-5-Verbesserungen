@@ -1,0 +1,20 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">poughkeepsie</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd718061408bfe7100000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd7170e1433e353900000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.animate">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.fader">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">f5f3ed</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.bright">cfc5ba</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.dark">66594b</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.medium">b0a394</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

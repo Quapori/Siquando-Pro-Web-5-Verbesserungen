@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="192" viewBox="0 0 24.00 192.00" enable-background="new 0 0 24.00 192.00" xml:space="preserve">
+	<path fill="#{color}" d="M 5,17.7778L 5.77778,17L 12,23.2222L 18.2222,17L 19,17.7778L 12.7778,24L 19,30.2222L 18.2222,31L 12,24.7778L 5.77778,31L 5,30.2222L 11.2222,24L 5,17.7778 Z "/>
+	<path fill="#{color}" d="M 15.8891,120L 15.182,120.707L 8.81802,127.071L 8.11092,126.364L 14.4749,120L 8.11091,113.636L 8.81802,112.929L 15.182,119.293L 15.8891,120 Z "/>
+	<path fill="#{color}" d="M 8.11091,168L 8.81802,167.293L 15.182,160.929L 15.8891,161.636L 9.52513,168L 15.8891,174.364L 15.182,175.071L 8.81802,168.707L 8.11091,168 Z "/>
+	<g>
+		<rect x="5" y="65" fill="#{color}" width="4" height="4"/>
+		<rect x="10" y="65" fill="#{color}" width="4" height="4"/>
+		<rect x="15" y="65" fill="#{color}" width="4" height="4"/>
+		<rect x="5" y="70" fill="#{color}" width="4" height="4"/>
+		<rect x="10" y="70" fill="#{color}" width="4" height="4"/>
+		<rect x="15" y="70" fill="#{color}" width="4" height="4"/>
+		<rect x="5" y="75" fill="#{color}" width="4" height="4"/>
+		<rect x="10" y="75" fill="#{color}" width="4" height="4"/>
+		<rect x="15" y="75" fill="#{color}" width="4" height="4"/>
+	</g>
+</svg>

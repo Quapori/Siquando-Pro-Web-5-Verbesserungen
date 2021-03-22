@@ -1,0 +1,91 @@
+.sqpparabloghead>img {
+    display: block;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: auto;
+}
+
+.sqpparabloghead>div {
+    padding: 30px;
+    position: relative;
+    z-index: 2;
+}
+
+.sqpparablogheadmarginleft>div {
+     margin-left: 20%;
+     margin-top: -10%;
+}
+
+.sqpparablogheadmarginright>div {
+    margin-right: 20%;
+    margin-top: -10%;
+}
+
+.sqpparablogheadmarginleftandright>div {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: -10%;
+}
+
+
+.sqpparabloghead>div img {
+    display: block;
+    float: right;
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.sqpparabloghead>div>h3 {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.sqpparabloghead>div>h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.sqpparabloghead ul {
+    list-style: none;
+    margin: 20px 0 0 0;
+    padding: 0;
+    float: right;
+}
+
+.sqpparabloghead ul:after,
+.sqpparabloghead>div:after
+{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+
+.sqpparabloghead li {
+    margin: 0;
+    padding: 0 0 0 4px;
+    float: left;
+}
+
+.sqpparabloghead li a {
+    color: black;
+}
+
+.sqpparabloghead li svg {
+    width: 20px;
+    height: 20px;
+}
+
+
+@media screen and (max-width: 767px) {
+    .sqr .sqpparabloghead>div {
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+}

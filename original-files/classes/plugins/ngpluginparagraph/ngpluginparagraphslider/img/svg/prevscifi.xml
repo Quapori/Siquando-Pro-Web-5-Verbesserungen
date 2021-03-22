@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path fill="#{colorb}" opacity="0.2" d="M 10.1,24L 17.25,31.15L 32.1,46L 39.25,38.85L 24.4,24L 39.25,9.15L 32.1,2L 17.25,16.85L 10.1,24 Z "/>
+	<path fill="#{colorb}" opacity="0.2" d="M 45.85,23.45L 38.7,16.3L 31.55,23.45L 38.7,30.6L 45.85,23.45 Z "/>
+	<path fill="#{colora}" opacity="1" d="M 9,24L 16.15,31.15L 31,46L 38.15,38.85L 23.3,24L 38.15,9.15L 31,2L 16.15,16.85L 9,24 Z "/>
+	<path fill="#{colora}" opacity="1" d="M 44.75,23.45L 37.6,16.3L 30.45,23.45L 37.6,30.6L 44.75,23.45 Z "/>
+</svg>

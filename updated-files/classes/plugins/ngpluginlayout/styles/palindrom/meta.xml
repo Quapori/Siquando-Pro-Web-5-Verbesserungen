@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>palindrom</id>
+  <caption>Palindrom</caption>
+  <type>NGPluginLayoutFlexR</type>
+  <preview>preview_observatory.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <initialversion>3.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Zurückhaltend und sehr edel präsentiert sich „Palindrom“ auf allen Geräteklassen.</summary>
+</style>

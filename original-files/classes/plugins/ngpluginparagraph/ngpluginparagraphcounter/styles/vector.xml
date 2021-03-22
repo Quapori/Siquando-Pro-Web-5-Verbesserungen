@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="vector" caption="Vektor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.svg.png" uid="default.svg" caption="(Standard)" />
+	<style preview="rounded.svg.png" uid="rounded.svg" caption="Runde Ecken" />
+	<style preview="roundedbig.svg.png" uid="roundedbig.svg" caption="Runde Ecken (groß)" />
+	<style preview="big.svg.png" uid="big.svg" caption="Groß" />
+	<style preview="balls.svg.png" uid="balls.svg" caption="Bälle" />
+	<style preview="circles.svg.png" uid="circles.svg" caption="Kreise" />
+	<style preview="hollow.svg.png" uid="hollow.svg" caption="Hohl" />
+	<style preview="blocks.svg.png" uid="blocks.svg" caption="Blocks" />
+</styles>

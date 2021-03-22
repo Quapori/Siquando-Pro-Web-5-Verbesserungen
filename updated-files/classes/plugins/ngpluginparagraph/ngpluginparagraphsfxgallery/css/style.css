@@ -1,0 +1,24 @@
+.ngparasfxgallery {
+    position: relative;
+}
+
+.ngparasfxgallery>div {
+    position: sticky;
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.ngparasfxgallery>div>div {
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    transition: opacity 1s;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

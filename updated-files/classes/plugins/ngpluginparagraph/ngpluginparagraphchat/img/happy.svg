@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="32" height="32" viewBox="0 0 32.00 32.00" enable-background="new 0 0 32.00 32.00" xml:space="preserve">
+	<ellipse fill="#FFC800" fill-opacity="1" stroke-width="0.2" stroke-linejoin="miter" cx="16" cy="16" rx="15" ry="15"/>
+	<path fill="none" stroke-width="1.7072" stroke-linejoin="miter" stroke="#212731" stroke-opacity="1" d="M 11.3125,23.5009C 13.3852,25.5746 18.6148,25.5746 20.6875,23.5009"/>
+	<path fill="none" stroke-width="1.33333" stroke-linejoin="miter" stroke="#212731" stroke-opacity="1" d="M 26.3125,11.3125C 25.375,9.43749 23.5,8.49999 21.625,8.49999"/>
+	<path fill="none" stroke-width="1.33333" stroke-linejoin="miter" stroke="#212731" stroke-opacity="1" d="M 5.6875,11.3125C 6.625,9.43749 8.5,8.49999 10.375,8.49999"/>
+	<path fill="#212731" fill-opacity="1" stroke-width="0.2" stroke-linejoin="miter" d="M 9.4375,12.25C 10.473,12.25 11.3125,13.5093 11.3125,15.0625C 11.3125,16.6152 10.473,17.875 9.4375,17.875C 8.40204,17.875 7.5625,16.6152 7.5625,15.0625C 7.5625,13.5093 8.40204,12.25 9.4375,12.25 Z "/>
+	<path fill="#212731" fill-opacity="1" stroke-width="0.2" stroke-linejoin="miter" d="M 22.5625,12.25C 23.598,12.25 24.4375,13.5093 24.4375,15.0625C 24.4375,16.6152 23.598,17.875 22.5625,17.875C 21.527,17.875 20.6875,16.6152 20.6875,15.0625C 20.6875,13.5093 21.527,12.25 22.5625,12.25 Z "/>
+</svg>

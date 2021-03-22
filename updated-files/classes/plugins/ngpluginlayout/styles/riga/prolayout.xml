@@ -1,0 +1,47 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">riga</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7e13030e031fbcb5700000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logosmall">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.captionposition">content</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.commonnavhierarchical">topic</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.fadeeffect">right</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.galeryinheritance">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.mutevideo">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.navactive">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.navstyle">navdefault</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.search">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.shadow">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.userscalable">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1400</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">c6cbd3</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.content">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.footer">f9fbfc</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.header">f9fbfc</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.left">f9fbfc</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.right">f9fbfc</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.border">eaedf0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.bullets">929eb4</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.background">1d2f50</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.bright">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.font">929eb4</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.hover">b7c9ea</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.link">6986b6</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.bright">556e9a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.dark">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.hover">f1f4f6</text>
+    <text name="config" lang="--" domain="LayoutPro" index="slider.autoprogress">10</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

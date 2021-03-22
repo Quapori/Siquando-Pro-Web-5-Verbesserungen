@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Signika-Light'), url(./../fonts/signika-light-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Signika-Semibold'), url(./../fonts/signika-semibold-webfont.woff) format('woff');
+  font-display: swap;
+}

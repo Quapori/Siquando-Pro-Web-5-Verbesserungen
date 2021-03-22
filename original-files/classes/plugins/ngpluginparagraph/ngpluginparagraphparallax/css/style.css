@@ -1,0 +1,17 @@
+.ngparagraphpictureparallax {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.ngparagraphpictureparallax img {
+	display: block;
+	position: absolute;
+	width: 100%;
+}
+
+.ngparagraphpictureparallaxframed {
+	border-width: 1px;
+	border-style: solid;
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProPica.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, übergeordneten Ordner, dann Eyecatcher verwenden</option>
+		<slider id="width" min="1000" max="1400">Gesamtbreite des Layouts</slider>
+		<radio id="mainlayout" options="cols=Gleich breite Spalten|sidebars=„Inhalt“ plus schmalere Marginalspalten „Links“ und „Rechts“">Aufteilung „Inhalt“, „Links“ und „Rechts“</radio>
+		<combo id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten|dual=Ordner und Seiten plus Seiten">Navigationsstil „Allgemeine Seiten“</combo>
+		<combo id="fade" options="fade=Überblenden|left=Von links gleiten|right=Von rechts gleiten|top=Von oben gleiten|bottom=Von unten gleiten|zoomin=Einzoomen|zoomout=Auszoomen|flipvertical=Vertikal rotieren|fliphorizontal=Horizontal rotieren">Überblend-Effekt</combo>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund (Seite)</color>
+		<color id="content">Hintergrund (Inhalt)</color>
+		<color id="header">Hintergrund (Kopfbereich)</color>
+		<color id="background.nav">Hintergrund (Navigation)</color>
+		<color id="background.nav.bright">Hintergrund hell (Navigation)</color>
+		<color id="border">Rahmen</color>
+		<color id="header.font">Schriftfarbe, mittel (Kopfbereich)</color>
+		<color id="header.font.dark">Schriftfarbe, dunkel (Kopfbereich)</color>
+		<color id="header.accent">Akzent</color>
+		<color id="bullet">Bildwähler</color>
+		<color id="bullet.active">Bildwähler, aktiv</color>
+		<color id="common">Schriftfarbe, mittel (Allgemeine Seiten)</color>
+		<color id="common.dark">Schriftfarbe, dunkel (Allgemeine Seiten)</color>
+		<color id="breadcrumbs">Schriftfarbe (Sie sind hier)</color>
+
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="contact" caption="Kontakt">
+		<email id="email">E-Mail-Adresse</email>
+		<url id="facebook">Facebook</url>
+		<url id="twitter">Twitter</url>
+		<url id="googleplus">Google+</url>
+		<url id="linkedin">LinkedIn</url>
+		<url id="xing">Xing</url>
+		<url id="instagram">Instagram</url>
+		<url id="youtube">YouTube</url>
+		<url id="pinterest" info="Wenn Sie Links auf die aufgeführten sozialen Netzwerke setzen, werden unter Umständen Marken der Netzwerke auf Ihrer Website platziert. Bitte beachten Sie deren Nutzungsbedingungen.">Pinterest</url>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

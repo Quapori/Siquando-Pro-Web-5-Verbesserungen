@@ -1,0 +1,23 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">knoxville</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcherleft">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcherleft.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatchertop">w7dd7090c25379473400000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatchertop.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatchertop.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">header,sidebarright</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd7110b1a3973f5b00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">fbfbf3</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.leftbaractive">fbfbf3</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.leftbarhover">f0f0f0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.leftbartext">333333</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.topbar">333333</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.topbarhover">000000</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="parashare"
+	caption="Social Share">
+	<languageresource uid="facebook">
+		<caption>Bei Facebook teilen</caption>
+		<default>Bei Facebook teilen</default>
+		<description>Beschriftung des Links „Bei Facebook teilen“.
+		</description>
+	</languageresource>
+	<languageresource uid="twitter">
+		<caption>Bei Twitter teilen</caption>
+		<default>Bei Twitter teilen</default>
+		<description>Beschriftung des Links „Bei Twitter teilen“.
+		</description>
+	</languageresource>
+	<languageresource uid="googleplus">
+		<caption>Bei Google+ teilen</caption>
+		<default>Bei Google+ teilen</default>
+		<description>Beschriftung des Links „Bei Google+ teilen“.
+		</description>
+	</languageresource>
+	<languageresource uid="linkedin">
+		<caption>Bei LinkedIn teilen</caption>
+		<default>Bei LinkedIn teilen</default>
+		<description>Beschriftung des Links „Bei LinkedIn teilen“.
+		</description>
+	</languageresource>
+	<languageresource uid="xing">
+		<caption>Bei XING teilen</caption>
+		<default>Bei XING teilen</default>
+		<description>Beschriftung des Links „Bei XING teilen“.</description>
+	</languageresource>
+</languageresourcedictionary>

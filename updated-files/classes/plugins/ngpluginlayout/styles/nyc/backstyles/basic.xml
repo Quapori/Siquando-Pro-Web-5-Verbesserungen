@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="solid.png" uid="solid" caption="Vollfarbe" />
+	<style preview="circles.png" uid="circles" caption="Kreise" />
+	<style preview="dots.png" uid="dots" caption="Punkte" />
+	<style preview="fade.png" uid="fade" caption="Verlauf" />
+	<style preview="pinwheel.png" uid="pinwheel" caption="Strahlen" />
+	<style preview="stars.png" uid="stars" caption="Sterne" />
+	<style preview="stripes.png" uid="stripes" caption="Streifen" />
+</styles>

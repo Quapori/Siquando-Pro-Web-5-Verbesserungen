@@ -1,0 +1,9 @@
+.paragraphsidebarright {
+	float: right; 
+	margin: 0 0 30px 30px; 
+}
+
+.paragraphsidebarleft {
+	float: left; 
+	margin: 0 30px 30px 0; 
+}

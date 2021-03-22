@@ -1,0 +1,69 @@
+.ngparapanotext {
+	overflow: hidden;
+}
+
+.sqr .sqrallwaysfullwidth .ngparapanotext {
+	border-left-width: 0px !important;
+	border-right-width: 0px !important;
+}
+
+@media screen and (max-width: 1023px) {
+	.sqr .sqrmobilefullwidth .ngparapanotext {
+		border-left-width: 0px !important;
+		border-right-width: 0px !important;
+	}
+}
+
+.ngparapanotext>div>div {
+	
+	top: 0;
+	left: 0;
+}
+
+.ngparapanotextshrink {
+	transform: scale(1.2);
+	opacity: 0;
+	transition: transform 1s, opacity 1s;
+}
+
+.ngparapanotextgrow {
+	transform: scale(0.8);
+	opacity: 0;
+	transition: transform 1s, opacity 1s;
+}
+
+.ngparapanotextfade {
+	opacity: 0;
+	transition: opacity 1s;
+}
+
+.ngparapanotextup {
+	transform: translateY(20px);
+	opacity: 0;
+	transition: transform 1s, opacity 1s;
+}
+
+.ngparapanotextdown {
+	transform: translateY(-20px);
+	opacity: 0;
+	transition: transform 1s, opacity 1s;
+}
+
+.ngparapanotextright {
+	transform: translateX(-20px);
+	opacity: 0;
+	transition: transform 1s, opacity 1s;
+}
+
+.ngparapanotextleft {
+	transform: translateX(20px);
+	opacity: 0;
+	transition: transform 1s, opacity 1s;
+}
+
+
+
+.ngparapanotextshow>div>div {
+	transform: none;
+	opacity: 1;
+}

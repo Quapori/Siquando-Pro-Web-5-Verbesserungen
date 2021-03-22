@@ -1,0 +1,58 @@
+.ngpluginparagraphpanorama {
+	position: relative;
+	overflow: hidden;
+}
+
+.ngpluginparagraphpanoramaimage {
+	display: block;
+	width: 100%;
+	height: auto;
+	box-sizing: border-box;
+}
+
+.ngpluginparagraphpanoramafade {
+	display: none;
+}
+
+@media screen and (min-width: 1024px) {
+	.ngpluginparagraphpanoramafade {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		display: block;
+	}
+	.ngpluginparagraphpanorama div {
+		position: absolute;
+		width: 50%;
+	}
+	.ngpluginparagraphpanoramabottomleft {
+		bottom: 20px;
+		left: 20px;
+	}
+	.ngpluginparagraphpanoramabottomright {
+		bottom: 20px;
+		right: 20px;
+	}
+	.ngpluginparagraphpanoramatopleft {
+		top: 20px;
+		left: 20px;
+	}
+	.ngpluginparagraphpanoramatopright {
+		top: 20px;
+		right: 20px;
+	}
+}
+
+.sqr .sqrallwaysfullwidth .ngpluginparagraphpanoramaimage {
+	border-left-width: 0px !important;
+	border-right-width: 0px !important;
+}
+
+@media screen and (max-width: 1023px) {
+	.sqr .sqrmobilefullwidth .ngpluginparagraphpanoramaimage {
+		border-left-width: 0px !important;
+		border-right-width: 0px !important;
+	}
+}

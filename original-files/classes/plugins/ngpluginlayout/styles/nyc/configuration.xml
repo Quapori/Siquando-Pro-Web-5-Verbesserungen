@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProNYC.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcherq" caption="Eyecatcher (Desktop)">
+		<aspectratio>Ratio1by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcherw" caption="Eyecatcher (mobil)">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund (Gesamt)</color>
+		<color id="background.alt">Hintergrund (Gesamt, alternativ)</color>
+		<color id="background.header">Hintergrund (oben)</color>
+		<color id="background.footer">Hintergrund (unten)</color>
+		<color id="background.left">Hintergrund (links)</color>
+		<color id="background.right">Hintergrund (rechts)</color>
+		<color id="background.content">Hintergrund (Inhalt)</color>
+		<color id="topbar.background">Logoleiste (Hintergrund)</color>
+		<color id="topbar.foreground">Logoleiste (Vordergrund)</color>
+		<color id="nav.background">Navigation (Hintergrund)</color>
+		<color id="nav.background.alt">Navigation (Hintergrund, alternativ)</color>
+		<color id="nav.foreground">Navigation (Vordergrund)</color>
+		<color id="nav.hover">Navigation (Vordergrund, Maus darüber)</color>		
+		<color id="border">Rahmenlinien um Absatzbereiche</color>
+		<color id="common.background">Allgemeine Navigation Hintergrund</color>
+		<color id="common.font">Allgemeine Navigation Vordergrund (dunkel)</color>
+		<color id="common.bright">Allgemeine Navigation Vordergrund (hell)</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+	</config>	
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="shadow">Schatten um Hauptbereich</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<slider id="width" min="1500" max="1800" >Gesamtbreite des Layouts</slider>
+		<style id="background" height="48" url="classes/plugins/ngpluginlayout/styles/nyc/backstyles/">Hintergrund</style>
+		<radio id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten">Navigationsstil „Allgemeine Seiten“</radio>
+		<radio id="expandnav" options="fat=Nur bei Klick auf Pfeil (alle Navigationspunkte sind direkt erreichbar)|sparse=Bei Klick auf Pfeil oder Text (eingängiger, Zwischen-Navigationspunkte sind nicht direkt erreichbar)">Navigationszweig ausklappen</radio>
+		<radio id="captionposition" options="content=Im Absatzbereich „Inhalt“|header=Im Absatzbereich „Oben“">Position der Seitenüberschrift und der „Sie sind hier“-Navigation</radio>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

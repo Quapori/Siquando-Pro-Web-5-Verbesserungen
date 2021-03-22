@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <style preview="none.png" uid="none" caption="(Keine)" />
+    <style preview="default.png" uid="default" caption="(Standard)" />
+    <style preview="rect.png" uid="rect" caption="Rechteck" />
+    <style preview="diamond.png" uid="diamond" caption="Raute" />
+    <style preview="donut.png" uid="donut" caption="Donut" />
+    <style preview="hollow.png" uid="hollow" caption="Hohl" />
+    <style preview="hollowdiamond.png" uid="hollowdiamond" caption="Raute, hohl" />
+    <style preview="big.png" uid="big" caption="Groß" />
+    <style preview="star.png" uid="star" caption="Sternchen" />
+    <style preview="sun.png" uid="sun" caption="Sonne" />
+    <style preview="heart.png" uid="heart" caption="Herz" />
+</styles>

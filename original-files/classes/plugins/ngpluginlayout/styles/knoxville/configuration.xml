@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProKnoxville.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>true</showlink>
+		<showtitle>true</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="eyecatchertop" caption="Eyecatcher oben">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>true</showlink>
+		<showtitle>true</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcherleft" caption="Eyecatcher links">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>true</showlink>
+		<showtitle>true</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund</color>
+		<color id="topbar">Hintergrund obere Navigation</color>
+		<color id="topbarhover">Hintergrund obere Navigation (Maus darüber)</color>
+		<color id="leftbartext">Schrift linke Navigation</color>
+		<color id="leftbarhover">Hintergrund linke Navigation (Maus darüber)</color>
+		<color id="leftbaractive">Hintergrund linke Navigation (aktiv)</color>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+	</config>
+	
+</configs>

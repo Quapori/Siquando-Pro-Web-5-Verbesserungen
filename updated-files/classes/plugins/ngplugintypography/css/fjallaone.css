@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Fjalla One'), local('FjallaOne-Regular'), url(./../fonts/fjallaone-regular-webfont.woff) format('woff');
+  font-display: swap;
+}

@@ -1,0 +1,141 @@
+ul.ngparablogteaser {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+ul.ngparablogteaser li {
+    margin: 0 0 20px 0;
+    padding: 0;
+    display: block;
+    box-sizing: border-box;
+}
+
+ul.ngparablogteaser:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+
+@media (min-width: 768px) {
+    ul.ngparablogteaser2col > li {
+        width: 50%;
+        float: left;
+    }
+
+    ul.ngparablogteaser2col > li:nth-child(2n+0) {
+        padding-left: 20px;
+    }
+
+    ul.ngparablogteaser2col > li:nth-child(2n+1) {
+        padding-right: 20px;
+        clear: both;
+    }
+}
+
+ul.ngparablogteaser .ngparablogteaserpicture {
+    position: relative;
+    height: 0;
+    z-index: 1;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+ul.ngparablogteaserratio3by1 .ngparablogteaserpicture {
+    padding-bottom: 33.3333%;
+}
+
+ul.ngparablogteaserratio2by1 .ngparablogteaserpicture {
+    padding-bottom: 50%;
+}
+
+ul.ngparablogteaserratio16by9 .ngparablogteaserpicture {
+    padding-bottom: 56.25%;
+}
+
+ul.ngparablogteaserratio3by2 .ngparablogteaserpicture {
+    padding-bottom: 66.6667%;
+}
+
+ul.ngparablogteaserratio4by3 .ngparablogteaserpicture {
+    padding-bottom: 75%;
+}
+
+ul.ngparablogteaserratio1by1 .ngparablogteaserpicture {
+    padding-bottom: 100%;
+}
+
+ul.ngparablogteaserratio3by4 .ngparablogteaserpicture {
+    padding-bottom: 133.3333%;
+}
+
+ul.ngparablogteaserratio2by3 .ngparablogteaserpicture {
+    padding-bottom: 150%;
+}
+
+ul.ngparablogteaserratio1by2 .ngparablogteaserpicture {
+    padding-bottom: 200%;
+}
+
+ul.ngparablogteaserratio1by3 .ngparablogteaserpicture {
+    padding-bottom: 300%;
+}
+
+
+ul.ngparablogteaser .ngparablogteaserpicture img {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.ngparablogteaseranimate .ngparablogteaserpicture img {
+    transition: transform 0.4s ease, opacity 1s ease;
+}
+
+.ngparablogteaseranimate .ngparablogteaserpicture a:hover img {
+    transform: scale3d(1.1, 1.1, 1);
+    opacity: 0.8;
+}
+
+ul.ngparablogteaser img.ngparablogteaserauthor {
+    width: 64px;
+    height: 64px;
+    float: right;
+    position: relative;
+    z-index: 2;
+    border-radius: 32px;
+    margin: 16px;
+    box-shadow: black 0 0 12px;
+}
+
+ul.ngparablogteaser .ngparablogteaserpicture+img.ngparablogteaserauthor {
+    margin-top: -32px;
+}
+
+ul.ngparablogteaser h3 {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+ul.ngparablogteaser h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+ul.ngparablogteaser em {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 90%;
+}
+
+ul.ngparablogteaser .ngparablogteasermore {
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

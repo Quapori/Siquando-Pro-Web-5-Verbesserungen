@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="32" height="32" viewBox="0 0 32.00 32.00" enable-background="new 0 0 32.00 32.00" xml:space="preserve">
+	<ellipse fill="#{colorb}" fill-opacity="0.403922" stroke-linejoin="round" cx="16" cy="16" rx="15" ry="15"/>
+	<path fill="#{colora}" fill-opacity="1" stroke-linejoin="round" d="M 24.8388,15.1716L 17.0607,22.9497C 16.4749,23.5355 15.5251,23.5355 14.9393,22.9497L 7.16117,15.1716C 6.57538,14.5858 6.57538,13.636 7.16117,13.0503C 7.74696,12.4645 8.69671,12.4645 9.28249,13.0503L 16,19.7678L 22.7175,13.0502C 23.3033,12.4645 24.253,12.4645 24.8388,13.0502C 25.4246,13.636 25.4246,14.5858 24.8388,15.1716 Z "/>
+</svg>

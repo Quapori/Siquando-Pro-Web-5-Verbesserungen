@@ -1,0 +1,1 @@
+#para{$id}>div>div { background-image: url({$path}?ca={$colora}&cb={$colorb}&cc={$colorc}); }

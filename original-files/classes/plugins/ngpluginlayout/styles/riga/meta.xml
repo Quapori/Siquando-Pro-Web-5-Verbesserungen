@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>riga</id>
+  <caption>Riga Vecriga</caption>
+  <type>NGPluginLayoutPro</type>
+  <preview>preview_alpine.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <initialversion>2.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Ein universelles Design mit Slider, wählbarer Maximalbreite und Drop-Down-Menü.</summary>
+</style>

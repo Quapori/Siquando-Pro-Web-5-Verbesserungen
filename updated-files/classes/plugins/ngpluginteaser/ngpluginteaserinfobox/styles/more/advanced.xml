@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="advanced" caption="Erweitert" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="sunny.png" uid="sunny" caption="Sonnig" />
+	<style preview="baby.png" uid="baby" caption="Baby" />
+</styles>

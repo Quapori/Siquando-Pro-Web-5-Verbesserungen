@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProWyntherscharff.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund</color>
+		<color id="nav.foreground.1">Navigation (1. Ebene)</color>
+		<color id="nav.foreground.2">Navigation (2. Ebene)</color>
+		<color id="nav.foreground.3">Navigation (3. Ebene)</color>
+		<color id="nav.cartindicator">Navigation (Warenkorbindikator)</color>
+		<color id="border">Rahmenlinien um Absatzbereiche</color>
+		<color id="common.font">Allgemeine Seiten (Schrift)</color>
+		<color id="common.link">Allgemeine Seiten (Links)</color>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<option id="expandnav">Navigationszweig bei Klick ausklappen (Zwischen-Navigationspunkte sind nicht direkt erreichbar)</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, übergeordneten Ordner, dann Eyecatcher verwenden</option>
+		<option id="sticky">Navigation an den Rändern fixieren</option>
+		<slider id="width" min="1500" max="1800" >Gesamtbreite des Layouts</slider>
+		<radio id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten|dual=Ordner und Seiten plus Seiten">Navigationsstil „Allgemeine Seiten“</radio>
+		<radio id="captionposition" options="content=Im Absatzbereich „Inhalt“|header=Im Absatzbereich „Oben“">Position der Seitenüberschrift und der „Sie sind hier“-Navigation</radio>
+		<radio id="eyecatcherposition" options="content=Rechts über dem Inhalt|all=Oben über Navigation und Inhalt">Position des Eyecatchers</radio>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="contact" caption="Kontakt">
+		<email id="email">E-Mail-Adresse</email>
+		<url id="facebook">Facebook</url>
+		<url id="twitter">Twitter</url>
+		<url id="linkedin">LinkedIn</url>
+		<url id="xing">Xing</url>
+		<url id="instagram">Instagram</url>
+		<url id="youtube">YouTube</url>
+		<url id="pinterest" info="Wenn Sie Links auf die aufgeführten sozialen Netzwerke setzen, werden unter Umständen Marken der Netzwerke auf Ihrer Website platziert. Bitte beachten Sie deren Nutzungsbedingungen.">Pinterest</url>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

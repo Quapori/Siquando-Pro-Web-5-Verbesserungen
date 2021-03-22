@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <style preview="default.png" uid="default" caption="(Standard)" />
+    <style preview="small.png" uid="small" caption="Klein" />
+    <style preview="rect.png" uid="rect" caption="Rechteckig" />
+    <style preview="smallrect.png" uid="smallrect" caption="Rechteckig, klein" />
+    <style preview="doublerect.png" uid="doublerect" caption="Rechteckig, doppelt" />
+    <style preview="double.png" uid="double" caption="Doppelt" />
+    <style preview="diamond.png" uid="diamond" caption="Raute" />
+    <style preview="bicolor.png" uid="bicolor" caption="Zweifarbig" />
+    <style preview="bicolorrect.png" uid="bicolorrect" caption="Zweifarbig, rechteckig" />
+    <style preview="edges.png" uid="edges" caption="Kanten" />
+    <style preview="cross.png" uid="cross" caption="Kreuz" />
+    <style preview="hollow.png" uid="hollow" caption="Hohl" />
+    <style preview="hollowrect.png" uid="hollowrect" caption="Hohl, rechteckig" />
+</styles>

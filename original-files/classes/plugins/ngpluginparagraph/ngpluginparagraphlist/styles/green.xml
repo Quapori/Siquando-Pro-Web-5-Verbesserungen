@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="green" caption="Grün" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="green.png" uid="green" caption="Grün" />
+	<style preview="greensmall.png" uid="greensmall" caption="Grün, klein" />
+	<style preview="greenrect.png" uid="greenrect" caption="Grün, eckig" />
+	<style preview="greensmallrect.png" uid="greensmallrect" caption="Grün, eckig, klein" />
+	<style preview="greenstar.png" uid="greenstar" caption="Grün, Stern" />
+	<style preview="greenround.png" uid="greenround" caption="Grün, abgerundet" />
+	<style preview="greensmallround.png" uid="greensmallround" caption="Grün, abgerundet, klein" />
+	<style preview="greenarrow.png" uid="greenarrow" caption="Grün, Pfeil" />
+</styles>

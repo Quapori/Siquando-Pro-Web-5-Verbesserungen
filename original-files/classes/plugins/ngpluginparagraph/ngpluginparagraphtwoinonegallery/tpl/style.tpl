@@ -1,0 +1,1 @@
+#ngparatwoinonegallery{$id} .ngparatwoinonegallerycontrols>a { border-color: {if $border!==''}#{$border}{else}transparent{/if}; color: #{$color}; background-image: url({$svg}?f=sprites&c={$color}); {if $background!==''}background-color: #{$background}{/if} }

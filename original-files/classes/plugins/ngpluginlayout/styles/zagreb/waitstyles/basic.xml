@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="waitdefault.png" uid="waitdefault" caption="(Standard)" />
+	<style preview="waitdots.png" uid="waitdots" caption="Punkte" />
+	<style preview="waitring.png" uid="waitring" caption="Ring" />
+	<style preview="waitfade.png" uid="waitfade" caption="Verlauf" />
+	<style preview="waitstar.png" uid="waitstar" caption="Stern" />
+	<style preview="waitedge.png" uid="waitedge" caption="Ecke" />
+</styles>

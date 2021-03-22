@@ -1,0 +1,179 @@
+.sqwpluginsplitslider:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.sqwpluginsplitsliderright .sqwpluginsplitsliderslider,
+.sqwpluginsplitsliderleft .sqwpluginsplitsliderinfo {
+    float: right;
+}
+
+.sqwpluginsplitsliderright .sqwpluginsplitsliderinfo,
+.sqwpluginsplitsliderleft .sqwpluginsplitsliderslider {
+    float: left;
+}
+
+.sqwpluginsplitsliderslider {
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.sqwpluginsplitsliderequal .sqwpluginsplitsliderslider {
+    width: 50%;
+}
+
+.sqwpluginsplitslidersmaller .sqwpluginsplitsliderslider {
+    width: 33.33333%;
+}
+
+.sqwpluginsplitsliderwider .sqwpluginsplitsliderslider {
+    width: 66.66667%;
+}
+
+
+.sqwpluginsplitsliderequal .sqwpluginsplitsliderinfo {
+    width: 50%;
+}
+
+.sqwpluginsplitslidersmaller .sqwpluginsplitsliderinfo {
+    width: 66.66667%;
+}
+
+.sqwpluginsplitsliderwider .sqwpluginsplitsliderinfo {
+    width: 33.33333%;
+}
+
+.sqwpluginsplitsliderinfo {
+    position: relative;
+    overflow: hidden;
+}
+
+.sqwpluginsplitslidertext {
+    box-sizing: border-box;
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:48px;
+    right:0;
+    overflow: hidden;
+}
+
+.sqwpluginsplitsliderbullets {
+    box-sizing: border-box;
+    position: absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    height:48px;
+}
+
+
+.sqwpluginsplitsliderslider {
+    overflow: hidden;
+    position: relative;
+    touch-action: pan-y;
+}
+.sqwpluginsplitsliderslider>ul {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    transform: translateX(0);
+}
+.sqwpluginsplitsliderslider>ul>li {
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.sqwpluginsplitsliderslider>ul>li img {
+    display: block;
+    border: 0;
+}
+
+.sqwpluginsplitsliderslider>ul>li>div {
+    display: none;
+}
+
+.sqwpluginsplitsliderbullets>ul {
+    display: block;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+}
+.sqwpluginsplitsliderbullets>ul>li {
+    display: block;
+    width: 24px;
+    height: 48px;
+    cursor: pointer;
+    float: left;
+    background-position: 0 0;
+}
+.sqwpluginsplitsliderbullets>ul>li.sqwpluginsplitsliderbulletsactive {
+    background-position: 0 -48px;
+}
+
+.sqwpluginsplitslidercaption {
+    margin: 0;
+    padding: 0 0 10px 0;
+    font-size: 120%;
+}
+
+.sqwpluginsplitsliderabstract {
+    margin: 0;
+    padding: 0;
+}
+
+.sqwpluginsplitslidermore {
+    text-align: right;
+}
+
+.sqwpluginsplitslidermore a {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+@media screen and (max-width: 767px) {
+    .sqwpluginsplitsliderright .sqwpluginsplitsliderslider,
+    .sqwpluginsplitsliderleft .sqwpluginsplitsliderinfo,
+    .sqwpluginsplitsliderright .sqwpluginsplitsliderinfo,
+    .sqwpluginsplitsliderleft .sqwpluginsplitsliderslider {
+        float: none;
+    }
+    .sqwpluginsplitsliderequal .sqwpluginsplitsliderslider,
+    .sqwpluginsplitslidersmaller .sqwpluginsplitsliderslider,
+    .sqwpluginsplitsliderwider .sqwpluginsplitsliderslider,
+    .sqwpluginsplitsliderequal .sqwpluginsplitsliderinfo,
+    .sqwpluginsplitslidersmaller .sqwpluginsplitsliderinfo,
+    .sqwpluginsplitsliderwider .sqwpluginsplitsliderinfo {
+        width: 100%;
+    }
+    .sqwpluginsplitsliderslider img {
+        position: static;
+    }
+
+    .sqwpluginsplitsliderinfo {
+        display: block;
+    }
+
+    .sqwpluginsplitslidertext {
+        top:48px;
+        bottom:0;
+    }
+
+    .sqwpluginsplitsliderbullets {
+        top:0;
+        bottom: auto;
+    }
+
+
+}

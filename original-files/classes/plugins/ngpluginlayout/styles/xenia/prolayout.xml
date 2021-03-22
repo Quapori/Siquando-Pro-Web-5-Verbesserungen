@@ -1,0 +1,15 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">xenia</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd80d0e361e031d400000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd80d0801167c83800000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.a">347eec</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.b">faa84e</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

@@ -1,0 +1,1006 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>detroit</id>
+  <caption>Detroit</caption>
+  <type>NGPluginLayoutFlex</type>
+  <product>SIQUANDO Pro 5</product>
+  <initialversion>1.0</initialversion>
+  <responsive>false</responsive>
+  <preview>preview_antelope.jpg</preview>
+  <summary>Ein edles Design mit sekundärer Navigation. Verwenden Sie Ihr eigenes Firmenlogo im Drop-Down-Menü.</summary>
+  <dependencies>
+    <dependency filename="logodetroit.png" type="Picture" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.logo">w7dd50f080b122b65e00000000000000</dependency>
+  </dependencies>
+  <substyles>
+    <substyle id="antelope">
+      <caption>Antelope</caption>
+      <preview>preview_antelope.jpg</preview>
+      <previewbig>previewbig_antelope.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">824615</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">824615</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">824615</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">824615</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">824615</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">824615</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">ca935d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">ca935d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ca935d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ca935d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">ca935d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">ca935d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">ca935d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">ca935d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">ca935d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ca935d</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">ca935d</dependency>
+        <dependency filename="ss28047.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="autumn">
+      <caption>Autumn</caption>
+      <preview>preview_autumn.jpg</preview>
+      <previewbig>previewbig_autumn.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">7e1814</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7e1814</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">7e1814</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">7e1814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">7e1814</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">7e1814</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">cc605c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">cc605c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">cc605c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">cc605c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">cc605c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">cc605c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">cc605c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">cc605c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">cc605c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">cc605c</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">cc605c</dependency>
+        <dependency filename="ss28058.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="balance">
+      <caption>Balance</caption>
+      <preview>preview_balance.jpg</preview>
+      <previewbig>previewbig_balance.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">633e4f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">633e4f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">633e4f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">633e4f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">633e4f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">633e4f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">b87493</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">b87493</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">b87493</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">b87493</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">b87493</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">b87493</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">b87493</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">b87493</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">b87493</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">b87493</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">b87493</dependency>
+        <dependency filename="ss28034.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="bliss">
+      <caption>Bliss</caption>
+      <preview>preview_bliss.jpg</preview>
+      <previewbig>previewbig_bliss.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">706916</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">706916</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">706916</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">706916</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">706916</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">706916</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">baae25</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">baae25</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">baae25</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">baae25</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">baae25</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">baae25</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">baae25</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">baae25</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">baae25</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">baae25</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">baae25</dependency>
+        <dependency filename="ss28065.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="bow">
+      <caption>Bow</caption>
+      <preview>preview_bow.jpg</preview>
+      <previewbig>previewbig_bow.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">202b6e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">202b6e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">202b6e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">202b6e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">202b6e</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">202b6e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">374cbf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">374cbf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">374cbf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">374cbf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">374cbf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">374cbf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">374cbf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">374cbf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">374cbf</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">374cbf</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">374cbf</dependency>
+        <dependency filename="ss28031.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="bridge">
+      <caption>Bridge</caption>
+      <preview>preview_bridge.jpg</preview>
+      <previewbig>previewbig_bridge.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">7a6d5c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">7a6d5c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">c7b195</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">c7b195</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">c7b195</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">c7b195</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">c7b195</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">c7b195</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">c7b195</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">c7b195</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">c7b195</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">c7b195</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">c7b195</dependency>
+        <dependency filename="ss28095.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="cactus">
+      <caption>Cactus</caption>
+      <preview>preview_cactus.jpg</preview>
+      <previewbig>previewbig_cactus.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">857039</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">857039</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">857039</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">857039</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">857039</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">857039</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">bda051</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">bda051</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">bda051</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">bda051</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">bda051</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">bda051</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">bda051</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">bda051</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">bda051</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">bda051</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">bda051</dependency>
+        <dependency filename="ss28032.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="cascade">
+      <caption>Cascade</caption>
+      <preview>preview_cascade.jpg</preview>
+      <previewbig>previewbig_cascade.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">73563e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">73563e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">73563e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">73563e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">73563e</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">73563e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">ab805c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">ab805c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">ab805c</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">ab805c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">ab805c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">ab805c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">ab805c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">ab805c</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">ab805c</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">ab805c</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">ab805c</dependency>
+        <dependency filename="ss28085.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="delicate">
+      <caption>Delicate</caption>
+      <preview>preview_delicate.jpg</preview>
+      <previewbig>previewbig_delicate.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">85552a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">85552a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">85552a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">85552a</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">85552a</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">85552a</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">cc8241</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">cc8241</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">cc8241</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">cc8241</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">cc8241</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">cc8241</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">cc8241</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">cc8241</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">cc8241</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">cc8241</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">cc8241</dependency>
+        <dependency filename="ss28021.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="desert">
+      <caption>Desert</caption>
+      <preview>preview_desert.jpg</preview>
+      <previewbig>previewbig_desert.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">867466</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">867466</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">867466</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">867466</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">867466</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">867466</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">d1b59f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">d1b59f</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">d1b59f</dependency>
+        <dependency filename="ss28051.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="dry">
+      <caption>Dry</caption>
+      <preview>preview_dry.jpg</preview>
+      <previewbig>previewbig_dry.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">756c68</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">756c68</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">756c68</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">756c68</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">756c68</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">756c68</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">b0a39d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">b0a39d</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">b0a39d</dependency>
+        <dependency filename="ss28055.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="flow">
+      <caption>Flow</caption>
+      <preview>preview_flow.jpg</preview>
+      <previewbig>previewbig_flow.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">5b6f37</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">5b6f37</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">9ebf60</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">9ebf60</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">9ebf60</dependency>
+        <dependency filename="ss28081.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="fog">
+      <caption>Fog</caption>
+      <preview>preview_fog.jpg</preview>
+      <previewbig>previewbig_fog.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">2d3e6b</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">2d3e6b</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">5777cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">5777cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">5777cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">5777cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">5777cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">5777cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">5777cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">5777cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">5777cf</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">5777cf</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">5777cf</dependency>
+        <dependency filename="ss28094.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="forest">
+      <caption>Forest</caption>
+      <preview>preview_forest.jpg</preview>
+      <previewbig>previewbig_forest.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">42623d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">42623d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">42623d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">42623d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">42623d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">42623d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">7fbd75</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">7fbd75</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">7fbd75</dependency>
+        <dependency filename="ss28072.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="frisco">
+      <caption>Frisco</caption>
+      <preview>preview_frisco.jpg</preview>
+      <previewbig>previewbig_frisco.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">70432f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">70432f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">70432f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">70432f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">70432f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">70432f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">de835d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">de835d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">de835d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">de835d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">de835d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">de835d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">de835d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">de835d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">de835d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">de835d</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">de835d</dependency>
+        <dependency filename="ss28098.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="hills">
+      <caption>Hills</caption>
+      <preview>preview_hills.jpg</preview>
+      <previewbig>previewbig_hills.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">5c7d5e</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">5c7d5e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">8fc291</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">8fc291</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">8fc291</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">8fc291</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">8fc291</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">8fc291</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">8fc291</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">8fc291</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">8fc291</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">8fc291</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">8fc291</dependency>
+        <dependency filename="ss28077.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="lake">
+      <caption>Lake</caption>
+      <preview>preview_lake.jpg</preview>
+      <previewbig>previewbig_lake.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">384170</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">384170</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">384170</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">384170</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">384170</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">384170</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">6778cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">6778cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">6778cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">6778cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">6778cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">6778cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">6778cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">6778cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">6778cf</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">6778cf</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">6778cf</dependency>
+        <dependency filename="ss28009.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="mirror">
+      <caption>Mirror</caption>
+      <preview>preview_mirror.jpg</preview>
+      <previewbig>previewbig_mirror.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">485473</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">485473</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">485473</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">485473</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">485473</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">485473</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">778bbd</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">778bbd</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">778bbd</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">778bbd</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">778bbd</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">778bbd</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">778bbd</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">778bbd</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">778bbd</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">778bbd</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">778bbd</dependency>
+        <dependency filename="ss28011.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="montains">
+      <caption>Montains</caption>
+      <preview>preview_montains.jpg</preview>
+      <previewbig>previewbig_montains.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">6d737d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">6d737d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">6d737d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">6d737d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">6d737d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">6d737d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">b6c0d1</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">b6c0d1</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">b6c0d1</dependency>
+        <dependency filename="ss28001.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="paradise">
+      <caption>Paradise</caption>
+      <preview>preview_paradise.jpg</preview>
+      <previewbig>previewbig_paradise.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">3c6580</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">3c6580</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">3c6580</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">3c6580</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">3c6580</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">3c6580</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">61a3cf</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">61a3cf</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">61a3cf</dependency>
+        <dependency filename="ss28088.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="pool">
+      <caption>Pool</caption>
+      <preview>preview_pool.jpg</preview>
+      <previewbig>previewbig_pool.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">263a73</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">263a73</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">263a73</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">263a73</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">263a73</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">263a73</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">3c5cb5</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">3c5cb5</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">3c5cb5</dependency>
+        <dependency filename="ss28059.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="rainbow">
+      <caption>Rainbow</caption>
+      <preview>preview_rainbow.jpg</preview>
+      <previewbig>previewbig_rainbow.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">595e7d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">595e7d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">595e7d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">595e7d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">595e7d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">595e7d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">98a1d6</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">98a1d6</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">98a1d6</dependency>
+        <dependency filename="ss28079.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="rock">
+      <caption>Rock</caption>
+      <preview>preview_rock.jpg</preview>
+      <previewbig>previewbig_rock.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">735348</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">735348</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">735348</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">735348</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">735348</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">735348</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">c7907d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">c7907d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">c7907d</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">c7907d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">c7907d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">c7907d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">c7907d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">c7907d</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">c7907d</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">c7907d</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">c7907d</dependency>
+        <dependency filename="ss28053.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="sand">
+      <caption>Sand</caption>
+      <preview>preview_sand.jpg</preview>
+      <previewbig>previewbig_sand.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">818185</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">818185</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">818185</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">818185</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">818185</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">818185</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">bcbcc2</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">bcbcc2</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">bcbcc2</dependency>
+        <dependency filename="ss28050.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="spring">
+      <caption>Spring</caption>
+      <preview>preview_spring.jpg</preview>
+      <previewbig>previewbig_spring.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">4f6814</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4f6814</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">4f6814</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">4f6814</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">4f6814</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">4f6814</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">bbb226</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">bbb226</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">bbb226</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">bbb226</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">bbb226</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">bbb226</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">bbb226</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">bbb226</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">bbb226</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">bbb226</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">bbb226</dependency>
+        <dependency filename="ss28064.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="sunset">
+      <caption>Sunset</caption>
+      <preview>preview_sunset.jpg</preview>
+      <previewbig>previewbig_sunset.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">786644</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">786644</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">786644</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">786644</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">786644</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">786644</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">c4a670</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">c4a670</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">c4a670</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">c4a670</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">c4a670</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">c4a670</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">c4a670</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">c4a670</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">c4a670</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">c4a670</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">c4a670</dependency>
+        <dependency filename="ss28046.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="surf">
+      <caption>Surf</caption>
+      <preview>preview_surf.jpg</preview>
+      <previewbig>previewbig_surf.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">636b57</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">636b57</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">636b57</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">636b57</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">636b57</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">636b57</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">b5c49f</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">b5c49f</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">b5c49f</dependency>
+        <dependency filename="ss28087.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="trail">
+      <caption>Trail</caption>
+      <preview>preview_trail.jpg</preview>
+      <previewbig>previewbig_trail.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">4a7337</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">4a7337</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">4a7337</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">4a7337</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">4a7337</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">4a7337</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">75b557</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">75b557</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">75b557</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">75b557</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">75b557</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">75b557</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">75b557</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">75b557</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">75b557</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">75b557</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">75b557</dependency>
+        <dependency filename="ss28073.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="underwater">
+      <caption>Underwater</caption>
+      <preview>preview_underwater.jpg</preview>
+      <previewbig>previewbig_underwater.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">657038</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">657038</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">657038</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">657038</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">657038</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">657038</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">a3b55b</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">a3b55b</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">a3b55b</dependency>
+        <dependency filename="ss28089.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+    <substyle id="waterfall">
+      <caption>Waterfall</caption>
+      <preview>preview_waterfall.jpg</preview>
+      <previewbig>previewbig_waterfall.jpg</previewbig>
+      <dependencies>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline1font">446c2e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkfontstyle">446c2e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbordercolor">446c2e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellheaderbackground.color">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.fontbar">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbarhover.color">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.popupborder">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundpopuphover.color">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherfill.color">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.texthover">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.textactive">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.texthover">446c2e</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.textactive">446c2e</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="1">446c2e</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="headline2font">7ac253</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="linkhoverfontstyle">7ac253</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="fieldbordercolor">7ac253</dependency>
+        <dependency type="Color" module="NGPluginTypographySettings" property="cellbordercolor">7ac253</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navnavigationhorizontal.dropdown.backgroundbaractive.color">7ac253</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinetop">7ac253</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="eyecatcherlinebottom">7ac253</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navleftnavigationvertical.vertical.text">7ac253</dependency>
+        <dependency type="Color" module="NGPluginLayoutFlexSettings" property="navrightnavigationvertical.vertical.text">7ac253</dependency>
+        <dependency type="Color" module="NGSettingsPalette" property="0">7ac253</dependency>
+        <dependency type="Color" module="NGPluginBorderStandardSettings" property="bordercolor">7ac253</dependency>
+        <dependency filename="ss28082.jpg" type="Picture" module="NGPluginLayoutFlexSettings" property="eyecatchereyecatcher.picture.picture">w7dd50f0a11020aea000000000000000</dependency>
+      </dependencies>
+    </substyle>
+  </substyles>
+</style>

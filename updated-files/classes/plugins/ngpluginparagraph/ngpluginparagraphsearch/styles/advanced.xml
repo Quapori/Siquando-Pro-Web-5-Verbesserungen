@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="advanced" caption="Erweitert" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="computer.png" uid="computer" caption="Computer" />	
+	<style preview="documents.png" uid="documents" caption="Dokumente" />
+	<style preview="folder.png" uid="folder" caption="Ordner" />
+	<style preview="go.png" uid="go" caption="Los gehts" />
+</styles>

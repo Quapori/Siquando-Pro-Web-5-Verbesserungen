@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="arrow.png" uid="arrow" caption="Pfeil" />
+	<style preview="triangle.png" uid="triangle" caption="Dreieck" />
+	<style preview="simpletriangle.png" uid="simpletriangle" caption="Dreieck (einfach)" />
+	<style preview="simplearrow.png" uid="simplearrow" caption="Pfeil (einfach)" />
+	<style preview="simple.png" uid="simple" caption="Standard (einfach)" />
+	<style preview="comic.png" uid="comic" caption="Comic" />
+	<style preview="broad.png" uid="broad" caption="Deutlich" />
+	<style preview="thin.png" uid="thin" caption="Dünn" />
+	<style preview="puristic.png" uid="puristic" caption="Puristisch" />
+</styles>

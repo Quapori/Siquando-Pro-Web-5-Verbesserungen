@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="parasearch" caption="Volltext-Suche">
+  <languageresource uid="searchfor">
+    <caption>Suchen nach …</caption>
+    <default>Suchen nach …</default>
+    <description>Die Beschriftung des Suchfelds</description>
+  </languageresource>
+  <languageresource uid="nomatches">
+    <caption>Keine Seiten gefunden.</caption>
+    <default>Es wurden keine Seiten gefunden, die Ihrem Suchbegriff entsprechen.</default>
+    <description>Meldung, die angezeigt wird, wenn keine Seiten gefunden wurden.</description>
+  </languageresource>
+  <languageresource uid="noquery">
+    <caption>Suchbegriff eingeben.</caption>
+    <default>Bitte geben Sie einen Suchbegriff ein.</default>
+    <description>Meldung, die angezeigt wird, wenn kein Suchbegriff eingegeben wurde.</description>
+  </languageresource>
+  <languageresource uid="tooshort">
+    <caption>Suchbegriff zu kurz.</caption>
+    <default>Der eingegebene Suchbegriff ist zu kurz. Bitte geben Sie mindestens vier Zeichen ein.</default>
+    <description>Meldung, die angezeigt wird, wenn der Suchbegriff zu kurz ist.</description>
+  </languageresource>
+</languageresourcedictionary>

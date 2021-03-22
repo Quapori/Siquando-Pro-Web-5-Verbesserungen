@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="advanced" caption="Erweitert" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+	<style uid="blue_arrow" preview="blue_arrow.png" caption="Blauer Pfeil" />
+	<style uid="blue_circle" preview="blue_circle.png" caption="Blauer Kreis" />
+	<style uid="blue_rectangle" preview="blue_rectangle.png" caption="Blaues Rechteck" />
+	<style uid="green_double_arrow" preview="green_double_arrow.png" caption="Grüner Doppelpfeil" />
+	<style uid="plus" preview="plus.png" caption="Plus" />
+</styles>

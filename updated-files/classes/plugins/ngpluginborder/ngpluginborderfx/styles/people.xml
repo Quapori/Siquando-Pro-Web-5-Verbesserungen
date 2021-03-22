@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="people" caption="Leute" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="preview_jaques.png" uid="jaques" caption="Jaques" />
+	<style preview="preview_francine.png" uid="francine" caption="Francine" />
+	<style preview="preview_ella.png" uid="ella" caption="Ella" />
+</styles>

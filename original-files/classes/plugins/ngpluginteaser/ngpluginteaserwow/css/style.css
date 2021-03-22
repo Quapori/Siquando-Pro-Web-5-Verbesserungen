@@ -1,0 +1,368 @@
+.teaserwow > a {
+    display: block;
+    border: 0;
+    float: left;
+    position: relative;
+    height: auto;
+    margin: 0.5%;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+}
+
+.teaserwow:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.teaserwowcircle > a {
+    border-radius: 50%;
+    -webkit-clip-path: circle(50% at center);
+}
+
+.teaserwow2colratio1by3, .teaserwow2colratio3by4,
+.teaserwow2colratio1by1, .teaserwow2colratio4by3,
+.teaserwow2colratio3by1, .teaserwow2colratio16by9,
+.teaserwow2colratio1by2, .teaserwow2colratio2by1,
+.teaserwow2colratio2by3, .teaserwow2colratio3by2
+{
+    margin: -0.5%;
+}
+
+.teaserwow3colratio1by3, .teaserwow3colratio3by4,
+.teaserwow3colratio1by1, .teaserwow3colratio4by3,
+.teaserwow3colratio3by1, .teaserwow3colratio16by9,
+.teaserwow3colratio1by2, .teaserwow3colratio2by1,
+.teaserwow3colratio2by3, .teaserwow3colratio3by2
+
+{
+    margin: -0.33333333%;
+}
+
+.teaserwow4colratio1by3, .teaserwow4colratio3by4,
+.teaserwow4colratio1by1, .teaserwow4colratio4by3,
+.teaserwow4colratio3by1, .teaserwow4colratio16by9,
+.teaserwow4colratio1by2, .teaserwow4colratio2by1,
+.teaserwow4colratio2by3, .teaserwow4colratio3by2
+{
+    margin: -0.25%;
+}
+
+.teaserwow2colratio3by1 > a {
+    width: 49%;
+    padding-bottom: 16.33333333333333%;
+}
+
+.teaserwow3colratio3by1 > a {
+    width: 32.333333%;
+    padding-bottom: 10.77777777777777%;
+}
+
+.teaserwow4colratio3by1 > a {
+    width: 24%;
+    padding-bottom: 8%;
+}
+
+.teaserwow2colratio2by1 > a {
+    width: 49%;
+    padding-bottom: 24.5%;
+}
+
+.teaserwow3colratio2by1 > a {
+    width: 32.333333%;
+    padding-bottom: 16.16666666%;
+}
+
+.teaserwow4colratio2by1 > a {
+    width: 24%;
+    padding-bottom: 12%;
+}
+
+.teaserwow2colratio16by9 > a {
+    width: 49%;
+    padding-bottom: 27.5625%;
+}
+
+.teaserwow3colratio16by9 > a {
+    width: 32.333333%;
+    padding-bottom: 18.18749999999999%;
+}
+
+.teaserwow4colratio16by9 > a {
+    width: 24%;
+    padding-bottom: 13.5%;
+}
+
+.teaserwow2colratio3by2 > a {
+    width: 49%;
+    padding-bottom: 32.66666666%;
+}
+
+.teaserwow3colratio3by2 > a {
+    width: 32.333333%;
+    padding-bottom: 21.55555555555%;
+}
+
+.teaserwow4colratio3by2 > a {
+    width: 24%;
+    padding-bottom: 16%;
+}
+
+.teaserwow2colratio4by3 > a {
+    width: 49%;
+    padding-bottom: 36.75%;
+}
+
+.teaserwow3colratio4by3 > a {
+    width: 32.333333%;
+    padding-bottom: 24.24999999999999%;
+}
+
+.teaserwow4colratio4by3 > a {
+    width: 24%;
+    padding-bottom: 18%;
+}
+
+.teaserwow2colratio1by1 > a {
+    width: 49%;
+    padding-bottom: 49%;
+}
+
+.teaserwow3colratio1by1 > a {
+    width: 32.333333%;
+    padding-bottom: 32.333333%;
+}
+
+.teaserwow4colratio1by1 > a {
+    width: 24%;
+    padding-bottom: 24%;
+}
+
+.teaserwow2colratio3by4 > a {
+    width: 49%;
+    padding-bottom: 65.33333333333333%;
+}
+
+.teaserwow3colratio3by4 > a {
+    width: 32.333333%;
+    padding-bottom: 43.11111111111111%;
+}
+
+.teaserwow4colratio3by4 > a {
+    width: 24%;
+    padding-bottom: 32%;
+}
+
+.teaserwow2colratio2by3 > a {
+    width: 49%;
+    padding-bottom: 73.5%;
+}
+
+.teaserwow3colratio2by3 > a {
+    width: 32.333333%;
+    padding-bottom: 48.5%;
+}
+
+.teaserwow4colratio2by3 > a {
+    width: 24%;
+    padding-bottom: 36%;
+}
+
+.teaserwow2colratio1by2 > a {
+    width: 49%;
+    padding-bottom: 98%;
+}
+
+.teaserwow3colratio1by2 > a {
+    width: 32.333333%;
+    padding-bottom: 64.66666666%;
+}
+
+.teaserwow4colratio1by2 > a {
+    width: 24%;
+    padding-bottom: 48%;
+}
+
+.teaserwow2colratio1by3 > a {
+    width: 49%;
+    padding-bottom: 147%;
+}
+
+.teaserwow3colratio1by3 > a {
+    width: 32.333333%;
+    padding-bottom: 97%;
+}
+
+.teaserwow4colratio1by3 > a {
+    width: 24%;
+    padding-bottom: 72%;
+}
+
+.teaserwow > a > div {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.teaserwow > a > div > img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.6;
+    border: 0;
+}
+
+.teaserwow > a > div > div {
+    width: 100%;
+    height: 100%;
+    display: table;
+    position: absolute;
+}
+
+.teaserwow > a > div > div > div {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    font-size: 24px;
+    padding: 10%;
+    box-sizing: border-box;
+}
+
+.teaserwow3colratio1by3 > a > div > div > div, .teaserwow3colratio3by4 > a > div > div > div,
+.teaserwow3colratio1by1 > a > div > div > div, .teaserwow3colratio4by3 > a > div > div > div,
+.teaserwow3colratio3by1 > a > div > div > div, .teaserwow3colratio16by9 > a > div > div > div {
+    font-size: 20px;
+}
+
+.teaserwow4colratio1by3 > a > div > div > div, .teaserwow4colratio3by4 > a > div > div > div,
+.teaserwow4colratio1by1 > a > div > div > div, .teaserwow4colratio4by3 > a > div > div > div,
+.teaserwow4colratio3by1 > a > div > div > div, .teaserwow4colratio16by9 > a > div > div > div {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 639px) {
+    .teaserwow2colratio1by3, .teaserwow2colratio3by4,
+    .teaserwow2colratio1by1, .teaserwow2colratio4by3,
+    .teaserwow2colratio3by1, .teaserwow2colratio16by9,
+    .teaserwow3colratio1by3, .teaserwow3colratio3by4,
+    .teaserwow3colratio1by1, .teaserwow3colratio4by3,
+    .teaserwow3colratio3by1, .teaserwow3colratio16by9,
+    .teaserwow4colratio1by3, .teaserwow4colratio3by4,
+    .teaserwow4colratio1by1, .teaserwow4colratio4by3,
+    .teaserwow4colratio3by1, .teaserwow4colratio16by9 {
+        margin: -1%;
+    }
+
+    .teaserwow2colratio3by1 > a,
+    .teaserwow3colratio3by1 > a,
+    .teaserwow4colratio3by1 > a {
+        width: 98%;
+        padding-bottom: 32.66666666666667%;
+        float: none;
+        box-sizing: border-box;
+        margin: 1%;
+    }
+
+    .teaserwow2colratio16by9 > a,
+    .teaserwow3colratio16by9 > a,
+    .teaserwow4colratio16by9 > a {
+        width: 98%;
+        padding-bottom: 55.125%;
+        float: none;
+        box-sizing: border-box;
+        margin: 1%;
+    }
+
+    .teaserwow2colratio4by3 > a,
+    .teaserwow3colratio4by3 > a,
+    .teaserwow4colratio4by3 > a {
+        width: 98%;
+        padding-bottom: 73.5%;
+        float: none;
+        box-sizing: border-box;
+        margin: 1%;
+    }
+
+    .teaserwow2colratio1by1 > a,
+    .teaserwow3colratio1by1 > a,
+    .teaserwow4colratio1by1 > a {
+        width: 98%;
+        padding-bottom: 98%;
+        float: none;
+        box-sizing: border-box;
+        margin: 1%;
+    }
+
+    .teaserwow2colratio3by4 > a,
+    .teaserwow3colratio3by4 > a,
+    .teaserwow4colratio3by4 > a {
+        width: 98%;
+        padding-bottom: 130.6666666666667%;
+        float: none;
+        box-sizing: border-box;
+        margin: 1%;
+    }
+
+    .teaserwow2colratio1by3 > a,
+    .teaserwow3colratio1by3 > a,
+    .teaserwow4colratio1by3 > a {
+        width: 98%;
+        padding-bottom: 294%;
+        float: none;
+        box-sizing: border-box;
+        margin: 1%;
+    }
+
+    .teaserwow > a > div > div > div {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .teaserwow > a > .teaserwowzoom > img {
+        opacity: 1;
+        transition: opacity 1s, transform 0.4s;
+    }
+
+    .teaserwow > a:hover > .teaserwowzoom > img {
+        transform: scale3d(1.1, 1.1, 1);
+        opacity: 0.4;
+    }
+
+    .teaserwow > a > .teaserwowzoom > div {
+        opacity: 0;
+        transition: opacity 1s, transform 1s;
+        transform: translate3d(0, -10px, 0);
+    }
+
+    .teaserwow > a:hover > .teaserwowzoom > div {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+
+    .teaserwow > a > .teaserwowfade > div {
+        opacity: 0.8;
+        transition: opacity 1s;
+    }
+
+    .teaserwow > a > .teaserwowfade > div > div {
+        opacity: 0.8;
+        transform: scale3d(0.9, 0.9, 1);
+        transition: transform 0.4s;
+    }
+
+    .teaserwow > a:hover > .teaserwowfade > div > div {
+        transform: scale3d(1, 1, 1);
+    }
+
+    .teaserwow > a:hover > .teaserwowfade > div {
+        opacity: 1;
+    }
+}

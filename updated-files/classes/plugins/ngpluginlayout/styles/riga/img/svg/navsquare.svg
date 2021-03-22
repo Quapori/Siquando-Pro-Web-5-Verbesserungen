@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="20" height="40" viewBox="0 0 20.00 40.00" enable-background="new 0 0 20.00 40.00" xml:space="preserve">
+	<rect x="3" y="3" fill="#{color}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="14" height="14"/>
+	<rect x="4" y="4" fill="#FFFFFF" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="12" height="12"/>
+	<rect x="3" y="23" fill="#{color}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="14" height="14"/>
+	<rect x="4" y="24" fill="#FFFFFF" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="12" height="12"/>
+	<rect x="6" y="26" fill="#{color}" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" width="8" height="8"/>
+</svg>

@@ -1,0 +1,6 @@
+#ngparastickybutton{$uid} { background-color:#{$backcolor};padding:{$verticalspacing}px {$horizontalspacing}px;{if isset($framewidth)}border-color:#{$framecolor};border-style:solid;border-width:{$framewidth};{/if}color:#{$fontcolor};position:fixed;{if isset($round)}border-radius:{$round};{/if}{if isset($rotate)}transform:rotate({$rotate});{/if}z-index:1000;font:{if $fontitalic}italic {/if}{if $fontbold}bold {/if}{$fontsize}px {$fontfamily};line-height:{$fontsize}px;{if $shadow}box-shadow:0 0 15px rgba(0,0,0,0.4);{/if}{if $delay>0}transition:transform 1s;{/if} }
+{if $delay>0}#ngparastickybutton{$uid}.ngparastickybuttonhidden { transform:{if isset($rotate)}rotate({$rotate}){/if} translate({$translate}); }
+{/if}
+#ngparastickybutton{$uid}>img { display:inline-block;width:{$fontsize}px;border:0;height:{$fontsize}px;margin-right:{floor($fontsize/3)}px;vertical-align:bottom;}
+{if $responsive}@media screen and (max-width: 767px) { #ngparastickybutton{$uid} { font-size:16px;line-height:16px;padding:{$verticalspacingscaled}px {$horizontalspacingscaled}px;{if isset($framewidthscaled)}border-width:{$framewidthscaled};{/if}{if isset($roundscaled)}border-radius:{$roundscaled};{/if} }
+#ngparastickybutton{$uid}>img { width:16px;height:16px;margin-right:5px; } }{/if}

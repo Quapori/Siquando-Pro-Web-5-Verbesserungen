@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.png" uid="default" caption="(Standard)" />
+	<style preview="rect.png" uid="rect" caption="Rechteckig" />
+	<style preview="grow.png" uid="grow" caption="Vergrößern" />
+	<style preview="rectgrow.png" uid="rectgrow" caption="Vergrößern, rechteckig" />
+	<style preview="radio.png" uid="radio" caption="Radio" />
+	<style preview="radiorect.png" uid="radiorect" caption="Radio, rechteckig" />
+	<style preview="donut.png" uid="donut" caption="Kringel" />
+	<style preview="donutrect.png" uid="donutrect" caption="Kringel, rechteckig" />
+	<style preview="star.png" uid="star" caption="Stern" />
+</styles>

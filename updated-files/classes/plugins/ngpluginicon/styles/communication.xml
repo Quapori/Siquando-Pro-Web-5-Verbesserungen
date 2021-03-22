@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="communication" caption="Kommunikation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="mail.png" uid="mail" caption="E-Mail" />
+	<style preview="info.png" uid="info" caption="Information" />
+	<style preview="help.png" uid="help" caption="Hilfe" />
+	<style preview="idea.png" uid="idea" caption="Idee" />
+	<style preview="announcement.png" uid="announcement" caption="Ankündigung" />
+    <style preview="phone.png" uid="phone" caption="Telefon" />
+	<style preview="social.png" uid="social" caption="Social Media" />
+    <style preview="international.png" uid="international" caption="International" />
+    <style preview="write.png" uid="write" caption="Schreiben" />
+    <style preview="attachment.png" uid="attachment" caption="Anhang" />
+	<style preview="voicemail.png" uid="voicemail" caption="Anrufbeantworter" />
+	<style preview="like.png" uid="like" caption="Gefällt mir" />
+    <style preview="inbox.png" uid="inbox" caption="Posteingang" />
+    <style preview="share.png" uid="share" caption="Teilen" />
+    <style preview="neutral.png" uid="neutral" caption="Stimmung neutral" />
+    <style preview="sad.png" uid="sad" caption="Stimmung traurig" />
+    <style preview="happy.png" uid="happy" caption="Stimmung froh" />
+    <style preview="chat.png" uid="chat" caption="Plausch" />
+    <style preview="at.png" uid="at" caption="At-Zeichen" />
+    <style preview="book.png" uid="book" caption="Buch" />
+    <style preview="speakerphone.png" uid="speakerphone" caption="Megaphon" />
+    <style preview="livetv.png" uid="livetv" caption="Episode" />
+    <style preview="quote.png" uid="quote" caption="Zitat" />
+    <style preview="radio.png" uid="radio" caption="Radio" />
+    <style preview="listen.png" uid="listen" caption="Hören" />
+    <style preview="fax.png" uid="fax" caption="Fax" />
+    <style preview="stickynote.png" uid="stickynote" caption="Haftnotiz" />
+    <style preview="livehelp.png" uid="livehelp" caption="Unterstützung" />
+    <style preview="dnd.png" uid="dnd" caption="Nicht stören" />
+    <style preview="surround.png" uid="surround" caption="Surround Sound" />
+</styles>

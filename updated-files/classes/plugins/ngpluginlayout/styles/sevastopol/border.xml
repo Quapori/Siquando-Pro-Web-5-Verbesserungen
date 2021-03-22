@@ -1,0 +1,14 @@
+<object class="NGPluginBorderStandardSettings" version="1.0">
+  <properties>
+    <string name="background" lang="--" domain="border">solid ffffff</string>
+    <string name="borderwidth" lang="--" domain="border">1</string>
+    <string name="bordercolor" lang="--" domain="border">dae6ed</string>
+    <string name="margin" lang="--" domain="border">0</string>
+    <string name="padding" lang="--" domain="border">12</string>
+    <string name="shadow" lang="--" domain="border">3 3 0 SE</string>
+    <string name="roundedcorners" lang="--" domain="border">0</string>
+    <string name="name" lang="--" domain="name" unique="true">Border</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/db/dbschema.xsd">
+	<droptables>
+		<droptable name="meta"/>
+		<droptable name="property"/>
+		<droptable name="object"/>
+		<droptable name="property_change"/>
+		<droptable name="object_change"/>
+		<droptable name="grant"/>
+		<droptable name="grant_change"/>
+		<droptable name="session"/>
+		<droptable name="page_cache"/>
+		<droptable name="url_cache"/>
+		<droptable name="fts"/>
+	</droptables>
+	<tables>
+		<table name="meta">
+			<columns>
+				<column name="id" type="char" size="250" />
+				<column name="value" type="text" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>id</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+	
+		<table name="object">
+			<columns>
+				<column name="object_uid" type="char" size="32" />
+				<column name="revision_uid" type="char" size="32" />
+				<column name="parent_uid" type="char" size="32" />
+				<column name="class" type="varchar" size="32" />
+				<column name="owner" type="char" size="32" />
+				<column name="owner_group" type="char" size="32" />
+				<column name="change_date" type="char" size="25"/>
+				<column name="creation_date" type="char" size="25"/>
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>object_uid</column>
+						<column>revision_uid</column>
+					</columns>
+				</key>
+				<key type="key" name="key_class">
+					<columns>
+						<column>class</column>
+					</columns>
+				</key>
+				<key type="key" name="key_change_date">
+					<columns>
+						<column>change_date</column>
+					</columns>
+				</key>
+				<key type="key" name="key_creation_date">
+					<columns>
+						<column>creation_date</column>
+					</columns>
+				</key>
+				<key type="key" name="key_parent_uid">
+					<columns>
+						<column>parent_uid</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+
+		<table name="object_change">
+			<columns>
+				<column name="change_uid" type="char" size="32" />
+				<column name="change_type" type="int" />
+				<column name="object_uid" type="char" size="32" />
+				<column name="revision_uid" type="char" size="32" />
+				<column name="parent_uid" type="char" size="32" />
+				<column name="class" type="varchar" size="32" />
+				<column name="owner" type="char" size="32" />
+				<column name="owner_group" type="char" size="32" />
+				<column name="change_owner" type="char" size="32" />
+				<column name="change_date" type="char" size="25" />
+				<column name="annotation" type="text" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>change_uid</column>
+					</columns>
+				</key>
+				<key type="key" name="key_class">
+					<columns>
+						<column>class</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+
+		<table name="property">
+			<columns>
+				<column name="object_uid" type="char" size="32" />
+				<column name="domain" type="varchar" size="32" />
+				<column name="lang" type="varchar" size="2" />
+				<column name="name" type="varchar" size="32" />
+				<column name="index" type="varchar" size="32" />
+				<column name="revision_uid" type="char" size="32" />
+				<column name="type" type="int" />
+				<column name="unique" type="int" />
+				<column name="value_int" type="int" null="true" />
+				<column name="value_float" type="float" null="true" />
+				<column name="value_string" type="varchar" size="250" null="true" />
+				<column name="value_text" type="text" null="true" />
+				<column name="value_fulltext" type="text" null="true" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>object_uid</column>
+						<column>revision_uid</column>
+						<column>domain</column>
+						<column>lang</column>
+						<column>name</column>
+						<column>index</column>
+					</columns>
+				</key>
+				<key type="key" name="key_name">
+					<columns>
+						<column>name</column>
+					</columns>
+				</key>
+				<key type="key" name="key_value_int">
+					<columns>
+						<column>value_int</column>
+					</columns>
+
+				</key>
+				<key type="key" name="key_value_float">
+					<columns>
+						<column>value_float</column>
+					</columns>
+
+				</key>
+				<key type="key" name="key_value_string">
+					<columns>
+						<column>value_string</column>
+					</columns>
+				</key>
+				<key type="key" name="key_type">
+					<columns>
+						<column>type</column>
+					</columns>
+				</key>
+				<key type="key" name="key_revision_uid">
+					<columns>
+						<column>revision_uid</column>
+					</columns>
+				</key>
+				<key type="fulltextkey" name="key_value_fulltext">
+					<columns>
+						<column>value_fulltext</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+
+		<table name="property_change">
+			<columns>
+				<column name="change_uid" type="char" size="32" />
+				<column name="domain" type="varchar" size="32" />
+				<column name="lang" type="varchar" size="2" />
+				<column name="name" type="varchar" size="32" />
+				<column name="index" type="varchar" size="32" />
+				<column name="change_type" type="int" />
+				<column name="unique" type="int" />
+				<column name="type" type="int" />
+				<column name="value_int" type="int" null="true" />
+				<column name="value_float" type="float" null="true" />
+				<column name="value_string" type="varchar" size="250" null="true" />
+				<column name="value_text" type="text" null="true" />
+				<column name="value_fulltext" type="text" null="true" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>change_uid</column>
+						<column>domain</column>
+						<column>lang</column>
+						<column>name</column>
+						<column>index</column>
+					</columns>
+				</key>
+				<key type="key" name="key_name">
+					<columns>
+						<column>name</column>
+					</columns>
+				</key>
+				<key type="key" name="key_value_int">
+					<columns>
+						<column>value_int</column>
+					</columns>
+				</key>
+				<key type="key" name="key_value_float">
+					<columns>
+						<column>value_float</column>
+					</columns>
+				</key>
+				<key type="key" name="key_value_string">
+					<columns>
+						<column>value_string</column>
+					</columns>
+				</key>
+				<key type="fulltextkey" name="key_value_fulltext">
+					<columns>
+						<column>value_fulltext</column>
+					</columns>
+				</key>
+				<key type="key" name="key_type">
+					<columns>
+						<column>type</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+		
+		<table name="grant">
+			<columns>
+				<column name="object_uid" type="char" size="32" />
+				<column name="revision_uid" type="char" size="32" />
+				<column name="action" type="int" />
+				<column name="owner" type="char" size="32" />
+				<column name="access" type="int" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>object_uid</column>
+						<column>revision_uid</column>
+						<column>action</column>
+						<column>owner</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+		
+		<table name="grant_change">
+			<columns>
+				<column name="change_uid" type="char" size="32" />
+				<column name="action" type="int" />
+				<column name="owner" type="char" size="32" />
+				<column name="access" type="int" />
+				<column name="change_type" type="int" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>change_uid</column>
+						<column>action</column>
+						<column>owner</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+		
+		<table name="session">
+			<columns>
+				<column name="session_uid" type="char" size="32" />
+				<column name="time_start" type="char" size="25" />
+				<column name="time_expire" type="char" size="25" />
+				<column name="user_uid" type="char" size="32" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>session_uid</column>
+					</columns>
+				</key>
+				<key type="key" name="key_time_expire">
+					<columns>
+						<column>time_expire</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+		
+		<table name="page_cache">
+			<columns>
+				<column name="object_uid" type="char" size="32" />
+				<column name="revision_uid" type="char" size="32" />
+				<column name="layout" type="char" size="32" />
+				<column name="preview_mode" type="int" />
+				<column name="steps_to_root" type="int" />
+				<column name="output" type="text" />
+				<column name="valid" type="char" size="25" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>object_uid</column>
+						<column>revision_uid</column>
+						<column>layout</column>
+						<column>preview_mode</column>
+						<column>steps_to_root</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+		
+		<table name="url_cache">
+			<columns>
+				<column name="url" type="varchar" size="255" />
+				<column name="root_uid" type="char" size="32" />
+				<column name="folder_uid" type="char" size="32" />
+				<column name="item_uid" type="char" size="32" />
+				<column name="steps_to_root" type="int" />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>url</column>
+						<column>root_uid</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+		
+		
+		<table name="fts">
+			<columns>
+				<column name="object_uid" type="char" size="32" />
+				<column name="data" type="text"  />
+				<column name="meta" type="text"  />
+			</columns>
+			<keys>
+				<key type="primarykey">
+					<columns>
+						<column>object_uid</column>
+					</columns>
+				</key>
+				<key type="fulltextkey" name="key_value_fulltext">
+					<columns>
+						<column>data</column>
+						<column>meta</column>
+					</columns>
+				</key>
+			</keys>
+		</table>
+		
+		
+	</tables>
+</schema>

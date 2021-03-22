@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProSarajevo.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="logosmall" caption="Logo (Smartphone)">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background.header">Hintergrund (oben)</color>
+		<color id="background">Hintergrund (Inhalt, links, rechts)</color>
+		<color id="background.footer">Hintergrund (unten)</color>
+		<color id="nav.bright">Navigation Vordergrund</color>
+		<color id="nav.dark">Navigation Hintergrund</color>
+		<color id="nav.active">Navigation aktiver Punkt</color>
+		<color id="up">„Nach oben“-Links</color>
+		<color id="bullets">Navigationspunkte</color>
+		<color id="common.background">Allgemeine Navigation Hintergrund</color>
+		<color id="common.font">Allgemeine Navigation Vordergrund</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+	</config>	
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<radio id="mainlayout" options="cols=Gleich breite Spalten|sidebars=„Inhalt“ plus schmalere Marginalspalten „Links“ und „Rechts“">Aufteilung „Inhalt“, „Links“ und „Rechts“</radio>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, Eyecatcher verwenden</option>
+		<option id="mutevideo">Video stummschalten</option>
+		<option id="parallax">Parallaktischen Scroll-Efekt im Eyecatcher aktivieren</option>
+		<option id="up">„Nach oben“-Links anzeigen</option>
+		<style id="upstyle" height="24" url="classes/plugins/ngpluginlayout/styles/sarajevo/upstyles/">„Nach oben“-Stil</style>
+		<style id="navstyle" height="24" url="classes/plugins/ngpluginlayout/styles/sarajevo/navstyles/">Navigationsstil</style>
+		<combo id="fadeeffect" options="left=Nach links gleiten|right=Nach rechts gleiten|up=Nach oben gleiten|down=Nach unten gleiten|fade=Überblenden|grow=Vergrößern|shrink=Verkleinern">Überblendeffekt für den Bildwechsler</combo>
+		<slider id="speed" min="300" max="2000">Dauer der Rollanimation in Millisekunden</slider>
+	</config>
+	<config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="large" caption="Groß" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="airport.png" uid="airport" caption="Flughafen" />
+	<style preview="round.png" uid="round" caption="Rund" />
+	<style preview="bubbles.png" uid="bubbles" caption="Luftblasen" />
+	<style preview="edge.png" uid="edge" caption="Eckig" />
+	<style preview="simple.png" uid="simple" caption="Einfach" />
+	<style preview="pill.png" uid="pill" caption="Pille" />
+	<style preview="threed.png" uid="threed" caption="Räumlich" />
+	<style preview="redmond.png" uid="redmond" caption="Redmond" />
+	<style preview="alarm.png" uid="alarm" caption="Wecker" />
+	<style preview="led.png" uid="led" caption="Leuchtdioden" />
+	<style preview="lcd.png" uid="lcd" caption="Flüssigkristall" />
+</styles>

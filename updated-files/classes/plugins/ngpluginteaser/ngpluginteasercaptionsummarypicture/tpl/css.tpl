@@ -1,0 +1,2 @@
+#ngpara{$uid} img { border: {$borderwidth}px solid #{$bordercolor}; width: {$picturepercent}% }
+#ngpara{$uid} .teaserhaspicture { margin-left:{$picturepercent}%; box-sizing: border-box; padding-left: 10px }

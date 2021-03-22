@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="business" caption="Geschäftlich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="euro.png" uid="euro" caption="€uro" />
+	<style preview="cart.png" uid="cart" caption="Einkaufswagen" />
+    <style preview="basket.png" uid="basket" caption="Einkaufskorb" />
+	<style preview="addtocart.png" uid="addtocart" caption="Kaufen" />
+    <style preview="store.png" uid="store" caption="Geschäft" />
+    <style preview="restaurant.png" uid="restaurant" caption="Restaurant" />
+    <style preview="shipping.png" uid="shipping" caption="Versand" />
+    <style preview="hotel.png" uid="hotel" caption="Hotel" />
+    <style preview="creditcard.png" uid="creditcard" caption="Kreditkarte" />
+    <style preview="golf.png" uid="golf" caption="Golf" />
+    <style preview="beach.png" uid="beach" caption="Strand" />
+    <style preview="baby.png" uid="baby" caption="Kinderfreundlich" />
+    <style preview="swimming.png" uid="swimming" caption="Schwimmen" />
+    <style preview="smoking.png" uid="smoking" caption="Raucher" />
+    <style preview="nonsmoking.png" uid="nonsmoking" caption="Nichtraucher" />
+    <style preview="sun.png" uid="sun" caption="Sonne" />
+    <style preview="gaming.png" uid="gaming" caption="Computerspiel" />
+    <style preview="firstaid.png" uid="firstaid" caption="Erste Hilfe" />
+    <style preview="wine.png" uid="wine" caption="Wein" />
+    <style preview="game.png" uid="game" caption="Spiel" />
+    <style preview="trendup.png" uid="trendup" caption="Aufwärtstrend" />
+    <style preview="trenddown.png" uid="trenddown" caption="Abwärtstrend" />
+    <style preview="professional.png" uid="professional" caption="Berater" />
+    <style preview="bank.png" uid="bank" caption="Bank" />
+    <style preview="forensics.png" uid="forensics" caption="Forensik" />
+    <style preview="legal.png" uid="legal" caption="Rechtliches" />
+    <style preview="chart.png" uid="chart" caption="Diagramm" />
+    <style preview="library.png" uid="library" caption="Bibliothek" />
+    <style preview="service.png" uid="service" caption="Service" />
+    <style preview="cake.png" uid="cake" caption="Kuchen" />
+    <style preview="wellness.png" uid="wellness" caption="Wellness" />
+    <style preview="coffee.png" uid="coffee" caption="Kaffee" />
+    <style preview="cocktail.png" uid="cocktail" caption="Cocktail" />
+    <style preview="compare.png" uid="compare" caption="Vergleich" />
+    <style preview="film.png" uid="film" caption="Film" />
+    <style preview="progress.png" uid="progress" caption="Fortschritt" />
+    <style preview="aboutus.png" uid="aboutus" caption="Über uns" />
+    <style preview="giftcard.png" uid="giftcard" caption="Geschenkkarte" />
+    <style preview="child.png" uid="child" caption="Kind" />
+    <style preview="bars.png" uid="bars" caption="Balkendiagramm" />
+</styles>

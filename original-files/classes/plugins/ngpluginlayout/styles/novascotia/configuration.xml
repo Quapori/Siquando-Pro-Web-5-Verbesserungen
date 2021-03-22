@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProNovaScotia.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="logosmall" caption="Logo (Smartphone)">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio16by9</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="page.background">Seiten-Hintergrund</color>
+		<color id="background">Hintergrund</color>
+		<color id="nav.bright">Navigation Vordergrund</color>
+		<color id="nav.medium">Navigation Hintergrund (hell)</color>
+		<color id="nav.hover">Navigation Hintergrund (Maus darüber)</color>
+		<color id="bullets.bright">Navigationspunkte (hell)</color>
+		<color id="bullets.dark">Navigationspunkte (dunkel)</color>
+		<color id="common.font">Allgemeine Navigation Vordergrund (dunkel)</color>
+		<color id="common.bright">Allgemeine Navigation Vordergrund (hell)</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+	</config>	
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="mutevideo">Video stummschalten</option>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="navactive">Aktuelle Seite in Navigation hervorheben</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, übergeordneten Ordner, dann Eyecatcher verwenden</option>
+		<radio id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten">Navigationsstil „Allgemeine Seiten“</radio>
+		<radio id="mainlayout" options="cols=Gleich breite Spalten|sidebars=„Inhalt“ plus schmalere Marginalspalten „Links“ und „Rechts“">Aufteilung „Inhalt“, „Links“ und „Rechts“</radio>
+		<combo id="fadeeffect" options="left=Nach links gleiten|right=Nach rechts gleiten|up=Nach oben gleiten|down=Nach unten gleiten|fade=Überblenden|grow=Vergrößern|shrink=Verkleinern">Überblendeffekt für den Bildwechsler</combo>
+		<style id="navstyle" height="20" url="classes/plugins/ngpluginlayout/styles/novascotia/navstyles/">Navigationsstil</style>
+		
+	</config>
+	<config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>nashville</id>
+  <caption>Nashville</caption>
+  <type>NGPluginLayoutPro</type>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <preview>preview_listen.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <initialversion>1.0</initialversion>
+  <responsive>false</responsive>
+</style>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProLeonidas.chm">
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio16by9</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund</color>
+		<color id="nav.foreground">Navigation Vordergrund</color>
+        <color id="nav.hover">Navigation Vordergrund (Maus darüber)</color>
+		<color id="nav.background">Navigation Hintergrund</color>
+		<color id="nav.lines">Navigation Linien</color>
+		<color id="common.captions">Allgemeine Navigation Überschriften</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+		<color id="common.text">Allgemeiner Text</color>
+	</config>
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<combo id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten|dual=Ordner und Seiten plus Seiten">Navigationsstil „Allgemeine Seiten“</combo>
+		<combo id="mainlayout" options="cols=Gleich breite Spalten|sidebars=„Inhalt“ plus schmalere Marginalspalten „Links“ und „Rechts“">Aufteilung „Inhalt“, „Links“ und „Rechts“</combo>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="galeryinheritance">Wenn im Ordner keine Galerie definiert wurde, übergeordneten Ordner, dann Eyecatcher verwenden</option>
+		<option id="mutevideo">Video stummschalten</option>
+		<slider id="width" min="1000" max="1600" >Gesamtbreite des Layouts</slider>
+		<slider id="size" min="25" max="100" >Größe des Eyecatchers in Prozent</slider>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigGallery" id="slider" caption="Bildwechsler" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

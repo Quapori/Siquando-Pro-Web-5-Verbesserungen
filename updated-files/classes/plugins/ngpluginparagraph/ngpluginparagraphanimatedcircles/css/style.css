@@ -1,0 +1,109 @@
+ul.ngparaanimatedcircles {
+    list-style: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+ul.ngparaanimatedcircles:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+ul.ngparaanimatedcircles > li {
+    display: block;
+    margin: 0;
+    float: left;
+    padding: 2%;
+    box-sizing: border-box;
+}
+
+ul.ngparaanimatedcircles > li > div {
+    width: 100%;
+    padding-bottom: 100%;
+    height: 0;
+    position: relative;
+}
+
+.ngparaanimatedcirclestrack {
+    fill: transparent;
+}
+
+.ngparaanimatedcirclesring {
+    fill: transparent;
+    stroke-dasharray: 629px;
+    stroke-dashoffset: 629px;
+}
+
+.ngparaanimatedcirclesvalue {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    transform: translate(0, -50%);
+    text-align: center
+}
+
+.ngparaanimatedcirclescaption {
+    display: block;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+ul.ngparaanimatedcirclesc1 > li {
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    ul.ngparaanimatedcirclesc2 > li,
+    ul.ngparaanimatedcirclesc3 > li,
+    ul.ngparaanimatedcirclesc4 > li,
+    ul.ngparaanimatedcirclesc5 > li {
+        width: 50%;
+    }
+
+    ul.ngparaanimatedcirclesc2 > li:nth-child(2n+1),
+    ul.ngparaanimatedcirclesc3 > li:nth-child(2n+1),
+    ul.ngparaanimatedcirclesc4 > li:nth-child(2n+1),
+    ul.ngparaanimatedcirclesc5 > li:nth-child(2n+1) {
+        clear: both;
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    ul.ngparaanimatedcirclesc2 > li {
+        width: 50%;
+    }
+
+    ul.ngparaanimatedcirclesc2 > li:nth-child(2n+1) {
+        clear: both;
+    }
+
+    ul.ngparaanimatedcirclesc3 > li {
+        width: 33.33%;
+    }
+
+    ul.ngparaanimatedcirclesc3 > li:nth-child(3n+1) {
+        clear: both;
+    }
+
+    ul.ngparaanimatedcirclesc4 > li {
+        width: 25%;
+    }
+
+    ul.ngparaanimatedcirclesc4 > li:nth-child(4n+1) {
+        clear: both;
+    }
+
+    ul.ngparaanimatedcirclesc5 > li {
+        width: 20%;
+    }
+
+    ul.ngparaanimatedcirclesc5 > li:nth-child(5n+1) {
+        clear: both;
+    }
+}

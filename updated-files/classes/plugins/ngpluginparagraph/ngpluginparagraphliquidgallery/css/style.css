@@ -1,0 +1,56 @@
+.ngparaliquidgallery {
+  overflow: hidden;
+}
+
+.ngparaliquidgallery ul {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.ngparaliquidgallery li {
+  display: block;
+  list-style: none;
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.ngparaliquidgallery img {
+  display: block;
+  border: 0;
+  position: absolute;
+  transition: opacity 0.5s, transform 0.5s;
+}
+
+.ngparaliquidgalleryhover a:hover img {
+  opacity: 0.8;
+}
+
+.ngparaliquidgalleryzoom a:hover img {
+  transform: scale(1.1);
+}
+
+
+.ngparaliquidgallery div {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 8px;
+  background-color: rgba(0,0,0,0.5);
+  color: #ffffff;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.3s;
+  transform: translate3d(0,20px,0);
+  overflow-x: hidden;
+}
+
+.ngparaliquidgallery a:hover div {
+  opacity: 1;
+  transform: translate3d(0,0,0);
+}

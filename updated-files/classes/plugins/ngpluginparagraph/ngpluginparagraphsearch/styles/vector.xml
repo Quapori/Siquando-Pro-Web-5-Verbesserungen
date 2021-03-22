@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.svg.png" uid="default.svg" caption="Standard (Vektor)" />
+	<style preview="small.svg.png" uid="small.svg" caption="Klein (Vektor)" />
+	<style preview="go.svg.png" uid="go.svg" caption="Go (Vektor)" />
+</styles>

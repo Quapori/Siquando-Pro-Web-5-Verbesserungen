@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languageresourcedictionary uid="main" caption="Allgemeine Sprachressourcen">
+  <languageresource uid="youarehere">
+    <caption>Sie sind hier</caption>
+    <default>Sie sind hier:</default>
+    <description>Der Text, der der Brotkrumen-Navigation vorangestellt wird und dem Benutzer mitteilt, an welcher Stelle der Site er sich gerade befindet.</description>
+  </languageresource>
+  <languageresource uid="next">
+    <caption>Weiter</caption>
+    <default>Weiter</default>
+    <description>Die Beschriftung der Schaltfläche „Weiter“ in der Unterseiten-Navigation</description>
+  </languageresource>
+  <languageresource uid="previous">
+    <caption>Zurück</caption>
+    <default>Zurück</default>
+    <description>Die Beschriftung der Schaltfläche „Zurück“ in der Unterseiten-Navigation</description>
+  </languageresource>
+  <languageresource uid="ok">
+    <caption>OK</caption>
+    <default>OK</default>
+    <description>Die Beschriftung der Schaltfläche „OK“, mit der der Benutzer sein Einverständnis zum Ausdruck bringen kann.</description>
+  </languageresource>
+  <languageresource uid="accept">
+    <caption>Alle erlauben</caption>
+    <default>Alle erlauben</default>
+    <description>Die Beschriftung der Schaltfläche „Alle erlauben“, mit der der Benutzer sein Einverständnis zum Setzen von Cookies zum Ausdruck bringen kann.</description>
+  </languageresource>
+  <languageresource uid="decline">
+    <caption>Alle ablehnen</caption>
+    <default>Alle ablehnen</default>
+    <description>Die Beschriftung der Schaltfläche „Alle Ablehnen“, mit der der Benutzer seinen Widerspruch zum Setzen von Cookies Ausdruck bringen kann.</description>
+  </languageresource>
+  <languageresource uid="shownavigation">
+    <caption>Navigation einblenden</caption>
+    <default>Navigation einblenden</default>
+    <description>Die Beschriftung der Funktion „Navigation einblenden“ in der Smartphone-Darstellung responsiver Designs</description>
+  </languageresource>
+  <languageresource uid="hidenavigation">
+    <caption>Navigation ausblenden</caption>
+    <default>Navigation ausblenden</default>
+    <description>Die Beschriftung der Funktion „Navigation ausblenden“ in der Smartphone-Darstellung responsiver Designs</description>
+  </languageresource>
+  <languageresource uid="search">
+    <caption>Suchen</caption>
+    <default>Suchen</default>
+    <description>Die Beschriftung des Eingabefelds „Suchen“ in der Smartphone-Darstellung responsiver Designs</description>
+  </languageresource>
+  <languageresource uid="menu">
+    <caption>Menü</caption>
+    <default>Menü</default>
+    <description>Die Beschriftung der Funktion zum Einblenden des Menüs</description>
+  </languageresource>
+  <languageresource uid="mail">
+    <caption>E-Mail</caption>
+    <default>Senden Sie uns eine E-Mail-Nachricht</default>
+    <description>Titel des Links zum Senden einer E-Mail-Nachricht</description>
+  </languageresource>
+  <languageresource uid="facebook">
+    <caption>Facebook</caption>
+    <default>Unsere Facebook-Seite besuchen</default>
+    <description>Titel des Links auf die Facebook-Seite</description>
+  </languageresource>
+  <languageresource uid="twitter">
+    <caption>Twitter</caption>
+    <default>Unsere Tweets lesen</default>
+    <description>Titel des Links auf die Twitter Tweets</description>
+  </languageresource>
+  <languageresource uid="googleplus">
+    <caption>Google+</caption>
+    <default>Unsere Google+ Seite besuchen</default>
+    <description>Titel des Links auf die Google+ Seite</description>
+  </languageresource>
+  <languageresource uid="linkedin">
+    <caption>LinkedIn</caption>
+    <default>Zu unserem LinkedIn Profil</default>
+    <description>Titel des Links auf das LinkedIn Profil</description>
+  </languageresource>
+  <languageresource uid="xing">
+    <caption>Xing</caption>
+    <default>Zu unserem Xing Profil</default>
+    <description>Titel des Links auf das Xing Profil</description>
+  </languageresource>
+  <languageresource uid="instagram">
+    <caption>Instagram</caption>
+    <default>Unsere Fotos auf Instagram</default>
+    <description>Titel des Links auf die Instagram Fotos</description>
+  </languageresource>
+  <languageresource uid="youtube">
+    <caption>YouTube</caption>
+    <default>Zu unserem YouTube Video-Kanal</default>
+    <description>Titel des Links auf den YouTube Video-Kanal</description>
+  </languageresource>
+  <languageresource uid="pinterest">
+    <caption>Pinterest</caption>
+    <default>Zu unserer Pinterest-Seite</default>
+    <description>Titel des Links auf die Pinterest-Seite</description>
+  </languageresource>
+  <languageresource uid="allowcookie">
+    <caption>Diesen Cookie zulassen</caption>
+    <default>Diesen Cookie zulassen</default>
+    <description>Beschriftung der Schaltfläche, mit dem der Anwender einen blockierten Cookie zulassen kann.</description>
+  </languageresource>
+</languageresourcedictionary>

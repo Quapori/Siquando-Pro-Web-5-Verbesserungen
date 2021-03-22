@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Cormorant'), url(./../fonts/cormorant-regular-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Cormorant Bold'), url(./../fonts/cormorant-bold-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: italic;
+  font-weight: normal;
+  src: local('Cormorant Italic'), url(./../fonts/cormorant-italic-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: italic;
+  font-weight: bold;
+  src: local('Cormorant Bold Italic'), url(./../fonts/cormorant-bolditalic-webfont.woff) format('woff');
+  font-display: swap;
+}

@@ -1,0 +1,13 @@
+.ngparasfxpop {
+	width: 100%;
+	max-width: 1500px;
+	padding: 20px;
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+
+.ngparasfxpop img {
+	width: 100%;
+	height: auto;
+	transform: scale3d(0.7,0.7,1);
+}

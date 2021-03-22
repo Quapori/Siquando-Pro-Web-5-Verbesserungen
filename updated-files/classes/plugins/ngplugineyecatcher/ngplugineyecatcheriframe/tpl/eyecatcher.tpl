@@ -1,0 +1,1 @@
+<iframe src="{$source}" style="width:{$width}px;height:{$height}px;border:0" scrolling="no"></iframe>

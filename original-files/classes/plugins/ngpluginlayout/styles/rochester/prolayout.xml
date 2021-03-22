@@ -1,0 +1,17 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">rochester</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd71a0c140e9604d00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">332e2a</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.search">fbf8f5</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.signal">e67300</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

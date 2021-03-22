@@ -1,0 +1,47 @@
+ul.ngparapanoramaband {
+	width: 100%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+ul.ngparapanoramaband:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+ul.ngparapanoramaband>li {
+	list-style: none;
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+ul.ngparapanoramaband>li img {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: auto;
+	border: 0;
+}
+
+ul.ngparapanoramaband>li span {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 6px;
+	text-align: center;
+	display: block;
+	overflow: hidden;
+}
+
+@media screen and (max-width: 786px) {
+	ul.ngparapanoramaband>li>span {
+		display: none;
+	}
+}

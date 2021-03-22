@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="32" height="128" viewBox="0 0 32.00 128.00" enable-background="new 0 0 32.00 128.00" xml:space="preserve">
+	<ellipse fill="#F3F3F3" cx="16" cy="16" rx="15" ry="15"/>
+	<ellipse fill="#E6E6E6" cx="16" cy="16" rx="12" ry="12"/>
+	<ellipse fill="#FFFFFF" cx="16" cy="16" rx="9" ry="9"/>
+	<rect x="12" y="11" fill="#{color}" width="3" height="10"/>
+	<rect x="17" y="11" fill="#{color}" width="3" height="10"/>
+	<ellipse fill="#E6E6E6" cx="16" cy="48" rx="12" ry="12"/>
+	<ellipse fill="#FFFFFF" cx="16" cy="48" rx="9" ry="9"/>
+	<path fill="#{color}" d="M 13,54L 13,42L 21,48L 13,54 Z "/>
+	<path fill="#{color}" d="M 16,95C 7.71573,95 1,88.2843 1,80C 1,71.7157 7.71574,65 16,65L 16,68C 9.37259,68 4,73.3726 4,80C 4,86.6274 9.37258,92 16,92L 16,95 Z "/>
+	<path fill="#{color}" fill-opacity="0.803922" d="M 27.9589,111L 24.9451,111C 24.4839,106.828 21.1716,103.516 17,103.055L 17,100.041C 22.8298,100.522 27.478,105.17 27.9589,111 Z M 7.05493,111L 4.04108,111C 4.52203,105.17 9.1702,100.522 15,100.041L 15,103.055C 10.8284,103.516 7.51608,106.828 7.05493,111 Z M 4.04108,113L 7.05493,113C 7.51607,117.172 10.8284,120.484 15,120.945L 15,123.959C 9.1702,123.478 4.52203,118.83 4.04108,113 Z M 24.9451,113L 27.9589,113C 27.478,118.83 22.8298,123.478 17,123.959L 17,120.945C 21.1716,120.484 24.4839,117.172 24.9451,113 Z "/>
+</svg>

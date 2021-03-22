@@ -1,0 +1,172 @@
+.ngslideshow {
+	position: relative;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.ngslideshowcaption, .ngslideshowthumbnail {
+	position: absolute;
+}
+
+.ngslideshowcaption a, .ngslideshowthumbnail a {
+	left: 1px;
+	position: absolute;
+	display: block;
+	overflow: hidden;
+	outline: 0;
+}
+
+.ngslideshowthumbnail a img {
+	border: 0;
+}
+
+.ngslideshowcaption a em {
+	position: absolute;
+	margin: 8px;
+	font-style: normal;
+}
+
+.ngslideshowcaption a:hover, .ngslideshowcaption a.ngslideshowselected {
+	margin: -1px;
+	z-index: 20;
+}
+
+.ngslideshowstage {
+	position: absolute;	
+	top: 1px;
+	overflow: hidden;
+}
+
+.ngslideshowstage a {
+	position: absolute;
+	display: block;
+}
+
+.ngslideshowstage a img {
+	position: absolute;
+	z-index: 0;
+	border: 0;
+}
+
+.ngslideshowcaptions {
+	position: absolute;
+	z-index: 40;
+	display: block;
+	padding: 10px;
+	visibility: hidden;
+	font-style: normal;
+	display: none;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.ngslideshowcaptionslight
+{
+	background-color: rgba(255,255,255,0.8);
+	color: #000000;	
+}
+
+.ngslideshowcaptionsdark
+{
+	background-color: rgba(0,0,0,0.5);
+	color: #ffffff;	
+}
+
+
+.ngslideshow:hover .ngslideshowcaptions {
+	visibility: visible;
+}
+
+.ngslideshowleft
+{
+	left: 0px;
+}
+
+.ngslideshowright
+{
+	right: 0px;		
+}
+
+.ngslideshowleftpad
+{
+	left: 1px;
+}
+
+.ngslideshowrightpad
+{
+	right: 1px;		
+}
+
+.ngslideshowleftbullet
+{
+	left: 8px;
+}
+
+.ngslideshowrightbullet
+{
+	right: 8px;
+	z-index: 30;		
+}
+
+.ngslideshowprev, .ngslideshownext 
+{
+	display: block;
+	position: absolute;
+	top: 50%;
+	width: 32px;
+	height: 32px;
+	margin-top: -16px;
+	outline: 0;
+	z-index: 30;
+}
+
+.ngslideshowprev
+{
+	left: 16px;
+	background: url(./../img/prev.svg) no-repeat;
+}
+
+.ngslideshownext
+{
+	right: 16px;
+	background: url(./../img/next.svg) no-repeat;
+}
+
+.ngslideshowbullet
+{
+	position: absolute;
+	bottom: 8px;
+	height: 16px;
+	z-index: 30;
+}
+
+.ngslideshowbullet a {
+	display: block;
+	width: 14px;
+	height: 14px;
+	position: absolute;
+	outline: 0;
+}
+
+.ngslideshowthumbnailmarker 
+{
+	display: block;
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	top: 50%;
+	margin-top: -16px;
+	visibility: hidden;
+	background: url(./../img/current.svg) no-repeat;
+}
+
+.ngslideshowthumbnail a.ngslideshowselected .ngslideshowthumbnailmarker
+{
+	visibility: visible;
+}
+
+.ngslideshowcontainer 
+{
+	left: 0;
+	position: absolute;
+}

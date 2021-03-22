@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Montserrat'), local('Montserrat Regular'), local('Montserrat-Regular'), url(./../fonts/montserrat-regular-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Montserrat Bold'), local('Montserrat-Bold'), url(./../fonts/montserrat-bold-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: normal;
+  src: local('Montserrat Italic'), local('Montserrat-Italic'), url(./../fonts/montserrat-italic-webfont.woff) format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: bold;
+  src: local('Montserrat Bold Italic'), local('Montserrat-BoldItalic'), url(./../fonts/montserrat-bolditalic-webfont.woff) format('woff');
+  font-display: swap;
+}

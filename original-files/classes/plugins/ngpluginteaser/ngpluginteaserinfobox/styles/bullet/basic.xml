@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default_preview.png" uid="default" caption="(Standard)" />
+	<style preview="defaultblack.png" uid="defaultblack" caption="Standard, dunkel" />
+	<style preview="arrow_preview.png" uid="arrow" caption="Pfeil, hell" />
+	<style preview="arrowblack.png" uid="arrowblack" caption="Pfeil, dunkel" />
+	<style preview="nextblack.png" uid="nextblack" caption="Weiter, dunkel" />
+	<style preview="nextwhite_preview.png" uid="nextwhite" caption="Weiter, hell" />
+	<style preview="more.png" uid="more" caption="Mehr, hell" />
+	<style preview="moreblack.png" uid="moreblack" caption="Mehr, dunkel" />
+	<style preview="roundblack.png" uid="roundblack" caption="Rund, dunkel" />
+	<style preview="roundwhite_preview.png" uid="roundwhite" caption="Rund, hell" />
+	<style preview="quadblack.png" uid="quadblack" caption="Quadratisch, dunkel" />
+	<style preview="quadwhite_preview.png" uid="quadwhite" caption="Quadratisch, hell" />
+
+</styles>

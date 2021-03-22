@@ -1,0 +1,9 @@
+ul.ngparatoc {
+    margin: 0;
+    padding:5px 0 5px 20px;
+}
+
+ul.ngparatoc li {
+    padding: 2px 0;
+    margin: 0;
+}

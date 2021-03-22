@@ -1,0 +1,20 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">vallejo</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7dd8070b162d2b74c00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher.override">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">w7dd80709172ee636400000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo.link">ng://topic/w0000000000000000000000000000013</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.alt">c71838</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">2b2b2b</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.main">f1efea</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.navigation">222222</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

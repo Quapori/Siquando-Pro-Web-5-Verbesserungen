@@ -1,0 +1,1 @@
+<a href="{$home|escape}"><img alt="" src="{$source|escape}" style="border: none; display: block; width:{$width}px;height:{$height}px;{if $right}margin-left:auto;margin-right:0{/if}" /></a>

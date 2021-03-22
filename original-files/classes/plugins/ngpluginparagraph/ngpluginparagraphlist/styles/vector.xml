@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="vector" caption="Vektor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default.svg.png" uid="default.svg" caption="(Standard)" />
+	<style preview="circle.svg.png" uid="circle.svg" caption="Kreis" />
+	<style preview="triangle.svg.png" uid="triangle.svg" caption="Dreieck (klein)" />
+	<style preview="bigtriangle.svg.png" uid="bigtriangle.svg" caption="Dreieck (groß)" />
+	<style preview="chevron.svg.png" uid="chevron.svg" caption="Chevron" />
+	<style preview="boldchevron.svg.png" uid="boldchevron.svg" caption="Chevron (fett)" />
+	<style preview="check.svg.png" uid="check.svg" caption="Häkchen" />
+	<style preview="arrow.svg.png" uid="arrow.svg" caption="Pfeil" />
+	<style preview="point.svg.png" uid="point.svg" caption="Punkt" />
+	<style preview="checkcircle.svg.png" uid="checkcircle.svg" caption="Häkchen (im Kreis)" />
+	<style preview="checkcirclehollow.svg.png" uid="checkcirclehollow.svg" caption="Häkchen (im Kreis, hohl)" />
+	<style preview="checkbox.svg.png" uid="checkbox.svg" caption="Häkchen (im Kästchen)" />
+	<style preview="checkboxhollow.svg.png" uid="checkboxhollow.svg" caption="Häkchen (im Kästchen, hohl)" />
+</styles>

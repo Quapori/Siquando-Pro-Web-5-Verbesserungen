@@ -1,0 +1,68 @@
+.ngimagemap {
+	position: relative;
+}
+
+.ngimagemap>img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.ngimagemapi {
+	cursor: pointer;	
+	position: absolute;
+	background-repeat: no-repeat;
+	z-index: 1;
+}
+
+.ngimagemaph {
+	background-position: 0 1000px;
+}
+
+.ngimagemaph:hover {
+	background-position: 0 0;
+}
+
+
+.ngimagemapp {
+	position: absolute;
+	visibility: hidden;
+	opacity: 0;
+	z-index: 2;
+}
+
+.ngimagemapv {
+	visibility: visible;
+	opacity: 1;
+	-webkit-transform: translate(0,0) !important;
+	transform: translate(0,0) !important;
+}
+
+.ngimagemapp>p {
+	margin: 8px;
+}
+
+.ngimagemapp>img {
+	margin: 8px;
+	display: block;
+}
+
+
+.ngimagemapa {
+	width: 15px;
+	height: 15px;
+	position: absolute;
+}
+
+.ngimagemaps {
+	width: 0;
+	height: 0;
+	position: absolute;
+}
+
+@media screen and (max-width: 1023px) 
+{
+	.ngimagemap {
+		overflow-x: hidden;
+	}
+}

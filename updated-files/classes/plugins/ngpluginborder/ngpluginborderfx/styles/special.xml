@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="special" caption="Spezial" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="preview_sticky.png" uid="sticky" caption="Haftnotiz" />
+	<style preview="preview_redmond.png" uid="redmond" caption="Redmond" />
+	<style preview="preview_brass.png" uid="brass" caption="Bilderrahmen" />
+	<style preview="preview_bubble_blue.png" uid="bubble_blue" caption="Sprechblase (blau)" />
+	<style preview="preview_bubble_orange.png" uid="bubble_orange" caption="Sprechblase (orange)" />
+	<style preview="preview_bubble_green.png" uid="bubble_green" caption="Sprechblase (grün)" />
+	<style preview="preview_bubble_gray.png" uid="bubble_gray" caption="Sprechblase (grau)" />
+	<style preview="preview_quote_warm.png" uid="quote_warm" caption="Zitat (warm)" />
+	<style preview="preview_quote_cold.png" uid="quote_cold" caption="Zitat (kalt)" />
+	<style preview="preview_slate.png" uid="slate" caption="Slate" />
+	<style preview="preview_yesterday.png" uid="yesterday" caption="Damals" />
+	<style preview="preview_wildcat.png" uid="wildcat" caption="Wildkatze" />
+	<style preview="preview_paper.png" uid="paper" caption="Papier" />
+</styles>

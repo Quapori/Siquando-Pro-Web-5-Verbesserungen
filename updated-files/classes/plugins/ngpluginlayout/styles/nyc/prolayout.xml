@@ -1,0 +1,44 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">nyc</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcherq">w7e1309080c2a5882600000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcherw">w7e1309080c2a6d04b00000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">sidebarleft</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.background">stars</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.captionposition">content</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.commonnavhierarchical">topic</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.expandnav">fat</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.search">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.shadow">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.userscalable">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1600</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">807973</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.alt">423f3c</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.content">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.footer">fcfcfa</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.header">fcfcfa</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.left">fcfcfa</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.right">fcfcfa</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.border">edeceb</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.background">423f3c</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.bright">edeceb</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.font">807973</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.hover">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.link">c2c1c0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.background">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.background.alt">faf9f7</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.foreground">807973</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.hover">3e8db8</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.topbar.background">423f3c</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.topbar.foreground">ffffff</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

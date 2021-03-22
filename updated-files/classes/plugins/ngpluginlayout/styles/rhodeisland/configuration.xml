@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs helpfile="LayoutProRhodeIsland.chm">
+	<config type="NGPluginLayoutConfigPicture" id="logo" caption="Logo">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="logosmall" caption="Logo (Smartphone)">
+		<aspectratio>RatioUnknown</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>false</showoverride>
+	</config>	
+	<config type="NGPluginLayoutConfigPicture" id="eyecatcher" caption="Eyecatcher">
+		<aspectratio>Ratio3by1</aspectratio>
+		<showlink>false</showlink>
+		<showtitle>false</showtitle>
+		<showoverride>true</showoverride>
+	</config>
+	
+	<config type="NGPluginLayoutConfigPalette" id="palette" caption="Farben">
+		<color id="background">Hintergrund</color>
+		<color id="background.header">Hintergrund (oben)</color>
+		<color id="background.footer">Hintergrund (unten)</color>
+		<color id="nav.bright">Navigation Hintergrund</color>
+		<color id="nav.hover">Navigation Hintergrund (Maus darüber)</color>
+		<color id="nav.dark">Navigation Vordergrund</color>
+		<color id="nav.border">Navigation Rahmen</color>
+		<color id="common.background">Allgemeine Navigation Hintergrund</color>
+		<color id="common.font">Allgemeine Navigation Vordergrund (dunkel)</color>
+		<color id="common.bright">Allgemeine Navigation Vordergrund (hell)</color>
+		<color id="common.link">Allgemeine Navigation Links</color>
+		<color id="common.hover">Allgemeine Navigation Links (Maus darüber)</color>
+	</config>	
+	<config type="NGPluginLayoutConfigOptions" id="options" caption="Einstellungen">
+		<option id="search">Suchfeld anzeigen</option>
+		<option id="includehome">Startseite in Navigation einschließen</option>
+		<option id="userscalable">Skalierung durch Benutzer auf Smartphone zulassen</option>
+		<option id="breadcrumbs">„Sie sind hier“-Navigation darstellen</option>
+		<option id="navactive">Aktuelle Seite in Navigation hervorheben</option>
+		<option id="parallax">Parallaktische Scroll-Effekt im Eyectacher verwenden</option>
+		<option id="shadow">Navigation mit Schattenwurf</option>
+		<slider id="width" min="1100" max="1600" >Gesamtbreite des Layouts</slider>
+		<radio id="commonnavhierarchical" options="page=Seiten|topic=Ordner und Seiten">Navigationsstil „Allgemeine Seiten“</radio>
+		<radio id="mainlayout" options="cols=Gleich breite Spalten|sidebars=„Inhalt“ plus schmalere Marginalspalten „Links“ und „Rechts“">Aufteilung „Inhalt“, „Links“ und „Rechts“</radio>
+	</config>
+	<config type="NGPluginLayoutConfigParagraphStreams" id="hiddenstreams" caption="Absatz-Bereiche" />
+	<config type="NGPluginLayoutConfigHTML" id="footer" caption="Fußzeile" />
+</configs>

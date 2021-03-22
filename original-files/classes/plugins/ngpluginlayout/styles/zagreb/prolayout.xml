@@ -1,0 +1,45 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">zagreb</string>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7e130f0901086e5c200000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="logosmall">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.down">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.downstyle">downthick</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.galeryinheritance">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.mainlayout">cols</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.mutevideo">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.navstyle">navdefault</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.parallax">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.small">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.speed">500</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.up">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.upstyle">upbold</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.userscalable">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.wait">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.waitstyle">waitedge</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.footer">f5f7fa</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background.header">f5f7fa</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.background">5e6f80</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.font">a1bed9</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.hover">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.common.link">afceeb</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.active">468dcf</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.bright">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.dark">5e6f80</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.overlay.bright">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.overlay.dark">000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.up">8aa3ba</text>
+    <text name="config" lang="--" domain="LayoutPro" index="slider.autoprogress">10</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

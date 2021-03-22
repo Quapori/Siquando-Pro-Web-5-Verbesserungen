@@ -1,0 +1,67 @@
+<object class="NGPluginLayoutProSettings" version="1.0">
+  <properties>
+    <string name="template" lang="--" domain="LayoutPro">cetera</string>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.address">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.email">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.facebook">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.googleplus">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.instagram">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.linkedin">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.phone">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.phoneitu">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.pinterest">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.twitter">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.xing">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="contact.youtube">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="eyecatcher">w7e27140a142862ed700000000000000</text>
+    <text name="config" lang="--" domain="LayoutPro" index="footer.html">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="hiddenstreams">header,sidebarleft,footer</text>
+    <text name="config" lang="--" domain="LayoutPro" index="logo">
+    </text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.breadcrumbs">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.commonnavhierarchical">dual</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.cropratio.1">Ratio16by9</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.cropratio.2">Ratio16by9</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.cropratio.3">Ratio16by9</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.galeryinheritance">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.includehome">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.navpictures.1">false</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.navpictures.2">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.navpictures.3">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.search">true</text>
+    <text name="config" lang="--" domain="LayoutPro" index="options.width">1400</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.background">e3e6eb</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.boxborder">d3d8dd</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs">6184b0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.breadcrumbs.hover">374b63</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.bullets">444444</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.contact">444444</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.contact.hover">6184b0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.contentbackground">ffffff</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.footerhover">6184b0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.footerlinks">444444</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.footertext">444444</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.active">374b63</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.nav.open">6184b0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.navhover">6184b0</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.navtext">444444</text>
+    <text name="config" lang="--" domain="LayoutPro" index="palette.searchtext">444444</text>
+    <text name="config" lang="--" domain="LayoutPro" index="slider.autoprogress">9</text>
+    <string name="name" lang="--" domain="name" unique="true">LayoutPro</string>
+    <string name="caption" lang="++" domain="name">
+    </string>
+  </properties>
+</object>

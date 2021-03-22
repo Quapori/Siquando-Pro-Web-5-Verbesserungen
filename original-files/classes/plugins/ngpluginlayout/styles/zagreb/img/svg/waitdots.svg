@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="48" height="48" viewBox="0 0 48.00 48.00" enable-background="new 0 0 48.00 48.00" xml:space="preserve">
+	<ellipse fill="#{colora}" fill-opacity="1" stroke-linejoin="round" cx="24" cy="4" rx="3" ry="3"/>
+	<ellipse fill="#{colora}" fill-opacity="1" stroke-linejoin="round" cx="24" cy="44" rx="3" ry="3"/>
+	<ellipse fill="#{colora}" fill-opacity="1" stroke-linejoin="round" cx="44" cy="24" rx="3" ry="3"/>
+	<ellipse fill="#{colora}" fill-opacity="1" stroke-linejoin="round" cx="4" cy="24" rx="3" ry="3"/>
+	<path fill="#{colora}" fill-opacity="1" stroke-linejoin="round" d="M 7.73654,7.73655C 8.90811,6.56497 10.8076,6.56498 11.9792,7.73655C 13.1508,8.90812 13.1508,10.8076 11.9792,11.9792C 10.8076,13.1508 8.90812,13.1508 7.73654,11.9792C 6.56497,10.8076 6.56497,8.90812 7.73654,7.73655 Z "/>
+	<path fill="#{colora}" fill-opacity="1" stroke-linejoin="round" d="M 36.0208,36.0208C 37.1924,34.8492 39.0919,34.8492 40.2634,36.0208C 41.435,37.1924 41.435,39.0919 40.2634,40.2635C 39.0919,41.435 37.1924,41.435 36.0208,40.2635C 34.8492,39.0919 34.8492,37.1924 36.0208,36.0208 Z "/>
+	<path fill="#{colora}" fill-opacity="1" stroke-linejoin="round" d="M 40.2635,7.73655C 41.435,8.90812 41.435,10.8076 40.2635,11.9792C 39.0919,13.1508 37.1924,13.1508 36.0208,11.9792C 34.8492,10.8076 34.8492,8.90812 36.0208,7.73655C 37.1924,6.56498 39.0919,6.56497 40.2635,7.73655 Z "/>
+	<path fill="#{colora}" fill-opacity="1" stroke-linejoin="round" d="M 11.9792,36.0208C 13.1508,37.1924 13.1508,39.0919 11.9792,40.2635C 10.8076,41.435 8.90811,41.435 7.73654,40.2635C 6.56497,39.0919 6.56497,37.1924 7.73654,36.0208C 8.90811,34.8492 10.8076,34.8492 11.9792,36.0208 Z "/>
+</svg>

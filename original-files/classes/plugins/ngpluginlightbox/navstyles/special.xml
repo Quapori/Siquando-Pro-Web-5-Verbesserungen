@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="special" caption="Spezial" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="blueplastic.png" uid="blueplastic" caption="Blaues Plastik" />
+	<style preview="greenplastic.png" uid="greenplastic" caption="Grünes Plastik" />
+	<style preview="threed.png" uid="threed" caption="Pfeil" />
+	<style preview="neon.png" uid="neon" caption="Neon" />
+	<style preview="half.png" uid="half" caption="Halbkreise" />
+	<style preview="halfrect.png" uid="halfrect" caption="Halbe Rechtecke" />
+</styles>

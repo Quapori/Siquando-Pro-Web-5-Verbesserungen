@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="none.png" uid="" caption="(Kein Symbol)" />
+	<style preview="link.png" uid="link" caption="Verknüpfung A" />
+    <style preview="linkalt.png" uid="linkalt" caption="Verknüpfung B" />
+	<style preview="folder.png" uid="folder" caption="Ordner" />
+	<style preview="favorite.png" uid="favorite" caption="Favorit" />
+	<style preview="globe.png" uid="globe" caption="Globus" />
+	<style preview="check.png" uid="check" caption="Häkchen" />
+	<style preview="calendar.png" uid="calendar" caption="Kalender" />
+	<style preview="star.png" uid="star" caption="Sternchen" />
+    <style preview="stars.png" uid="stars" caption="Sterne" />
+	<style preview="search.png" uid="search" caption="Suche" />
+    <style preview="settings.png" uid="settings" caption="Einstellungen" />
+	<style preview="ok.png" uid="ok" caption="Ja" />
+    <style preview="no.png" uid="no" caption="Nein" />
+	<style preview="endless.png" uid="endless" caption="Endlos" />
+    <style preview="net.png" uid="net" caption="Netzwerk" />
+    <style preview="bracket.png" uid="bracket" caption="Klammer" />
+    <style preview="menu.png" uid="menu" caption="Menü" />
+    <style preview="vmore.png" uid="vmore" caption="Mehr (vertikal)" />
+    <style preview="hmore.png" uid="hmore" caption="Mehr (horizontal)" />
+    <style preview="arrow.png" uid="arrow" caption="Pfeil" />
+    <style preview="nav.png" uid="nav" caption="Navigation" />
+	<style preview="important.png" uid="important" caption="Wichtig" />
+    <style preview="external.png" uid="external" caption="Extern" />
+    <style preview="forbidden.png" uid="forbidden" caption="Verboten" />
+    <style preview="plus.png" uid="plus" caption="Plus" />
+    <style preview="modules.png" uid="modules" caption="Module" />
+    <style preview="error.png" uid="error" caption="Fehler" />
+    <style preview="image.png" uid="image" caption="Abbildung" />
+    <style preview="group.png" uid="group" caption="Gruppe" />
+    <style preview="man.png" uid="man" caption="Mann" />
+    <style preview="woman.png" uid="woman" caption="Frau" />
+    <style preview="toc.png" uid="toc" caption="Inhalt" />
+    <style preview="stop.png" uid="stop" caption="Stop!" />
+    <style preview="exit.png" uid="exit" caption="Ausgang" />
+</styles>

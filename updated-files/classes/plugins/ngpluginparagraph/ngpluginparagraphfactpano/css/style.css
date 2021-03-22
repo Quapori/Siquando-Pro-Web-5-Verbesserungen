@@ -1,0 +1,102 @@
+.sqrfactpano {
+	position: relative;
+}
+
+.sqrfactpanoback {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+	overflow: hidden;
+}
+
+.sqrfactpanoimg {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.sqrfactpanoback .sqrfactpanooverlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.sqrfactpanostage {
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 40px 40px;
+	transition: opacity 0.8s, transform 0.8s;
+	z-index: 2;
+	position: relative;
+}
+
+.sqrfactpanostage>h2 {
+	font-weight: normal;
+	margin: 0;
+	padding: 20px 40px;
+	text-align: center;
+	line-height: 1.6;
+}
+
+.sqrfactpanostage>p {
+	font-weight: normal;
+	margin: 0;
+	padding: 20px 40px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 1.6;
+}
+
+.sqrfactpanoanimationfade .sqrfactpanofadein {
+	opacity: 0;
+}
+
+.sqrfactpanoanimationup .sqrfactpanofadein {
+	opacity: 0;
+	transform: translate3d(0, 40px, 0);
+}
+
+.sqrfactpanoanimationdown .sqrfactpanofadein {
+	opacity: 0;
+	transform: translate3d(0, -40px, 0);
+}
+
+.sqrfactpanoanimationleft .sqrfactpanofadein {
+	opacity: 0;
+	transform: translate3d(40px, 0, 0);
+}
+
+.sqrfactpanoanimationright .sqrfactpanofadein {
+	opacity: 0;
+	transform: translate3d(-40px, 0, 0);
+}
+
+.sqrfactpanoitems {
+	padding: 20px 0;
+	text-align: center;
+}
+
+.sqrfactpanoitems a {
+	display: inline-block;
+	text-decoration: none;
+	transition: background-color 1s;
+	margin: 10px;
+	line-height: 100%;
+}
+
+.sqrfactpanoitems img {
+	display: inline-block;
+	vertical-align: top;
+	border: 0;
+}
+
+@media screen and (max-width: 767px) {
+.sqr .sqrfactpanostage {
+	padding: 20px;
+}
+}

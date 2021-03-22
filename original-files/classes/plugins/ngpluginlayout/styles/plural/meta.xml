@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style>
+  <id>plural</id>
+  <caption>Plural</caption>
+  <type>NGPluginLayoutPro</type>
+  <preview>preview_skate.jpg</preview>
+  <product>SIQUANDO Pro 5</product>
+  <author>SIQUANDO GmbH &amp; Co. KG</author>
+  <initialversion>3.0</initialversion>
+  <responsive>true</responsive>
+  <summary>Plural kombiniert eine Zweistufen-Navigation mit einem Direkt-Menü zu einem übersichtlichen Erscheinungsbild.</summary>
+</style>

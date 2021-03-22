@@ -1,0 +1,12 @@
+.teasersidepicture
+{
+	display: block;
+	float: left;
+	height: auto;
+	box-sizing: border-box;
+}
+
+.teaserblock
+{
+	padding-bottom: 10px;
+}

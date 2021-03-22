@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles uid="basic" caption="Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<style preview="default_preview.png" uid="default" caption="(Standard)" />
+	<style preview="defaultblack.png" uid="defaultblack" caption="Standard, dunkel" />
+	<style preview="circleblack.png" uid="circleblack" caption="Kreis, dunkel" />
+	<style preview="circlewhite.png" uid="circlewhite" caption="Kreis, hell" />
+	<style preview="circlestroke.png" uid="circlestroke" caption="Kreis, hell umrandet" />
+	<style preview="circlestrokedark.png" uid="circlestrokedark" caption="Kreis, dunkel umrandet" />
+	<style preview="arrowblack.png" uid="arrowblack" caption="Pfeil, dunkel" />
+	<style preview="arrowwhite_preview.png" uid="arrowwhite" caption="Pfeil, hell" />
+	<style preview="nextblack.png" uid="nextblack" caption="Weiter, dunkel" />
+	<style preview="nextwhite_preview.png" uid="nextwhite" caption="Weiter, hell" />
+</styles>

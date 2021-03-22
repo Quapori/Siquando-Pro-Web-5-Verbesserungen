@@ -1,0 +1,1 @@
+#sqrpluginpictures{$uid} li div div span { padding:{$padding}px;font-size:{$size};{if $wide}letter-spacing:1px;{/if}{if $bold}font-weight: bold;{/if}{if $italic}font-style: italic;{/if}{if $uppercase}text-transform:uppercase;{/if}{if $shadow}text-shadow:1px 1px 3px rgba(0,0,0,0.5);{/if} }
