@@ -38,9 +38,7 @@ Alternativtext. Suchmaschinen benutzen dieses Attribut, um den Bildinhalt zu erk
 direkt ausgelesen werden können. Für sehbehinderte Nutzer trägt das ALT-Attribut zur Barrierefreiheit bei. Sie lassen
 sich Webseiten mit einem Screenreader vorlesen. Dabei werden auch die ALT-Tags verwendet.
 
-### [6. Ausgehende Links sichern durch den Zusatz _rel=&quot;noopener
-
-noreferrer&quot;_](6.rel.attribute.externallinks.md)
+### [6. Ausgehende Links sichern durch den Zusatz _rel=&quot;noopener noreferrer&quot;_](6.rel.attribute.externallinks.md)
 
 Lange Zeit war es Standard externe Links mit dem Attribut [target] (Ziel) und dem Wert (Value) [_blank] zu versehen.
 Dies informiert Browser darüber, dass der Link automatisch ein neues Tab (Browser-Fenster) öffnet um den verlinkten
