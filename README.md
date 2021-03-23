@@ -17,5 +17,5 @@ gefallen.
 6. Ausgehende Links werde nicht gesichert durch den Zusatz _rel=&quot;noopener noreferrer&quot;_
 7. PNG-Bilddateien werden nicht als WEBP-Dateien ausgegeben
 8. doppelte Einträge in **classes/includes.php**
-    * [Zeile 33](updated-files/classes/includes.php#L33) > Duplikat von Zeile 9
-    * [Zeile 49](updated-files/classes/includes.php#L49) > Duplikat von Zeile 7
+    * [Zeile 33](original-files/classes/includes.php#L33) > Duplikat von Zeile 9
+    * [Zeile 49](original-files/classes/includes.php#L49) > Duplikat von Zeile 7
