@@ -16,3 +16,6 @@ gefallen.
    * [Sucherergebnisse nach falsch befüllten _alt=&quot;&quot;_-Attributen in *.tpl Dateien](docs/2-SUCHERGEBNISSE.md)
 6. Ausgehende Links werde nicht gesichert durch den Zusatz _rel=&quot;noopener noreferrer&quot;_
 7. PNG-Bilddateien werden nicht als WEBP-Dateien ausgegeben
+8. doppelte Einträge in **classes/includes.php**
+    * [Zeile 33](updated-files/classes/includes.php#L33) > Duplikat von Zeile 9
+    * [Zeile 49](updated-files/classes/includes.php#L49) > Duplikat von Zeile 7
