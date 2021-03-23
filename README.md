@@ -3,7 +3,7 @@
 Ich habe hier mal eine Liste mit Mängeln zusammen gestellt, welche ich persönlich gefunden habe und mir persönlich nicht
 gefallen.
 ***
-[Hier könnt ihr meine Anleitungen nachlesen wie ich die Fehler behoben habe](/wiki)
+[Hier könnt ihr meine Anleitungen nachlesen wie ich die Fehler behoben habe](wiki)
 ***
 ## Ab hier beginnt die Liste für die Technik/Programmierabteilung von Siquando
 
