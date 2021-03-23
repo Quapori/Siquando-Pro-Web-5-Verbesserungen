@@ -14,5 +14,5 @@ gefallen.
 5. fehlende oder fehlerhafte _alt=&quot;&quot;_ Attribute bei Bildern
    * [Suchergebnisse nach fehlenden _alt=&quot;&quot;_-Attributen in *.tpl Dateien](docs/1-SUCHERGEBNISSE.md)
    * [Sucherergebnisse nach falsch befüllten _alt=&quot;&quot;_-Attributen in *.tpl Dateien](docs/2-SUCHERGEBNISSE.md)
-6. Ausgehende Links sichern durch den Zusatz _rel=&quot;noopener noreferrer&quot;_
+6. Ausgehende Links werde nicht gesichert durch den Zusatz _rel=&quot;noopener noreferrer&quot;_
 7. PNG-Bilddateien werden nicht als WEBP-Dateien ausgegeben
