@@ -1,4 +1,4 @@
-# Siquando Pro Web 5 (1205) - Fehlerliste
+# Siquando Pro Web 5 (1204) - Fehlerliste
 
 Ich habe hier mal eine Liste mit Mängeln zusammen gestellt, welche ich persönlich gefunden habe und mir persönlich nicht
 gefallen.
