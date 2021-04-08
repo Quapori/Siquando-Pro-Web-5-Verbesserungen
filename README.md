@@ -1,4 +1,19 @@
-# Siquando Pro Web 5 (1204) - Fehlerliste
+# Siquando Pro Web 5 - Fehlerliste
+
+| Komponenten             | Version    |
+|-------------------------|------------|
+| NGAppPermissions        | 5.0.0.1000 |
+| NGBackupConnectorFile   | 5.0.0.1200 |
+| NGBackupConnectorServer | 5.0.0.1200 |
+| NGBackupController      | 5.0.0.1200 |
+| NGPackage               | 5.0.0.1000 |
+| NGUploadConnectorFile   | 5.0.0.1000 |
+| NGUploadConnectorFTP    | 5.0.0.1000 |
+| NGUploadConnectorSFTP   | 5.0.0.1000 |
+| NGUploadController      | 5.0.0.1000 |
+| ProjectCentral          | 5.0.0.1001 |
+| SiquandoNGConnector     | 5.0.0.1204 |
+| SiquandoNGConnectorUI   | 5.0.0.1204 |
 
 Ich habe hier mal eine Liste mit Mängeln zusammen gestellt, welche ich persönlich gefunden habe und mir persönlich nicht
 gefallen.
