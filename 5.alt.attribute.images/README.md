@@ -1,1 +1,1 @@
-# wurde ins Verzeichnis [docs](../docs/5.alt.attribute.images.md) verschoben.
+# wurde ins Wiki [docs](../wiki/5.-fehlende-oder-fehlerhafte-alt=""-Attribute-bei-Bildern) verschoben.
