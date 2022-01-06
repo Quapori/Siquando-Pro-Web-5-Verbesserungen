@@ -12,8 +12,8 @@
 | NGUploadConnectorSFTP   | 5.0.0.1000 |
 | NGUploadController      | 5.0.0.1000 |
 | ProjectCentral          | 5.0.0.1001 |
-| SiquandoNGConnector     | 5.0.0.1204 |
-| SiquandoNGConnectorUI   | 5.0.0.1204 |
+| SiquandoNGConnector     | 5.0.0.1205 |
+| SiquandoNGConnectorUI   | 5.0.0.1207 |
 
 Ich habe hier mal eine Liste mit Mängeln zusammen gestellt, welche ich persönlich gefunden habe und mir persönlich nicht
 gefallen.
