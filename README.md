@@ -27,8 +27,8 @@ gefallen.
 3. zu viele Requests durch CSS- & JS-Dateien
 4. fehlende Preload Funktion von Schriftdateien
 5. fehlende oder fehlerhafte _alt=&quot;&quot;_ Attribute bei Bildern
-   * [Suchergebnisse nach fehlenden _alt=&quot;&quot;_-Attributen in *.tpl Dateien](docs/1-SUCHERGEBNISSE.md)
-   * [Sucherergebnisse nach falsch befüllten _alt=&quot;&quot;_-Attributen in *.tpl Dateien](docs/2-SUCHERGEBNISSE.md)
+   * [Suchergebnisse nach fehlenden _alt=&quot;&quot;_-Attributen in *.tpl Dateien](../../wiki/5.-fehlende-oder-fehlerhafte-alt=%22%22-Attribute-bei-Bildern#suchergebnisse-nach-fehlenden-alt-attributen-in-tpl-dateien)
+   * Sucherergebnisse nach falsch befüllten _alt=&quot;&quot;_-Attributen in *.tpl Dateien
 6. Ausgehende Links werde nicht gesichert durch den Zusatz _rel=&quot;noopener noreferrer&quot;_
 7. PNG-Bilddateien werden nicht als WEBP-Dateien ausgegeben
 8. doppelte Einträge in **classes/includes.php**
