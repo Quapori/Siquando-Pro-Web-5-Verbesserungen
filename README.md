@@ -29,7 +29,7 @@ gefallen.
 5. fehlende oder fehlerhafte _alt=&quot;&quot;_ Attribute bei Bildern
    * [Suchergebnisse nach fehlenden _alt=&quot;&quot;_-Attributen in *.tpl Dateien](../../wiki/5.-fehlende-oder-fehlerhafte-alt=%22%22-Attribute-bei-Bildern#suchergebnisse-nach-fehlenden-alt-attributen-in-tpl-dateien)
    * Sucherergebnisse nach falsch befüllten _alt=&quot;&quot;_-Attributen in *.tpl Dateien
-6. Ausgehende Links werde nicht gesichert durch den Zusatz _rel=&quot;noopener noreferrer&quot;_
+6. Ausgehende Links werden nicht gesichert durch den Zusatz des Attributes _rel=&quot;noopener noreferrer&quot;_
 7. PNG-Bilddateien werden nicht als WEBP-Dateien ausgegeben
 8. doppelte Einträge in **classes/includes.php**
     * [Zeile 33](original-files/classes/includes.php#L33) > Duplikat von Zeile 9
